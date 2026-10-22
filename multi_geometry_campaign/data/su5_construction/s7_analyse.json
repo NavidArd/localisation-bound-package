@@ -1,0 +1,251 @@
+{
+ "models": 2912,
+ "parsed": 7,
+ "no_smconfig": 2905,
+ "kY": {
+  "5/3": 7
+ },
+ "groups": {
+  "SU(3)_C x SU(2)_L and U(1)_Y": 7
+ },
+ "net_gen": {},
+ "gen3": [],
+ "ten_cells": {},
+ "ten_record_mult": {},
+ "ten_state_mult": {},
+ "ten_hidden_nonsinglet": [],
+ "doubled": [],
+ "per_model": [
+  {
+   "model": "CB1208",
+   "kY": "5/3",
+   "gauge_sm": "SU(3)_C x SU(2)_L and U(1)_Y",
+   "gauge_test": "SU(3) x SU(2) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7",
+   "nets": {
+    "sY=1,sC=1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": -3
+    },
+    "sY=1,sC=-1": {
+     "Q": -3,
+     "uc": -3,
+     "dc": 3,
+     "ec": -3
+    },
+    "sY=-1,sC=1": {
+     "Q": 3,
+     "uc": 3,
+     "dc": -3,
+     "ec": 3
+    },
+    "sY=-1,sC=-1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": 3
+    }
+   },
+   "loophole_cells": []
+  },
+  {
+   "model": "CB1741",
+   "kY": "5/3",
+   "gauge_sm": "SU(3)_C x SU(2)_L and U(1)_Y",
+   "gauge_test": "SU(3) x SU(2) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7",
+   "nets": {
+    "sY=1,sC=1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": -3
+    },
+    "sY=1,sC=-1": {
+     "Q": -3,
+     "uc": -3,
+     "dc": 3,
+     "ec": -3
+    },
+    "sY=-1,sC=1": {
+     "Q": 3,
+     "uc": 3,
+     "dc": -3,
+     "ec": 3
+    },
+    "sY=-1,sC=-1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": 3
+    }
+   },
+   "loophole_cells": []
+  },
+  {
+   "model": "CB1753",
+   "kY": "5/3",
+   "gauge_sm": "SU(3)_C x SU(2)_L and U(1)_Y",
+   "gauge_test": "SU(3) x SU(2) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7",
+   "nets": {
+    "sY=1,sC=1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": -3
+    },
+    "sY=1,sC=-1": {
+     "Q": -3,
+     "uc": -3,
+     "dc": 3,
+     "ec": -3
+    },
+    "sY=-1,sC=1": {
+     "Q": 3,
+     "uc": 3,
+     "dc": -3,
+     "ec": 3
+    },
+    "sY=-1,sC=-1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": 3
+    }
+   },
+   "loophole_cells": []
+  },
+  {
+   "model": "CB2146",
+   "kY": "5/3",
+   "gauge_sm": "SU(3)_C x SU(2)_L and U(1)_Y",
+   "gauge_test": "SU(3) x SU(2) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7",
+   "nets": {
+    "sY=1,sC=1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": 3
+    },
+    "sY=1,sC=-1": {
+     "Q": 3,
+     "uc": 3,
+     "dc": -3,
+     "ec": 3
+    },
+    "sY=-1,sC=1": {
+     "Q": -3,
+     "uc": -3,
+     "dc": 3,
+     "ec": -3
+    },
+    "sY=-1,sC=-1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": -3
+    }
+   },
+   "loophole_cells": []
+  },
+  {
+   "model": "CB2158",
+   "kY": "5/3",
+   "gauge_sm": "SU(3)_C x SU(2)_L and U(1)_Y",
+   "gauge_test": "SU(3) x SU(2) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7",
+   "nets": {
+    "sY=1,sC=1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": 3
+    },
+    "sY=1,sC=-1": {
+     "Q": 3,
+     "uc": 3,
+     "dc": -3,
+     "ec": 3
+    },
+    "sY=-1,sC=1": {
+     "Q": -3,
+     "uc": -3,
+     "dc": 3,
+     "ec": -3
+    },
+    "sY=-1,sC=-1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": -3
+    }
+   },
+   "loophole_cells": []
+  },
+  {
+   "model": "CB2759",
+   "kY": "5/3",
+   "gauge_sm": "SU(3)_C x SU(2)_L and U(1)_Y",
+   "gauge_test": "SU(3) x SU(2) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7",
+   "nets": {
+    "sY=1,sC=1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": 3
+    },
+    "sY=1,sC=-1": {
+     "Q": 3,
+     "uc": 3,
+     "dc": -3,
+     "ec": 3
+    },
+    "sY=-1,sC=1": {
+     "Q": -3,
+     "uc": -3,
+     "dc": 3,
+     "ec": -3
+    },
+    "sY=-1,sC=-1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": -3
+    }
+   },
+   "loophole_cells": []
+  },
+  {
+   "model": "CB0713",
+   "kY": "5/3",
+   "gauge_sm": "SU(3)_C x SU(2)_L and U(1)_Y",
+   "gauge_test": "SU(3) x SU(2) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7",
+   "nets": {
+    "sY=1,sC=1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": -3
+    },
+    "sY=1,sC=-1": {
+     "Q": -3,
+     "uc": -3,
+     "dc": 3,
+     "ec": -3
+    },
+    "sY=-1,sC=1": {
+     "Q": 3,
+     "uc": 3,
+     "dc": -3,
+     "ec": 3
+    },
+    "sY=-1,sC=-1": {
+     "Q": 0,
+     "uc": 0,
+     "dc": 0,
+     "ec": 3
+    }
+   },
+   "loophole_cells": []
+  }
+ ]
+}

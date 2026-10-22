@@ -1,0 +1,41 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Navid Ardakanian
+
+Applies to the data in this package -- everything under
+`multi_geometry_campaign/data/`, `results_deposited/`, `regeneration/`,
+`construction/`, `controls/`, `exclusions/`, and `alphabet_survey/data/` --
+together with this package's documentation (README.md, DEFINITIONS.md,
+dataflow.md, claims.json, claims.md, CHANGELOG.md, manifest.json and the
+per-directory READMEs and NOTICEs authored for this package).
+The software is separately licensed; see LICENSE-CODE.txt.
+
+EXCEPTIONS -- the following are NOT covered by this licence:
+
+  * `orbifolder-1.2.1/` -- files redistributed unmodified from the orbifolder
+    1.2.1 distribution (COPYING, AUTHORS, README, configure.ac, Dockerfile and
+    seven Geometry files). These are the work of the orbifolder authors, are
+    covered by the GNU GPL v3 (`orbifolder-1.2.1/COPYING`), and carry their own
+    NOTICE.md.
+
+  * `environment/orbifolder_patches/patched_geometry_files/` -- orbifolder
+    geometry files carrying local modifications. Modified GPL v3 works; they
+    remain under GPL v3 and carry their own NOTICE.md. They are deposited for
+    completeness and are NOT on this paper's critical path.
+
+  * `multi_geometry_campaign/data/literature/parr2020_full/` -- the ancillary
+    data files of arXiv:2003.01732 (E. Parr, P. K. S. Vaudrevange, M. Wimmer,
+    "Predicting the orbifold origin of the MSSM"). These are the work of those
+    authors, not of this paper's author, and are redistributed under the terms
+    the arXiv ancillary files carry. See the NOTICE.md in that directory.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to share and adapt the covered material for any purpose, including
+commercially, provided you give appropriate credit, provide a link to the
+licence, and indicate if changes were made.
+
+Attribution:
+
+  N. Ardakanian, reproduction package for "A localisation bound on
+  Standard-Model matter at orbifold fixed points", version 2.0 (2026).

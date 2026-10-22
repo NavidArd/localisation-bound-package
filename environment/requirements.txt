@@ -1,0 +1,31 @@
+# Python requirements for the Paper A reproduction package.
+#
+# The analysis needs exactly one third-party package.  Everything else is the
+# standard library: fractions, gzip, json, re, os, sys, math, cmath, itertools,
+# collections, multiprocessing.
+#
+# The arithmetic that carries the results -- budgets, weight norms, R, and every
+# threshold -- is fractions.Fraction throughout, never floating point.  numpy is
+# used for integer/rational vector bookkeeping over the 16-dimensional gauge
+# lattice, not for numerical linear algebra, so no result depends on the BLAS
+# implementation or on the number of worker processes.
+#
+# Python 3.10 or later.  The deposited runs and the reproduction runs recorded in
+# REPRODUCTION.md used CPython 3.12.0 on Windows 11 (64-bit).
+#
+# Install:   pip install -r requirements.txt
+
+numpy>=1.24        # version used for the recorded runs: 2.2.4
+
+# NOT required, and not imported anywhere in this package:
+#   scipy, sympy, pandas, matplotlib, mpmath, networkx
+#
+# Before running anything, pin the BLAS thread count -- on Windows with
+# multiprocessing, leaving it unset causes worker oversubscription.  It affects
+# wall time only, never a result:
+#
+#   Windows:  set OMP_NUM_THREADS=1 & set MKL_NUM_THREADS=1 & set OPENBLAS_NUM_THREADS=1
+#   Unix:     export OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1
+#
+# Every script in this package also sets these at module top, before importing
+# numpy, so the shell setting is belt-and-braces.

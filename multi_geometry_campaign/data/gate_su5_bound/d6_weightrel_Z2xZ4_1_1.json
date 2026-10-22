@@ -1,0 +1,28 @@
+{
+ "geometry": "Z2xZ4_1_1",
+ "n_files": 58,
+ "models": 10925,
+ "cells_Qe": 17555,
+ "cells_ue": 22375,
+ "cells_111": 17555,
+ "mu_tY_nonzero": 0,
+ "mu_not_in_lattice": 0,
+ "mu_norm2_odd": 0,
+ "T3_checked": 2840,
+ "T3_pass": 2840,
+ "T3_fail": 0,
+ "T3_nobasis": 0,
+ "d_Qe": {
+  "2": 17555
+ },
+ "d_ue": {
+  "4": 22375
+ },
+ "d_Qu": {
+  "2": 17555
+ },
+ "mu_norm2": {
+  "4": 17555
+ },
+ "fail_examples": []
+}

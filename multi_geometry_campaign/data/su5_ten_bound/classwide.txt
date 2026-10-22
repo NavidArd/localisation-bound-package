@@ -1,0 +1,8 @@
+geometry     #tw    B_max     B_min       10-doubling permitted in sectors (B >= 17/20)
+Z2xZ4_1_1    7      13/16     11/16       NONE  -> bound holds in every twisted sector
+Z3xZ6_1_1    17     31/36     2/3         (0, 1), (0, 5)
+Z4xZ4_1_1    15     13/16     11/16       NONE  -> bound holds in every twisted sector
+Z3xZ3_1_1    8      7/9       2/3         NONE  -> bound holds in every twisted sector
+Z6-I_1_1     5      3/4       2/3         NONE  -> bound holds in every twisted sector
+Z6-II_1_1    5      7/9       25/36       NONE  -> bound holds in every twisted sector
+Z4_1_1       3      3/4       11/16       NONE  -> bound holds in every twisted sector

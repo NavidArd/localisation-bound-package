@@ -1,0 +1,9 @@
+NU1 {'matches': ['AB02'], 'nets': {'Q': 0, 'uc': 0, 'ec': 0, 'dc': 0, 'L': 0}, 'n_records': 119}
+NU2 {'matches': ['AB01'], 'nets': {'Q': -1, 'uc': -1, 'ec': 1, 'dc': 8, 'L': -17}, 'n_records': 153}
+NU3 {'matches': ['AB00'], 'nets': {'Q': 3, 'uc': -3, 'ec': 1, 'dc': -3, 'L': -8}, 'n_records': 147}
+NU4 {'matches': ['AB11'], 'nets': {'Q': 0, 'uc': 0, 'ec': 0, 'dc': 0, 'L': 0}, 'n_records': 142}
+NU5 {'matches': ['AB22'], 'nets': {'Q': 3, 'uc': -3, 'ec': -1, 'dc': -12, 'L': 8}, 'n_records': 154}
+NU6 {'matches': ['AB21'], 'nets': {'Q': 1, 'uc': 1, 'ec': -1, 'dc': -8, 'L': 17}, 'n_records': 164}
+NU7 {'matches': ['AB12'], 'nets': {'Q': -3, 'uc': 3, 'ec': 1, 'dc': 12, 'L': -8}, 'n_records': 132}
+NU8 {'matches': ['AB20'], 'nets': {'Q': 0, 'uc': 0, 'ec': 0, 'dc': 0, 'L': 0}, 'n_records': 132}
+NU9 {'matches': ['AB10'], 'nets': {'Q': -3, 'uc': 3, 'ec': -1, 'dc': 3, 'L': 8}, 'n_records': 136}

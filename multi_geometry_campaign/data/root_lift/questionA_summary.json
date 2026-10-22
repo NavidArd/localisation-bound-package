@@ -1,0 +1,45 @@
+{
+ "per_geometry": {
+  "Z3xZ6_1_1": {
+   "twisted_constructing_elements": 100,
+   "lift_forced_at": 5,
+   "sectors_where_lift_holds_at_every_element": [
+    "(0, 1)",
+    "(0, 5)"
+   ]
+  },
+  "Z2xZ4_1_1": {
+   "twisted_constructing_elements": 74,
+   "lift_forced_at": 0,
+   "sectors_where_lift_holds_at_every_element": []
+  },
+  "Z4xZ4_1_1": {
+   "twisted_constructing_elements": 123,
+   "lift_forced_at": 0,
+   "sectors_where_lift_holds_at_every_element": []
+  },
+  "Z3xZ3_1_1": {
+   "twisted_constructing_elements": 108,
+   "lift_forced_at": 0,
+   "sectors_where_lift_holds_at_every_element": []
+  },
+  "Z6-I_1_1": {
+   "twisted_constructing_elements": 42,
+   "lift_forced_at": 1,
+   "sectors_where_lift_holds_at_every_element": []
+  },
+  "Z6-II_1_1": {
+   "twisted_constructing_elements": 44,
+   "lift_forced_at": 0,
+   "sectors_where_lift_holds_at_every_element": []
+  },
+  "Z4_1_1": {
+   "twisted_constructing_elements": 42,
+   "lift_forced_at": 0,
+   "sectors_where_lift_holds_at_every_element": []
+  }
+ },
+ "n_ce": 533,
+ "n_lift": 6,
+ "scope": "The signature is claimed only where the lift is forced by the geometry AND that element is the sector's only one: T(0,1) and T(0,5) of Z3xZ6_1_1. On Z2xZ4_1_1 the lift is forced nowhere and no statement of the signature's form may be made."
+}

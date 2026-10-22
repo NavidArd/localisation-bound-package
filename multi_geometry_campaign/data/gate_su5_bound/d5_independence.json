@@ -1,0 +1,279 @@
+{
+ "gate": "gate_su5_bound",
+ "specialist": "D5 -- independence audit, quantity audit, spot-check, cell key, excluded set, I1",
+ "date": "2026-08-20",
+ "under_review": [
+  "results/su5_ten_bound_findings.md 6.1, 6.2",
+  "code/su5_ten_bound/verify.py"
+ ],
+ "scripts": [
+  "code/gate_su5_bound/d5_excluded.py",
+  "code/gate_su5_bound/d5_states.py",
+  "code/gate_su5_bound/d5_spotcheck.py",
+  "code/gate_su5_bound/d5_cellkey.py",
+  "code/gate_su5_bound/d5_keysplit.py",
+  "code/gate_su5_bound/d5_keycount.py",
+  "code/gate_su5_bound/d5_hidden.py"
+ ],
+
+ "task1_independence": {
+  "claim_quoted": "The gate's two cell totals are reproduced **exactly by an independent pipeline** that shares no code with the census beyond the orbifolder output parser.",
+  "claim_location": "results/su5_ten_bound_findings.md line 249",
+  "verdict": "FALSE",
+  "shared_with_certified_census_Z2xZ4": [
+   "z24sw_lib.split_models        (verify.py:132)",
+   "z24sw_lib.parse_spectrum      (verify.py:136)  -- parser",
+   "z24sw_lib.parse_gauge_factors (verify.py:137)  -- parser",
+   "z24sw_lib.parse_smconfig      (verify.py:138)  -- parser",
+   "z24sw_lib.observable_positions(verify.py:146)  -- SM IDENTIFICATION (a3, a2, sY closure)",
+   "z24sw_lib.role_census         (verify.py:150)  -- HYPERCHARGE ORIENTATION + ROLE LABELS",
+   "cell key (r['kl'], r['fp'])   (verify.py:172)  -- from the shared parser's records"
+  ],
+  "shared_with_certified_census_Z3xZ6": [
+   "z36sw_lib.split_models        (verify.py:132)",
+   "z36sw_lib.parse_spectrum      (verify.py:152)",
+   "z36sw_lib.parse_gauge         (verify.py:153)",
+   "z36sw_lib.observable_positions(verify.py:157)",
+   "z36sw_lib.role_census         (verify.py:162)",
+   "z36sw_lib.dot                 (implicitly, inside the above)"
+  ],
+  "certified_measurement_code": "code/gate_z2xz4_construct/g1d_crosstab.py::census_block (lines 33-52) + g1f_totals.py; data/gate_z2xz4_construct/{g1d_crosstab.json,g1f_totals.json}",
+  "certified_call_sequence": [
+   "SW.parse_spectrum(pre, M=2, N=4)",
+   "SW.parse_gauge_factors(blk)",
+   "SW.parse_smconfig(blk) -> cfgs[0]",
+   "SW.observable_positions(spec, tY, factors, printed)",
+   "SW.role_census(spec, tY, *pos)",
+   "nf[(kl, fp, role)] += 1"
+  ],
+  "identical_layers": "split_models, parse_spectrum, parse_gauge_factors, parse_smconfig, the cfgs[0] selection, observable_positions, role_census, and the (sector, raw n_a) key. Byte-for-byte the same functions, called in the same order, with the same arguments.",
+  "fresh_layers": [
+   "code/su5_ten_bound/s5lib.py -- E8xE8 root system, local-group analysis, simple_roots/_components/_classify, proj_norm2 (all new for this phase)",
+   "the SM Cartan-span construction and |w|^2 by explicit projection (verify.py:175-206) -- but note it PICKS the SU(3)/SU(2) components using role_census's own role labels (qrec/drec/lrec), so it is downstream of the shared role assignment",
+   "B = |p_sh|^2/2 and R = 2B - |w|^2 (verify.py:220-224)",
+   "the hard-coded twist vectors and delta-c (verify.py GEOM dict) -- used ONLY inside the I1 diagnostic",
+   "the tally itself: rmult[ro] += 1 and mult_by_fam (verify.py:216-243) -- ~5 lines"
+  ],
+  "conclusion": "The reproduction of 67,555 / 221,005 is independent of the COUNTING layer only. It is not independent of the SM identification, the hypercharge orientation, the sY/sC branch choice, or the role labels -- all of which are the shared functions observable_positions and role_census. The sentence's 'shares no code beyond the orbifolder output parser' is false: observable_positions and role_census are not parsers. Accurate replacement: 'reproduces the gate's totals through the same certified SM-identification pipeline; only the tallying layer is independent.'"
+ },
+
+ "task2_what_is_67555": {
+  "answer": "(b)+(c): the number of (model, cell, ROLE) triples over the six 10-family roles -- which, because every one of those multiplicities is exactly 1, coincides with (c) the number of 10-role FIELD RECORDS. It is NOT (a) the number of distinct cells hosting a 10-role.",
+  "mechanism": "verify.py:239-241 does mult_by_fam[fam][mm] += 1 once per (cell, role) pair; sum over mm of mult_by_fam['10'] = 67,555. w2_by_fam['10']['6/5'] = 67,555 counts FIELDS. Both equal because mult_by_fam['10'] = {'1': 67555} exactly.",
+  "arithmetic_against_6_3": {
+   "formula": "3*111 + 1*100 + 2*011, unbarred + barred",
+   "unbarred": "3*17555 + 1*4421 + 2*4820 = 52665 + 4421 + 9640 = 66726",
+   "barred": "3*87 + 1*248 + 2*160 = 261 + 248 + 320 = 829",
+   "total": 67555,
+   "match": true
+  },
+  "distinct_cells_measured_by_this_gate": {
+   "Z2xZ4_1_1_10_family": 27216,
+   "Z2xZ4_1_1_5bar_family": 122977,
+   "Z3xZ6_1_1_10_family": 16250,
+   "Z3xZ6_1_1_5bar_family": 68532,
+   "consistency_with_6_3": "6.3 gives 26,796 unbarred + 495 barred = 27,291 for Z2xZ4; 27,291 - 27,216 = 75 cells host both an unbarred and a barred 10-role and are counted twice in 6.3's split. Z3xZ6: 16,136 + 164 = 16,300; 16,300 - 16,250 = 50 overlaps."
+  },
+  "the_221005": {
+   "answer": "same quantity for the 4 roles {dc, dcbar, L, Hu}: (model, cell, role) triples. Record-level multiplicity histogram 1:198,429 2:21,664 3:910 4:2 sums to 221,005; the FIELD count is 244,495 (= 1*198429 + 2*21664 + 3*910 + 4*2), which the same table row already quotes separately."
+  },
+  "certified_gate_number": {
+   "source": "data/gate_z2xz4_construct/g1f_totals.json::populated_twisted_cells_never_doubling_roles = 67555; g1f_totals.py sums sum(histogram.values()) over the 7 twisted sectors x 6 roles of g1d_crosstab.json",
+   "same_quantity": true,
+   "gate_also_misnames_it": "gate_z2xz4_construct.md lines 353, 372 call it 'populated twisted cells' / 'populated twisted fixed points'; the JSON key is populated_twisted_cells_never_doubling_roles. Same misnomer, inherited."
+  },
+  "defect": "The label is wrong in both documents, and su5_ten_bound_findings.md 6.1 uses the SAME number 67,555 under two different names in adjacent rows of one table ('ten-role fields' and '10-role cells'). The quantity is the same in both pipelines, so the reproduction is real; the NAME is wrong by a factor 67,555/27,216 = 2.48."
+ },
+
+ "task3_spotcheck": {
+  "script": "code/gate_su5_bound/d5_spotcheck.py",
+  "data": "data/gate_su5_bound/d5_spotcheck.json",
+  "method": "own regexes over the gzipped raw census; own extraction of sector, fixed point n_a, p_sh, representation, U(1) charges, oscillators, printed Hypercharge generator and printed SM-configuration table; own (a3,a2) reconstruction; own role dictionary; own branch criterion = net chirality exactly (3,3,3,3,3) for (Q,uc,dc,L,ec) [role_census instead uses argmax of (net Q, net uc)]",
+  "cells": 30,
+  "by_geometry": {"Z2xZ4_1_1": 15, "Z3xZ6_1_1": 15},
+  "sectors_covered": {
+   "Z2xZ4_1_1": ["(0,1)", "(0,2)", "(0,3)", "(1,0)", "(1,2)", "(1,3)"],
+   "Z3xZ6_1_1": ["(0,2)", "(0,4)", "(1,0)", "(1,4)", "(2,0)", "(2,2)"]
+  },
+  "quota_cells_with_all_three_10_roles": 10,
+  "quota_cells_with_doubled_5bar_role": 9,
+  "fields_compared": 161,
+  "agreements": 160,
+  "disagreements": 1,
+  "k_Y_measured": {"5/3": 30},
+  "the_one_disagreement": {
+   "geometry": "Z3xZ6_1_1", "model": "MSSM0", "file": "census_seg0.txt.gz",
+   "sector": [0, 2], "fixed_point": [0, 0, 0, 0, 0, 0], "field": "F_25",
+   "representation": [-3, 1, 1, 1, 2], "hidden_multiplicity": 2,
+   "Y": "-1/3", "c3_after_sC": 3, "c2": 1, "oscillators": "no",
+   "role_mine": "dcbar", "role_role_census": null,
+   "cause": "z36sw_lib.role_census sets role = None for every field that is not a hidden singlet (hidden_singlet(rep,a3,a2) gate). z24sw_lib.role_census has NO such gate. Structural, not accidental -- see task5b/defect D3.",
+   "verdict": "role_census is not wrong on Z2xZ4 and is not wrong per se on Z3xZ6; the two libraries implement DIFFERENT definitions and the findings present their outputs as one measurement."
+  },
+  "verdict": "The SM identification, hypercharge orientation, role labels, cell keys and k_Y reproduce exactly on 30 cells across 12 sector-labels and both geometries. The single disagreement is the cross-geometry definitional split, not an error in the role assignment."
+ },
+
+ "task4_cell_key": {
+  "question": "Could the key (sector, raw printed fixed point n_a) ever SPLIT one physical fixed point into two keys, hiding a same-cell doubling?",
+  "answer": "NO. Decisively excluded on both geometries.",
+  "decisive_test": {
+   "script": "code/gate_su5_bound/d5_keycount.py",
+   "method": "number of DISTINCT printed n_a per sector over the ENTIRE raw census, versus the number of SIMULTANEOUS affine point-group orbits of the sector's 6d fixed-point set (GeomMN.sim_orbits, the certified alphabet_survey phase-2 engine; its docstring: '#sim_orbits must equal the number of constructing elements the file prints for that sector')",
+   "Z2xZ4_1_1": {"(0,0)": "1 = 1", "(0,1)": "4 = 4", "(0,2)": "10 = 10", "(0,3)": "4 = 4", "(1,0)": "12 = 12", "(1,2)": "12 = 12", "(1,3)": "16 = 16", "(1,1)": "0 printed (CPT partner of (1,3)); 16 orbits"},
+   "Z3xZ6_1_1": {"(0,0)": "1 = 1", "(0,1)": "1 = 1", "(0,2)": "5 = 5", "(0,3)": "4 = 4", "(0,4)": "5 = 5", "(0,5)": "1 = 1", "(1,0)": "6 = 6", "(1,4)": "6 = 6", "(1,5)": "3 = 3", "(2,0)": "6 = 6", "(2,2)": "6 = 6", "(2,3)": "6 = 6", "(2,4)": "15 = 15", "(2,5)": "6 = 6", "(1,1)/(1,2)/(1,3)/(2,1)": "0 printed; these are the CPT partners of (2,5)/(2,4)/(2,3)/(1,5) and their orbit counts match those partners exactly (6/15/6/3)"},
+   "result": "BIJECTIVE in every populated sector of both geometries. No split, no merge."
+  },
+  "unrotated_plane_entries": {
+   "measured_over": "every field record of the full raw census, both geometries",
+   "result": "orbifolder prints (0,0) in the two lattice coordinates of an unrotated plane in 100% of records. Z2xZ4: plane 2 in T(0,1),T(0,2),T(0,3); plane 1 in T(1,0); plane 3 in T(1,2); T(1,3) has no unrotated plane. Z3xZ6: plane 2 in T(0,l); plane 1 in T(1,0),T(2,0); plane 3 in T(1,4),T(2,2).",
+   "consequence": "the N=2 direction contributes no spurious key coordinate, so it cannot split a cell"
+  },
+  "false_alarm_recorded": {
+   "script": "code/gate_su5_bound/d5_cellkey.py",
+   "finding": "a PER-PLANE orbit reading reports 1 apparent collision on Z2xZ4 T(0,2) and 5 on Z3xZ6 (T(0,2), T(0,4), T(2,4)x3)",
+   "why_it_is_not_a_split": "a per-plane orbit label is strictly coarser than the space-group conjugacy class, because the conjugating point-group element acts on all three planes simultaneously. Worked example: Z2xZ4 T(0,2), rotation diag(-1,+1,-1); the Z4 generator swaps the plane-1 fixed points e1/2 <-> e2/2 AND the plane-3 pair simultaneously, so (A,A)~(B,B) and (A,B)~(B,A) are two classes while the per-plane reading merges them. 4 singletons + 2 + 2 + 2 = 10 simultaneous orbits = 10 printed keys.",
+   "supporting_evidence": "d5_keysplit.py: the colliding key pairs carry identical V_g = p_sh mod Lambda and identical |p_sh|^2 multisets in every model (495/495, 252/252, 241/241, 290/290, 284/284, 289/289) -- as required for fixed points in one per-plane orbit -- which is why only the simultaneous-orbit count settles the question."
+  },
+  "verdict": "The cell key is COMPLETE in the sense of CLAUDE.md 5.22 first addendum (ii) and cannot hide a doubling. This is a positive certification the phase did not have."
+ },
+
+ "task5_excluded_models": {
+  "script": "code/gate_su5_bound/d5_excluded.py, d5_states.py",
+  "data": "data/gate_su5_bound/d5_excluded.json, d5_states.json",
+  "full_skip_breakdown": {
+   "Z2xZ4_1_1": {"closure_failed": 615, "no_smconfig": 0, "no_hypercharge": 0, "parse_error": 0, "smbasis_fail": 0, "censused": 10925},
+   "Z3xZ6_1_1": {"closure_failed": 2, "no_smconfig": 0, "no_hypercharge": 0, "parse_error": 0, "smbasis_fail": 0, "censused": 4620}
+  },
+  "model_accounting": {
+   "Z2xZ4_1_1": {"orbifolder_declared_orbifolds_loaded": 11540, "own_regex_blocks": 11540, "lib_split_models_blocks": 11540, "censused_plus_skipped": 11540, "certified_catalogue_size_N_MODELS": 11540, "complete": true},
+   "Z3xZ6_1_1": {"orbifolder_declared_orbifolds_loaded": 4622, "own_regex_blocks": 4622, "lib_split_models_blocks": 4622, "censused_plus_skipped": 4622, "complete": true},
+   "silently_dropped_models": 0
+  },
+  "k_Y_of_the_excluded": {
+   "method": "own parse of EVERY printed 'Hypercharge generator:' of every excluded model; k_Y = 2|t_Y|^2 exactly over Q",
+   "Z2xZ4_1_1": {"5/3": 615},
+   "Z3xZ6_1_1": {"5/3": 2},
+   "consequence": "gate attack #3's premise ('the closure-failed models were never assigned a k_Y ... for k_Y > 5/3 the e^c threshold moves toward the permissive side') is ANSWERABLE and the answer is benign: every excluded model prints k_Y = 5/3 on every generator it prints. There is no k_Y != 5/3 model hiding in the excluded set."
+  },
+  "why_they_fail": {
+   "cause": "verify.py:138 and the certified g1d_crosstab.py:41 both take cfgs[0] -- the FIRST printed vev-configuration -- and declare closure failure if that one does not rebuild the printed table",
+   "n_printed_configurations_among_the_615": {"2": 584, "1": 16, "4": 15},
+   "excluded_models_with_a_LATER_configuration_that_DOES_close": 599,
+   "recovering_configuration_index": {"1": 584, "3": 15},
+   "genuinely_unrecoverable": {"Z2xZ4_1_1": 16, "Z3xZ6_1_1": 2}
+  },
+  "gate_recovery": {
+   "models_recovered_and_censused": 599,
+   "10_family_cell_role_triples": 4910,
+   "10_family_multiplicity_histogram_records": {"1": 4910},
+   "10_family_multiplicity_histogram_states": {"1": 4910},
+   "5bar_family_multiplicity_histogram_records": {"1": 8755, "2": 1463},
+   "5bar_family_multiplicity_histogram_states": {"1": 8108, "2": 2074, "3": 36},
+   "distinct_cells": {"10": 2013, "5bar": 5437},
+   "hits": 0,
+   "verdict": "the absence claim EXTENDS to the 599 recovered models: no cell hosts two 10-role fields, at record OR state level"
+  },
+  "safety_verdict": "SAFE, and now also COVERED. The exclusion was safe on the k_Y axis by measurement (615/615 and 2/2 at k_Y = 5/3), and the 599 recoverable models have been censused by this gate with zero hits. The residual is 16 + 2 = 18 models that print no closing SM configuration at all; those remain outside the measurement and cannot be assigned SM roles, but they all print k_Y = 5/3.",
+  "language_defect": "'615 closure-failed, excluded and reported' reads as 'these models cannot be censused'. 599 of them can, via a later printed configuration. This is exactly the shape of CLAUDE.md 5.22 first addendum (i) (config-selection dropping censusable data)."
+ },
+
+ "task5b_definitional_split_between_the_two_geometries": {
+  "finding": "z24sw_lib.role_census assigns a role to hidden NON-singlets (carrying `mult`); z36sw_lib.role_census sets role = None for every non-singlet (its `hidden_singlet(rep,a3,a2)` gate).",
+  "measured_drop_on_Z3xZ6": {
+   "SM_role_fields_seen_with_the_gate": 169678,
+   "SM_role_fields_seen_without_the_gate": 173987,
+   "dropped": 4309,
+   "dropped_by_hidden_multiplicity": {"2": 4196, "3": 110, "4": 2, "5": 1},
+   "dropped_by_family": {"10": 0, "5bar": 4309},
+   "dropped_R_values": {"34/45": 4204, "7/10": 56, "53/90": 36, "83/90": 13}
+  },
+  "impact": {
+   "on_the_10_role_absence_claim": "NONE -- zero dropped fields are in the 10 family, and re-running the per-cell count with the gate removed produces 0 new 10-role doublings",
+   "on_6_2_numbers": "the Z3xZ6 5bar totals (125,146 role-cells; multiplicity 1:118,162 2:6,774 3:206 4:4) and the 169,678 role-carrying-field and I1 counts all EXCLUDE these 4,309, while the Z2xZ4 numbers in 6.1 INCLUDE the analogous population. The two tables are not the same measurement.",
+   "second_inconsistency": "z24sw_lib.role_census's net() weights by hidden multiplicity; z36sw_lib.role_census's net() counts records. Different branch-selection criteria across the two geometries."
+  }
+ },
+
+ "task5c_records_versus_states": {
+  "finding": "verify.py:216-241 (and the certified g1d_crosstab.py:48-50) count RECORDS per (cell, role). A hidden non-singlet record is several distinct massless left-chiral states at the same cell with the same SM role -- and orbifolder's own SMConfig table counts them that way (printed[...] += row[3]).",
+  "why_it_matters": "two states of one hidden multiplet differ by a hidden root: Delta in Lambda, Delta orthogonal to the SM Cartan span, |Delta|^2 >= 2, |p|^2 = |p'|^2. The theorem therefore requires R >= 1/2 for such a record. Since the measured 10-role R on Z2xZ4 is at most 17/40 < 1/2, the theorem PREDICTS that no twisted 10-role field can be a hidden non-singlet -- a sharp test the phase's own counter cannot perform.",
+  "result": {
+   "Z2xZ4_10_role_records_by_hidden_multiplicity": {"1": 67555},
+   "Z2xZ4_10_role_hidden_non_singlets": 0,
+   "Z2xZ4_5bar_records_by_hidden_multiplicity_and_R": {
+    "1|7/10": 164880, "2|7/10": 8547, "3|7/10": 62,
+    "1|33/40": 23651, "2|33/40": 1849, "3|33/40": 137, "4|33/40": 26,
+    "1|23/40": 41305, "1|13/40": 3868, "1|3/40": 170
+   },
+   "records_with_hidden_multiplicity_ge_2_and_R_below_one_half": 0,
+   "interpretation": "every one of the 10,621 hidden non-singlet 5bar records sits at R = 7/10 or 33/40, both >= 1/2; every one of the 4,038 records at R = 13/40 or 3/40 (< 1/2) is a hidden singlet. Zero exceptions on 312,050 fields.",
+   "state_level_theorem_test": {"Z2xZ4_1_1": {"violations": 0}, "Z3xZ6_1_1": {"violations": 0}},
+   "state_level_multiplicity_histograms": {
+    "Z2xZ4_1_1": {"10": {"1": 67555}, "5bar": {"1": 189003, "2": 29723, "3": 2198, "4": 81}},
+    "Z3xZ6_1_1": {"10": {"1": 37334}, "5bar": {"1": 118162, "2": 6774, "3": 206, "4": 4}}
+   }
+  },
+  "verdict": "The absence claim SURVIVES the record-vs-state attack and is STRENGTHENED by it: the theorem's untested corollary (no 10-role field may be a hidden non-singlet) holds 67,555/67,555, and the hidden-multiplicity/R correlation holds with zero exceptions. But 6.1's 5bar multiplicity histogram is a record histogram presented as a field-multiplicity histogram, and the correct state-level histogram is different."
+ },
+
+ "task6_I1_as_a_check_on_delta_c": {
+  "structure": "I1 tests |p_sh|^2/2 = 1 - delta_c(k,l) - N_osc with |p_sh| PRINTED by orbifolder, N_osc read from the PRINTED oscillator string, and delta_c computed from the hard-coded v1, v2 in verify.py's GEOM dict.",
+  "strength": [
+   "It is over-determined: one delta_c per sector against thousands of independently printed p_sh. Z2xZ4 T(1,2) alone pins delta_c against 48,236 role-carrying fields.",
+   "Every populated sector contains oscillator-free fields (measured: the maximal B in each sector's B_by_sector histogram is realised, e.g. Z2xZ4 T(0,1) {13/16: 13605, 9/16: 1934}), so delta_c is pinned WITHOUT reliance on the oscillator convention in every sector -- the N_osc term is not free to absorb a delta_c error.",
+   "p_sh is not computed by this phase at all, so a delta_c error would have to be matched by a systematic error in orbifolder's own printed shifted momenta."
+  ],
+  "blind_spots": [
+   "delta_c = sum_a x_a(1-x_a)/2 with x = v mod 1 is INVARIANT under v -> -v plane by plane, and under any permutation of the three planes. I1 therefore cannot detect a conjugated or plane-permuted twist -- exactly the CLAUDE.md 5.19 family. Any statement that attributes a B value to a NAMED sector or plane inherits that blindness.",
+   "I1 is a per-sector scalar identity; it constrains the SUM delta_c + N_osc, and only the presence of oscillator-free fields (verified above) separates the two.",
+   "I1 was evaluated only on the 481,728 role-carrying fields, not on the full spectrum -- and on Z3xZ6 it therefore also excludes the 4,309 hidden-non-singlet SM-role fields (task5b)."
+  ],
+  "decisive_point": "delta_c IS NOT LOAD-BEARING FOR THE MEASUREMENT. verify.py:220 computes B = S.dot(p_sh, p_sh)/2 from the PRINTED p_sh, and R = 2B - |w|^2 (line 224). delta_c appears only in the I1 comparison at line 222-224 and nowhere else. The loophole cells are selected by R computed from p_sh, and their sector labels come from orbifolder's printed 'sector (k,l)'. So attack #7's worry -- delta_c and p_sh wrong in a correlated way -- cannot move any verification number, any violation count, any R histogram, or the 65 loophole fields. It could only damage the NARRATIVE that attributes the B windows {11/16, 3/4, 13/16} and {31/36, ...} to particular sectors and twists (sections 3.4 and 7).",
+  "verdict": "I1 is a genuine and strong cross-check against a random delta_c error, blind to delta_c-preserving twist transformations (conjugation, plane permutation), and -- more importantly -- irrelevant to the safety of the measurement, because the measurement never uses delta_c."
+ },
+
+ "defects": [
+  {"id": "D5-1", "severity": "D", "title": "'independent pipeline ... shares no code beyond the parser' is false",
+   "location": "results/su5_ten_bound_findings.md:249; code/su5_ten_bound/verify.py:132-162 vs code/gate_z2xz4_construct/g1d_crosstab.py:33-52",
+   "detail": "verify.py calls the certified census's parse_spectrum, parse_gauge_factors, parse_smconfig, observable_positions and role_census (Z2xZ4) / parse_spectrum, parse_gauge, observable_positions, role_census (Z3xZ6) -- the same functions the certified g1d_crosstab.py calls, in the same order, with the same cfgs[0] selection. Only the ~5-line tally is fresh. The reproduction confirms the counting layer, not the role assignment.",
+   "fix": "restate as 'reproduced through the same certified SM-identification pipeline; the tallying layer is independent', and say explicitly that the role assignment is NOT independently verified by this reproduction."},
+
+  {"id": "D5-2", "severity": "D", "title": "'10-role cells' / '5bar-role cells' misname the quantity",
+   "location": "results/su5_ten_bound_findings.md:240-241 and 258-259; inherited from results/gate_z2xz4_construct.md:353,372 and data/gate_z2xz4_construct/g1f_totals.json",
+   "detail": "67,555 and 221,005 are (model, cell, ROLE) triples -- equivalently, for the 10 family, field records. Distinct cells are 27,216 and 122,977 (Z2xZ4), 16,250 and 68,532 (Z3xZ6). The SAME table already uses 67,555 for 'ten-role fields' two rows above.",
+   "fix": "rename the rows to '(cell, role) pairs' and add the distinct-cell counts; correct the certified gate by dated addendum."},
+
+  {"id": "D5-3", "severity": "D", "title": "6.1 and 6.2 are not the same measurement -- the Z3xZ6 library drops hidden non-singlets",
+   "location": "code/z3xz6_sweep/z36sw_lib.py::role_census (hidden_singlet gate) vs code/z2xz4_sweep/z24sw_lib.py::role_census (no gate)",
+   "detail": "4,309 Z3xZ6 SM-role field records (hidden multiplicity 2/3/4/5) are assigned role=None and vanish from the census; all 4,309 are 5bar-family, none 10-family. The Z3xZ6 5bar totals, the 169,678 role-carrying-field count and the I1 coverage all exclude them; the Z2xZ4 equivalents include theirs. Second inconsistency: z24's net() weights by hidden multiplicity, z36's counts records.",
+   "impact": "the 10-role absence claim is UNAFFECTED (0 of 4,309 are 10-family; re-running with the gate removed produces 0 new 10-role doublings). The Z3xZ6 5bar numbers are understated.",
+   "fix": "state the definition each geometry's number uses, or re-run Z3xZ6 without the gate."},
+
+  {"id": "D5-4", "severity": "D", "title": "the per-cell counter counts records, not states",
+   "location": "code/su5_ten_bound/verify.py:224 (rmult[ro] += 1); inherited from code/gate_z2xz4_construct/g1d_crosstab.py:50",
+   "detail": "hidden non-singlet records are several states at one cell with one role. Correct Z2xZ4 5bar state-level histogram is 1:189,003 2:29,723 3:2,198 4:81, not 1:198,429 2:21,664 3:910 4:2.",
+   "impact": "GATE-VERIFIED SAFE for the letter: all 67,555 Z2xZ4 ten-role records are hidden singlets, so record and state counts coincide there; state-level theorem test returns 0 violations on both geometries. And the omission concealed a POSITIVE result -- the theorem's untested corollary (no 10-role field may be a hidden non-singlet, since R <= 17/40 < 1/2) holds 67,555/67,555, and no hidden non-singlet of any family sits at R < 1/2 (0 of 312,050).",
+   "fix": "report the state-level histogram and add the hidden-multiplicity corollary as a confirmed prediction."},
+
+  {"id": "D5-5", "severity": "D", "title": "'615 closure-failed, excluded and reported' -- 599 of them are censusable",
+   "location": "results/su5_ten_bound_findings.md:236; code/su5_ten_bound/verify.py:138 (cfgs[0]); code/gate_z2xz4_construct/g1d_crosstab.py:41",
+   "detail": "599 of the 615 print a LATER vev-configuration that closes; only 16 are genuinely unclosable. Same shape as CLAUDE.md 5.22 first addendum (i).",
+   "impact": "coverage gap of 599/11,540 = 5.2% of the catalogue. CLOSED BY THIS GATE: recovered and censused, 4,910 additional 10-role (cell,role) triples, all multiplicity 1, 0 hits.",
+   "fix": "select the SM configuration by closure over ALL printed configurations, not cfgs[0]; quote 11,524 closable models."},
+
+  {"id": "D5-6", "severity": "N", "title": "gate attack #3's premise is answerable and benign",
+   "location": "results/su5_ten_bound_findings.md:456-459",
+   "detail": "every excluded model prints k_Y = 5/3 on every generator (615/615 Z2xZ4, 2/2 Z3xZ6). The k_Y > 5/3 permissive-threshold worry is empty."},
+
+  {"id": "D5-7", "severity": "N", "title": "Z3xZ6 model labels are not globally unique",
+   "location": "data/z3xz6_sweep/raw/census/*.txt.gz",
+   "detail": "MSSM0..MSSM9 each occur twice across segments (4,622 blocks, 4,612 distinct labels). verify.py records `model=lab` in violations/loophole_cells, so a reported cell is not uniquely addressable on that geometry. No model is lost or double-counted."},
+
+  {"id": "D5-8", "severity": "N", "title": "the |w|^2 projection is not independent of the shared role labels",
+   "location": "code/su5_ten_bound/verify.py:184-206",
+   "detail": "section 9 says |w|^2 was 'obtained by explicit projection rather than inferred from k_Y'. True -- but the SM Cartan span it projects onto is selected using role_census's own Q/dc/L/Hu labels (qrec, drec, lrec), so the projection inherits the shared role assignment."}
+ ],
+
+ "fatal_defects": [],
+ "overall": "No fatal defect. The two totals ARE the same quantity in both pipelines and reproduce, but the pipeline is not independent (D5-1) and the quantity is misnamed (D5-2). The cell key is certified bijective with the physical cells on both geometries -- it cannot hide a doubling. The excluded set is safe on k_Y by measurement and its recoverable 97.4% has now been censused with zero hits. Two attacks the phase could not run -- record-vs-state and the hidden-multiplicity corollary -- both pass and STRENGTHEN the letter."
+}

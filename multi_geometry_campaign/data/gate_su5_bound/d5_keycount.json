@@ -1,0 +1,172 @@
+{
+ "Z2xZ4_1_1": {
+  "sectors": {
+   "(0, 0)": {
+    "printed_keys": 1,
+    "sim_orbits": 1,
+    "verdict": "BIJECTIVE",
+    "records": 149589
+   },
+   "(0, 1)": {
+    "printed_keys": 4,
+    "sim_orbits": 4,
+    "verdict": "BIJECTIVE",
+    "records": 156058
+   },
+   "(0, 2)": {
+    "printed_keys": 10,
+    "sim_orbits": 10,
+    "verdict": "BIJECTIVE",
+    "records": 308436
+   },
+   "(0, 3)": {
+    "printed_keys": 4,
+    "sim_orbits": 4,
+    "verdict": "BIJECTIVE",
+    "records": 142101
+   },
+   "(1, 0)": {
+    "printed_keys": 12,
+    "sim_orbits": 12,
+    "verdict": "BIJECTIVE",
+    "records": 463117
+   },
+   "(1, 1)": {
+    "printed_keys": 0,
+    "sim_orbits": 16,
+    "verdict": "no sector data",
+    "records": 0
+   },
+   "(1, 2)": {
+    "printed_keys": 12,
+    "sim_orbits": 12,
+    "verdict": "BIJECTIVE",
+    "records": 604610
+   },
+   "(1, 3)": {
+    "printed_keys": 16,
+    "sim_orbits": 16,
+    "verdict": "BIJECTIVE",
+    "records": 553383
+   }
+  },
+  "mismatches": [],
+  "any_split": false,
+  "any_merge": false
+ },
+ "Z3xZ6_1_1": {
+  "sectors": {
+   "(0, 0)": {
+    "printed_keys": 1,
+    "sim_orbits": 1,
+    "verdict": "BIJECTIVE",
+    "records": 43764
+   },
+   "(0, 1)": {
+    "printed_keys": 1,
+    "sim_orbits": 1,
+    "verdict": "BIJECTIVE",
+    "records": 11550
+   },
+   "(0, 2)": {
+    "printed_keys": 5,
+    "sim_orbits": 5,
+    "verdict": "BIJECTIVE",
+    "records": 42431
+   },
+   "(0, 3)": {
+    "printed_keys": 4,
+    "sim_orbits": 4,
+    "verdict": "BIJECTIVE",
+    "records": 50632
+   },
+   "(0, 4)": {
+    "printed_keys": 5,
+    "sim_orbits": 5,
+    "verdict": "BIJECTIVE",
+    "records": 38672
+   },
+   "(0, 5)": {
+    "printed_keys": 1,
+    "sim_orbits": 1,
+    "verdict": "BIJECTIVE",
+    "records": 12022
+   },
+   "(1, 0)": {
+    "printed_keys": 6,
+    "sim_orbits": 6,
+    "verdict": "BIJECTIVE",
+    "records": 118853
+   },
+   "(1, 1)": {
+    "printed_keys": 0,
+    "sim_orbits": 6,
+    "verdict": "no sector data",
+    "records": 0
+   },
+   "(1, 2)": {
+    "printed_keys": 0,
+    "sim_orbits": 15,
+    "verdict": "no sector data",
+    "records": 0
+   },
+   "(1, 3)": {
+    "printed_keys": 0,
+    "sim_orbits": 6,
+    "verdict": "no sector data",
+    "records": 0
+   },
+   "(1, 4)": {
+    "printed_keys": 6,
+    "sim_orbits": 6,
+    "verdict": "BIJECTIVE",
+    "records": 114327
+   },
+   "(1, 5)": {
+    "printed_keys": 3,
+    "sim_orbits": 3,
+    "verdict": "BIJECTIVE",
+    "records": 43781
+   },
+   "(2, 0)": {
+    "printed_keys": 6,
+    "sim_orbits": 6,
+    "verdict": "BIJECTIVE",
+    "records": 125462
+   },
+   "(2, 1)": {
+    "printed_keys": 0,
+    "sim_orbits": 3,
+    "verdict": "no sector data",
+    "records": 0
+   },
+   "(2, 2)": {
+    "printed_keys": 6,
+    "sim_orbits": 6,
+    "verdict": "BIJECTIVE",
+    "records": 121518
+   },
+   "(2, 3)": {
+    "printed_keys": 6,
+    "sim_orbits": 6,
+    "verdict": "BIJECTIVE",
+    "records": 87795
+   },
+   "(2, 4)": {
+    "printed_keys": 15,
+    "sim_orbits": 15,
+    "verdict": "BIJECTIVE",
+    "records": 150377
+   },
+   "(2, 5)": {
+    "printed_keys": 6,
+    "sim_orbits": 6,
+    "verdict": "BIJECTIVE",
+    "records": 89648
+   }
+  },
+  "mismatches": [],
+  "any_split": false,
+  "any_merge": false
+ }
+}

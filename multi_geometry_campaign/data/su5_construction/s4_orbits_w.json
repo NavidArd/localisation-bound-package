@@ -1,0 +1,331 @@
+{
+ "V1_representatives": 36,
+ "inequivalent_pairs": 2912,
+ "per_V1": [
+  {
+   "v1": [
+    15,
+    1
+   ],
+   "n_W_orbits": 90,
+   "w1_orbits": 108,
+   "w2_orbits": 24
+  },
+  {
+   "v1": [
+    15,
+    32
+   ],
+   "n_W_orbits": 135,
+   "w1_orbits": 108,
+   "w2_orbits": 36
+  },
+  {
+   "v1": [
+    16,
+    10
+   ],
+   "n_W_orbits": 243,
+   "w1_orbits": 162,
+   "w2_orbits": 42
+  },
+  {
+   "v1": [
+    420,
+    1
+   ],
+   "n_W_orbits": 60,
+   "w1_orbits": 108,
+   "w2_orbits": 24
+  },
+  {
+   "v1": [
+    420,
+    32
+   ],
+   "n_W_orbits": 90,
+   "w1_orbits": 108,
+   "w2_orbits": 36
+  },
+  {
+   "v1": [
+    421,
+    10
+   ],
+   "n_W_orbits": 162,
+   "w1_orbits": 162,
+   "w2_orbits": 42
+  },
+  {
+   "v1": [
+    582,
+    1
+   ],
+   "n_W_orbits": 90,
+   "w1_orbits": 108,
+   "w2_orbits": 24
+  },
+  {
+   "v1": [
+    582,
+    32
+   ],
+   "n_W_orbits": 135,
+   "w1_orbits": 108,
+   "w2_orbits": 36
+  },
+  {
+   "v1": [
+    583,
+    10
+   ],
+   "n_W_orbits": 243,
+   "w1_orbits": 162,
+   "w2_orbits": 42
+  },
+  {
+   "v1": [
+    1503,
+    0
+   ],
+   "n_W_orbits": 24,
+   "w1_orbits": 45,
+   "w2_orbits": 6
+  },
+  {
+   "v1": [
+    1503,
+    5
+   ],
+   "n_W_orbits": 56,
+   "w1_orbits": 45,
+   "w2_orbits": 32
+  },
+  {
+   "v1": [
+    1503,
+    891
+   ],
+   "n_W_orbits": 32,
+   "w1_orbits": 45,
+   "w2_orbits": 20
+  },
+  {
+   "v1": [
+    1908,
+    0
+   ],
+   "n_W_orbits": 36,
+   "w1_orbits": 45,
+   "w2_orbits": 6
+  },
+  {
+   "v1": [
+    1908,
+    5
+   ],
+   "n_W_orbits": 84,
+   "w1_orbits": 45,
+   "w2_orbits": 32
+  },
+  {
+   "v1": [
+    1908,
+    891
+   ],
+   "n_W_orbits": 48,
+   "w1_orbits": 45,
+   "w2_orbits": 20
+  },
+  {
+   "v1": [
+    2070,
+    0
+   ],
+   "n_W_orbits": 36,
+   "w1_orbits": 45,
+   "w2_orbits": 6
+  },
+  {
+   "v1": [
+    2070,
+    5
+   ],
+   "n_W_orbits": 84,
+   "w1_orbits": 45,
+   "w2_orbits": 32
+  },
+  {
+   "v1": [
+    2070,
+    891
+   ],
+   "n_W_orbits": 48,
+   "w1_orbits": 45,
+   "w2_orbits": 20
+  },
+  {
+   "v1": [
+    2383,
+    0
+   ],
+   "n_W_orbits": 20,
+   "w1_orbits": 90,
+   "w2_orbits": 6
+  },
+  {
+   "v1": [
+    2383,
+    5
+   ],
+   "n_W_orbits": 82,
+   "w1_orbits": 90,
+   "w2_orbits": 32
+  },
+  {
+   "v1": [
+    2383,
+    891
+   ],
+   "n_W_orbits": 50,
+   "w1_orbits": 90,
+   "w2_orbits": 20
+  },
+  {
+   "v1": [
+    2545,
+    0
+   ],
+   "n_W_orbits": 30,
+   "w1_orbits": 90,
+   "w2_orbits": 6
+  },
+  {
+   "v1": [
+    2545,
+    5
+   ],
+   "n_W_orbits": 123,
+   "w1_orbits": 90,
+   "w2_orbits": 32
+  },
+  {
+   "v1": [
+    2545,
+    891
+   ],
+   "n_W_orbits": 75,
+   "w1_orbits": 90,
+   "w2_orbits": 20
+  },
+  {
+   "v1": [
+    2707,
+    0
+   ],
+   "n_W_orbits": 30,
+   "w1_orbits": 90,
+   "w2_orbits": 6
+  },
+  {
+   "v1": [
+    2707,
+    5
+   ],
+   "n_W_orbits": 123,
+   "w1_orbits": 90,
+   "w2_orbits": 32
+  },
+  {
+   "v1": [
+    2707,
+    891
+   ],
+   "n_W_orbits": 75,
+   "w1_orbits": 90,
+   "w2_orbits": 20
+  },
+  {
+   "v1": [
+    3099,
+    0
+   ],
+   "n_W_orbits": 30,
+   "w1_orbits": 90,
+   "w2_orbits": 6
+  },
+  {
+   "v1": [
+    3099,
+    5
+   ],
+   "n_W_orbits": 123,
+   "w1_orbits": 90,
+   "w2_orbits": 32
+  },
+  {
+   "v1": [
+    3099,
+    891
+   ],
+   "n_W_orbits": 75,
+   "w1_orbits": 90,
+   "w2_orbits": 20
+  },
+  {
+   "v1": [
+    3261,
+    0
+   ],
+   "n_W_orbits": 20,
+   "w1_orbits": 90,
+   "w2_orbits": 6
+  },
+  {
+   "v1": [
+    3261,
+    5
+   ],
+   "n_W_orbits": 82,
+   "w1_orbits": 90,
+   "w2_orbits": 32
+  },
+  {
+   "v1": [
+    3261,
+    891
+   ],
+   "n_W_orbits": 50,
+   "w1_orbits": 90,
+   "w2_orbits": 20
+  },
+  {
+   "v1": [
+    3423,
+    0
+   ],
+   "n_W_orbits": 30,
+   "w1_orbits": 90,
+   "w2_orbits": 6
+  },
+  {
+   "v1": [
+    3423,
+    5
+   ],
+   "n_W_orbits": 123,
+   "w1_orbits": 90,
+   "w2_orbits": 32
+  },
+  {
+   "v1": [
+    3423,
+    891
+   ],
+   "n_W_orbits": 75,
+   "w1_orbits": 90,
+   "w2_orbits": 20
+  }
+ ],
+ "seconds": 3.5
+}

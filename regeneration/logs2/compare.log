@@ -1,0 +1,83 @@
+MATCH      su5_ten_bound/classwide.json
+MATCH      su5_ten_bound/coloc_probe_Z2xZ4_1_1.json
+MATCH      su5_ten_bound/localgut_Z2xZ4_1_1.json
+MATCH      su5_ten_bound/localgut_Z3xZ6_1_1.json
+MATCH      su5_ten_bound/patterns_Z2xZ4_1_1.json
+MATCH      su5_ten_bound/patterns_Z3xZ6_1_1.json
+MATCH      su5_ten_bound/recon.json
+MATCH      su5_ten_bound/shell_Z3xZ6_1_1.json
+MATCH      su5_ten_bound/verify_Z2xZ4_1_1.json
+MATCH      su5_ten_bound/verify_Z3xZ6_1_1.json
+MATCH      gate_su5_bound/d1_mechanism_Z2xZ4_1_1.json
+MATCH      gate_su5_bound/d1_mechanism_Z3xZ6_1_1.json
+MATCH      gate_su5_bound/d2_osc10_Z3xZ6_1_1.json
+MATCH      gate_su5_bound/d2_pshdup_Z2xZ4_1_1.json
+MATCH      gate_su5_bound/d2_pshdup_Z3xZ6_1_1.json
+MATCH      gate_su5_bound/d5_cellkey.json
+MATCH      gate_su5_bound/d5_excluded.json
+MATCH      gate_su5_bound/d5_hidden.json
+MATCH      gate_su5_bound/d5_independence.json
+MATCH      gate_su5_bound/d5_keycount.json
+MATCH      gate_su5_bound/d5_keysplit.json
+MATCH      gate_su5_bound/d5_shellkey_Z2xZ4.json
+MATCH      gate_su5_bound/d5_spotcheck.json
+MATCH      gate_su5_bound/d5_states.json
+MATCH      gate_su5_bound/d6_gamma_homog.json
+MATCH      gate_su5_bound/d6_handcheck_Z3xZ6.json
+MATCH      gate_su5_bound/d6_patterns.json
+MATCH      gate_su5_bound/d6_patterns_Z2xZ4_1_1.json
+MATCH      gate_su5_bound/d6_patterns_Z3xZ6_1_1.json
+MATCH      gate_su5_bound/d6_phi_Z2xZ4_1_1.json
+MATCH      gate_su5_bound/d6_phi_Z3xZ6_1_1.json
+MATCH      gate_su5_bound/d6_weightrel_Z2xZ4_1_1.json
+MATCH      gate_su5_bound/d6_weightrel_Z3xZ6_1_1.json
+MATCH      gate_su5_bound/d7_construction.json
+MATCH      gate_su5_bound/d7_loophole_full.json
+MATCH      gate_su5_bound/d8_alltwists.json
+MATCH*     gate_su5_bound/d8_classwide.json  (147 NOTE, 11 PATH -- no substantive difference)
+             [PATH] Z2xZ4_1_1.provenance.0.file                    deposited='F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z2xZ4_1_1.txt'  regenerated='F:\\physics\\paperA_repro_package\\orbifolder-1.2.1\\Geometry\\Geometry_Z2xZ4_1_1.txt'
+             [PATH] Z2xZ4_1_1.provenance.1.file                    deposited='F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z2xZ4_1_1.txt'  regenerated='F:\\physics\\paperA_repro_package\\orbifolder-1.2.1\\Geometry\\Geometry_Z2xZ4_1_1.txt'
+             [PATH] Z3xZ3_1_1.provenance.0.file                    deposited='F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z3xZ3_1_1.txt'  regenerated='F:\\physics\\paperA_repro_package\\orbifolder-1.2.1\\Geometry\\Geometry_Z3xZ3_1_1.txt'
+             [PATH] Z3xZ3_1_1.provenance.1.file                    deposited='F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z3xZ3_1_1.txt'  regenerated='F:\\physics\\paperA_repro_package\\orbifolder-1.2.1\\Geometry\\Geometry_Z3xZ3_1_1.txt'
+             ... and 154 more of the same kinds
+MATCH      gate_su5_bound/d8_shell_complete_Z3xZ6_1_1.json
+MATCH      su5_construction/s0_invariants.json
+MATCH      su5_construction/s10_dossier.json
+MATCH      su5_construction/s11_battery2.json
+MATCH      su5_construction/s12_flagship.json
+MATCH      su5_construction/s1_liftspace.json
+MATCH      su5_construction/s2_sizing.json
+MATCH      su5_construction/s3_screen.json
+MATCH      su5_construction/s4_orbits_w.json
+MATCH      su5_construction/s5_build.json
+MATCH      su5_construction/s6_mechanism.json
+MATCH      su5_construction/s7_analyse.json
+MATCH      su5_construction/s8_battery.json
+MATCH      su5_construction/s9_dossier.json
+MATCH      gate_su5_construction/g10_smconfig.json
+MATCH      gate_su5_construction/g11_catalogue.json
+MATCH      gate_su5_construction/g1_cb1041.json
+MATCH      gate_su5_construction/g1c_compare.json
+MATCH      gate_su5_construction/g2_classes.json
+MATCH      gate_su5_construction/g3_l1.json
+MATCH      gate_su5_construction/g4_lift_A.json
+MATCH      gate_su5_construction/g4_lift_B.json
+MATCH      gate_su5_construction/g5_battery.json
+MATCH      gate_su5_construction/g5b_gauge.json
+MATCH      gate_su5_construction/g6_signature.json
+MATCH      gate_su5_construction/g7_buildB.json
+MATCH      gate_su5_construction/g8_batteryB.json
+MATCH      gate_su5_construction/g8b_smvalid.json
+MATCH      gate_su5_construction/g8c_doubled_smvalid.json
+MATCH      gate_su5_construction/g9_equiv.json
+MATCH      gate_su5_construction/g9_pairs.json
+MATCH      gate_su5_construction/gate_models.json
+MATCH      root_lift/guard1d_projection.json
+MATCH      root_lift/questionA_centralizer.json
+MATCH      root_lift/questionA_summary.json
+MATCH      root_lift/questionB_Z2xZ4_1_1.json
+MATCH      root_lift/questionB_Z3xZ6_1_1.json
+MATCH      root_lift/questionC_samefp.json
+MATCH      two_classes/paperA_two_classes_enum.json
+
+75 matched exactly, 1 matched up to absolute paths / non-regenerated commentary, 0 differ substantively, 0 not re-run (of 76 deposited tables)

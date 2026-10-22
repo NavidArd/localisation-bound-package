@@ -1,0 +1,840 @@
+{
+ "BR0": {
+  "meta": {
+   "kind": "base"
+  },
+  "n_left": 147,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": 2,
+   "uc": -4,
+   "ec": 1,
+   "dc": 9,
+   "L": 5
+  },
+  "doubled_T0l": [
+   {
+    "field": "F_1",
+    "kl": [
+     0,
+     1
+    ],
+    "role": "Q"
+   }
+  ],
+  "identical_to_BR0": true,
+  "records_shared_with_BR0": 147,
+  "records_only_here": 0,
+  "records_only_in_BR0": 0
+ },
+ "BR1": {
+  "meta": {
+   "kind": "V1",
+   "shift": [
+    "1",
+    "-1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "0",
+   "other_mod1": "0"
+  },
+  "n_left": 147,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": 2,
+   "uc": -4,
+   "ec": 1,
+   "dc": 9,
+   "L": 5
+  },
+  "doubled_T0l": [
+   {
+    "field": "F_1",
+    "kl": [
+     0,
+     1
+    ],
+    "role": "Q"
+   }
+  ],
+  "identical_to_BR0": true,
+  "records_shared_with_BR0": 147,
+  "records_only_here": 0,
+  "records_only_in_BR0": 0
+ },
+ "BR2": {
+  "meta": {
+   "kind": "V1",
+   "shift": [
+    "0",
+    "0",
+    "-1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "0",
+   "other_mod1": "1/3"
+  },
+  "n_left": 147,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": 2,
+   "uc": -4,
+   "ec": 1,
+   "dc": 9,
+   "L": 5
+  },
+  "doubled_T0l": [
+   {
+    "field": "F_1",
+    "kl": [
+     0,
+     1
+    ],
+    "role": "Q"
+   }
+  ],
+  "identical_to_BR0": true,
+  "records_shared_with_BR0": 147,
+  "records_only_here": 0,
+  "records_only_in_BR0": 0
+ },
+ "BR3": {
+  "meta": {
+   "kind": "V1",
+   "shift": [
+    "0",
+    "0",
+    "1",
+    "-1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "0",
+   "other_mod1": "2/3"
+  },
+  "n_left": 147,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": 2,
+   "uc": -4,
+   "ec": 1,
+   "dc": 9,
+   "L": 5
+  },
+  "doubled_T0l": [
+   {
+    "field": "F_1",
+    "kl": [
+     0,
+     1
+    ],
+    "role": "Q"
+   }
+  ],
+  "identical_to_BR0": true,
+  "records_shared_with_BR0": 147,
+  "records_only_here": 0,
+  "records_only_in_BR0": 0
+ },
+ "BR4": {
+  "meta": {
+   "kind": "V1",
+   "shift": [
+    "0",
+    "0",
+    "0",
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "1/3",
+   "other_mod1": "0"
+  },
+  "n_left": 136,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": -5,
+   "uc": 6,
+   "ec": -1,
+   "dc": 17,
+   "L": 13
+  },
+  "doubled_T0l": [
+   {
+    "field": "F_15",
+    "kl": [
+     0,
+     5
+    ],
+    "role": "Qbar"
+   }
+  ],
+  "identical_to_BR0": false,
+  "records_shared_with_BR0": 31,
+  "records_only_here": 105,
+  "records_only_in_BR0": 116
+ },
+ "BR5": {
+  "meta": {
+   "kind": "V1",
+   "shift": [
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "1/3",
+   "other_mod1": "1/3"
+  },
+  "n_left": 136,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": -5,
+   "uc": 6,
+   "ec": -1,
+   "dc": 17,
+   "L": 13
+  },
+  "doubled_T0l": [
+   {
+    "field": "F_15",
+    "kl": [
+     0,
+     5
+    ],
+    "role": "Qbar"
+   }
+  ],
+  "identical_to_BR0": false,
+  "records_shared_with_BR0": 31,
+  "records_only_here": 105,
+  "records_only_in_BR0": 116
+ },
+ "BR6": {
+  "meta": {
+   "kind": "V1",
+   "shift": [
+    "0",
+    "0",
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "1/3",
+   "other_mod1": "2/3"
+  },
+  "n_left": 136,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": -5,
+   "uc": 6,
+   "ec": -1,
+   "dc": 17,
+   "L": 13
+  },
+  "doubled_T0l": [
+   {
+    "field": "F_15",
+    "kl": [
+     0,
+     5
+    ],
+    "role": "Qbar"
+   }
+  ],
+  "identical_to_BR0": false,
+  "records_shared_with_BR0": 31,
+  "records_only_here": 105,
+  "records_only_in_BR0": 116
+ },
+ "BR7": {
+  "meta": {
+   "kind": "V1",
+   "shift": [
+    "0",
+    "0",
+    "0",
+    "-1",
+    "-1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "2/3",
+   "other_mod1": "0"
+  },
+  "n_left": 132,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": 0,
+   "uc": 1,
+   "ec": 0,
+   "dc": 12,
+   "L": 5
+  },
+  "doubled_T0l": [],
+  "identical_to_BR0": false,
+  "records_shared_with_BR0": 31,
+  "records_only_here": 101,
+  "records_only_in_BR0": 116
+ },
+ "BR8": {
+  "meta": {
+   "kind": "V1",
+   "shift": [
+    "0",
+    "0",
+    "-1",
+    "-1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "2/3",
+   "other_mod1": "1/3"
+  },
+  "n_left": 132,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": 0,
+   "uc": 1,
+   "ec": 0,
+   "dc": 12,
+   "L": 5
+  },
+  "doubled_T0l": [],
+  "identical_to_BR0": false,
+  "records_shared_with_BR0": 31,
+  "records_only_here": 101,
+  "records_only_in_BR0": 116
+ },
+ "BR9": {
+  "meta": {
+   "kind": "V1",
+   "shift": [
+    "-1",
+    "-1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "2/3",
+   "other_mod1": "2/3"
+  },
+  "n_left": 132,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": 0,
+   "uc": 1,
+   "ec": 0,
+   "dc": 12,
+   "L": 5
+  },
+  "doubled_T0l": [],
+  "identical_to_BR0": false,
+  "records_shared_with_BR0": 31,
+  "records_only_here": 101,
+  "records_only_in_BR0": 116
+ },
+ "BR10": {
+  "meta": {
+   "kind": "W",
+   "shift": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "-1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "0",
+   "other_mod1": "0"
+  },
+  "n_left": 147,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": 2,
+   "uc": -4,
+   "ec": 1,
+   "dc": 9,
+   "L": 5
+  },
+  "doubled_T0l": [
+   {
+    "field": "F_1",
+    "kl": [
+     0,
+     1
+    ],
+    "role": "Q"
+   }
+  ],
+  "identical_to_BR0": true,
+  "records_shared_with_BR0": 147,
+  "records_only_here": 0,
+  "records_only_in_BR0": 0
+ },
+ "BR11": {
+  "meta": {
+   "kind": "W",
+   "shift": [
+    "0",
+    "0",
+    "1",
+    "0",
+    "-1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "0",
+   "other_mod1": "1/3"
+  },
+  "n_left": 147,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": 2,
+   "uc": -4,
+   "ec": 1,
+   "dc": 9,
+   "L": 5
+  },
+  "doubled_T0l": [
+   {
+    "field": "F_1",
+    "kl": [
+     0,
+     1
+    ],
+    "role": "Q"
+   }
+  ],
+  "identical_to_BR0": true,
+  "records_shared_with_BR0": 147,
+  "records_only_here": 0,
+  "records_only_in_BR0": 0
+ },
+ "BR12": {
+  "meta": {
+   "kind": "W",
+   "shift": [
+    "0",
+    "0",
+    "-1",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "0",
+   "other_mod1": "2/3"
+  },
+  "n_left": 147,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": 2,
+   "uc": -4,
+   "ec": 1,
+   "dc": 9,
+   "L": 5
+  },
+  "doubled_T0l": [
+   {
+    "field": "F_1",
+    "kl": [
+     0,
+     1
+    ],
+    "role": "Q"
+   }
+  ],
+  "identical_to_BR0": true,
+  "records_shared_with_BR0": 147,
+  "records_only_here": 0,
+  "records_only_in_BR0": 0
+ },
+ "BR13": {
+  "meta": {
+   "kind": "W",
+   "shift": [
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "1/3",
+   "other_mod1": "0"
+  },
+  "n_left": 153,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": -3,
+   "uc": -2,
+   "ec": 1,
+   "dc": 16,
+   "L": 13
+  },
+  "doubled_T0l": [
+   {
+    "field": "F_30",
+    "kl": [
+     0,
+     5
+    ],
+    "role": "ecbar"
+   }
+  ],
+  "identical_to_BR0": false,
+  "records_shared_with_BR0": 74,
+  "records_only_here": 79,
+  "records_only_in_BR0": 73
+ },
+ "BR14": {
+  "meta": {
+   "kind": "W",
+   "shift": [
+    "0",
+    "0",
+    "0",
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "1/3",
+   "other_mod1": "1/3"
+  },
+  "n_left": 153,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": -3,
+   "uc": -2,
+   "ec": 1,
+   "dc": 16,
+   "L": 13
+  },
+  "doubled_T0l": [
+   {
+    "field": "F_30",
+    "kl": [
+     0,
+     5
+    ],
+    "role": "ecbar"
+   }
+  ],
+  "identical_to_BR0": false,
+  "records_shared_with_BR0": 74,
+  "records_only_here": 79,
+  "records_only_in_BR0": 73
+ },
+ "BR15": {
+  "meta": {
+   "kind": "W",
+   "shift": [
+    "0",
+    "0",
+    "1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "1/3",
+   "other_mod1": "2/3"
+  },
+  "n_left": 153,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": -3,
+   "uc": -2,
+   "ec": 1,
+   "dc": 16,
+   "L": 13
+  },
+  "doubled_T0l": [
+   {
+    "field": "F_30",
+    "kl": [
+     0,
+     5
+    ],
+    "role": "ecbar"
+   }
+  ],
+  "identical_to_BR0": false,
+  "records_shared_with_BR0": 74,
+  "records_only_here": 79,
+  "records_only_in_BR0": 73
+ },
+ "BR16": {
+  "meta": {
+   "kind": "W",
+   "shift": [
+    "-1",
+    "-1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "2/3",
+   "other_mod1": "0"
+  },
+  "n_left": 119,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": -1,
+   "uc": 0,
+   "ec": 0,
+   "dc": 4,
+   "L": 5
+  },
+  "doubled_T0l": [],
+  "identical_to_BR0": false,
+  "records_shared_with_BR0": 74,
+  "records_only_here": 45,
+  "records_only_in_BR0": 73
+ },
+ "BR17": {
+  "meta": {
+   "kind": "W",
+   "shift": [
+    "0",
+    "0",
+    "-1",
+    "-1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "2/3",
+   "other_mod1": "1/3"
+  },
+  "n_left": 119,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": -1,
+   "uc": 0,
+   "ec": 0,
+   "dc": 4,
+   "L": 5
+  },
+  "doubled_T0l": [],
+  "identical_to_BR0": false,
+  "records_shared_with_BR0": 74,
+  "records_only_here": 45,
+  "records_only_in_BR0": 73
+ },
+ "BR18": {
+  "meta": {
+   "kind": "W",
+   "shift": [
+    "0",
+    "0",
+    "0",
+    "-1",
+    "-1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "dot_V2_mod1": "2/3",
+   "other_mod1": "2/3"
+  },
+  "n_left": 119,
+  "gauge": "SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+  "net": {
+   "Q": -1,
+   "uc": 0,
+   "ec": 0,
+   "dc": 4,
+   "L": 5
+  },
+  "doubled_T0l": [],
+  "identical_to_BR0": false,
+  "records_shared_with_BR0": 74,
+  "records_only_here": 45,
+  "records_only_in_BR0": 73
+ }
+}

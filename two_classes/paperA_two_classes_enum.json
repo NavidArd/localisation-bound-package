@@ -1,0 +1,222 @@
+{
+ "selftests": {
+  "e8_theta_0_to_10": [
+   1,
+   240,
+   2160,
+   6720
+  ],
+  "exact_key_separates_e1": true,
+  "coarse_key_merges_e1": true,
+  "exact_key_lattice_invariance_200_of": 200,
+  "roots_perp_WSM_block1": 20,
+  "  of which supported on coords 6,7,8": 12,
+  "v1": "(Fraction(0, 1), Fraction(1, 3), Fraction(-1, 3))",
+  "v2": "(Fraction(1, 6), Fraction(0, 1), Fraction(-1, 6))",
+  "delta_c(0,1)": "5/36",
+  "MI2_value": "10"
+ },
+ "box": [
+  [
+   "-4",
+   "-4/15",
+   "1/6"
+  ],
+  [
+   "-7/2",
+   "-11/60",
+   "17/48"
+  ],
+  [
+   "-3",
+   "-1/10",
+   "17/36"
+  ],
+  [
+   "-5/2",
+   "-1/60",
+   "25/48"
+  ],
+  [
+   "-2",
+   "1/15",
+   "1/2"
+  ],
+  [
+   "-3/2",
+   "3/20",
+   "59/144"
+  ],
+  [
+   "-1",
+   "7/30",
+   "1/4"
+  ],
+  [
+   "-1/2",
+   "19/60",
+   "1/48"
+  ]
+ ],
+ "n_solutions_10_branch_only": 13200,
+ "n_branch2": 12000,
+ "n_branch1": 1200,
+ "n_solutions": 26400,
+ "n_classes_exact": 1260,
+ "n_classes_coarse": 974,
+ "closure_checks": 332640,
+ "n_inequivalent": 2,
+ "n_inequivalent_without_minus1": 4,
+ "representatives": [
+  {
+   "branch": "2",
+   "n_classes_in_orbit": 1200,
+   "V2": [
+    "-2/3",
+    "-2/3",
+    "1/3",
+    "1/3",
+    "1/3",
+    "0",
+    "0",
+    "0",
+    "-1/2",
+    "-1/2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "Delta": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "-1",
+    "-1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "order": 6,
+   "norm2": "31/18",
+   "w2": "6/5",
+   "role": "ucbar",
+   "MI2": "10",
+   "n_Delta_in_SM_factor": 0,
+   "n_Delta_in_other_factor": 2,
+   "min_norm2_second_block": "1/2",
+   "second_block_zero": false
+  },
+  {
+   "branch": "1",
+   "n_classes_in_orbit": 60,
+   "V2": [
+    "-2/3",
+    "-2/3",
+    "1/3",
+    "1/3",
+    "1/3",
+    "0",
+    "1/2",
+    "-1/2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "Delta": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "-1",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "order": 6,
+   "norm2": "31/18",
+   "w2": "6/5",
+   "role": "ucbar",
+   "MI2": "10",
+   "n_Delta_in_SM_factor": 2,
+   "n_Delta_in_other_factor": 0,
+   "min_norm2_second_block": "0",
+   "second_block_zero": true
+  }
+ ],
+ "orbit_certificate_classes_reached": 1260,
+ "orbit_certificate_generators": {
+  "block1_perp_roots": 20,
+  "block1_SM_simple_roots": 3,
+  "block2_roots": 240,
+  "global_minus_one": 1
+ },
+ "named_vectors": {
+  "phase target (branch 2)": {
+   "present": true,
+   "orbit": 0,
+   "norm2": "31/18",
+   "w2": "6/5",
+   "order": 6,
+   "role": "uc",
+   "MI2": "10"
+  },
+  "gate case B": {
+   "present": true,
+   "orbit": 1,
+   "norm2": "31/18",
+   "w2": "6/5",
+   "order": 6,
+   "role": "uc",
+   "MI2": "10"
+  },
+  "paper rep A": {
+   "present": true,
+   "orbit": 0,
+   "norm2": "31/18",
+   "w2": "6/5",
+   "order": 6,
+   "role": "uc",
+   "MI2": "10"
+  },
+  "paper rep B": {
+   "present": true,
+   "orbit": 1,
+   "norm2": "31/18",
+   "w2": "6/5",
+   "order": 6,
+   "role": "uc",
+   "MI2": "10"
+  }
+ },
+ "reconciliation": {
+  "gate_style_solutions": 6000,
+  "coarse_classes_on_gate_subset": 238,
+  "exact_classes_on_gate_subset": 300
+ },
+ "n_distinct_p": 25200,
+ "n_p_Delta_incidences": 50400
+}

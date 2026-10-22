@@ -1,0 +1,406 @@
+{
+ "Z2xZ4_1_1": {
+  "geometry": "Z2xZ4_1_1",
+  "nseg": 5,
+  "models": 958,
+  "cells_multi10": 1564,
+  "gamma_same": 346,
+  "gamma_diff": 1218,
+  "qsh_same": 1564,
+  "qsh_diff": 0,
+  "gamma_diff_examples": [
+   {
+    "model": "MSSM2",
+    "key": "((0, 3), (0, 0, 0, 0, 0, 0))",
+    "g": [
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM2",
+    "key": "((0, 3), (0, 0, 0, 0, 0, 1))",
+    "g": [
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM5",
+    "key": "((0, 1), (0, 0, 0, 0, 0, 0))",
+    "g": [
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM5",
+    "key": "((0, 1), (0, 0, 0, 0, 0, 1))",
+    "g": [
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM15",
+    "key": "((0, 3), (0, 0, 0, 0, 0, 0))",
+    "g": [
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM15",
+    "key": "((0, 3), (0, 0, 0, 0, 0, 1))",
+    "g": [
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM22",
+    "key": "((1, 2), (1, 0, 0, 1, 0, 0))",
+    "g": [
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "Q",
+      "(Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM22",
+    "key": "((1, 2), (1, 0, 1, 1, 0, 0))",
+    "g": [
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "Q",
+      "(Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM30",
+    "key": "((1, 0), (0, 0, 1, 1, 0, 0))",
+    "g": [
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "Q",
+      "(Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM30",
+    "key": "((1, 0), (0, 0, 1, 1, 1, 0))",
+    "g": [
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "Q",
+      "(Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   }
+  ],
+  "gamma_values": {
+   "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))": 1310,
+   "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))": 747,
+   "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1))": 570,
+   "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1))": 554,
+   "(Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))": 280,
+   "(Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))": 157,
+   "(Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1))": 149,
+   "(Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))": 143
+  }
+ },
+ "Z3xZ6_1_1": {
+  "geometry": "Z3xZ6_1_1",
+  "nseg": 5,
+  "models": 500,
+  "cells_multi10": 1290,
+  "gamma_same": 375,
+  "gamma_diff": 915,
+  "qsh_same": 1290,
+  "qsh_diff": 0,
+  "gamma_diff_examples": [
+   {
+    "model": "MSSM0",
+    "key": "((2, 2), (0, 1, 0, 0, 0, 0))",
+    "g": [
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM0",
+    "key": "((2, 2), (0, 1, 0, 1, 0, 0))",
+    "g": [
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM0",
+    "key": "((2, 2), (0, 1, 0, 2, 0, 0))",
+    "g": [
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM1",
+    "key": "((0, 4), (0, 1, 0, 0, 0, 0))",
+    "g": [
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM1",
+    "key": "((0, 4), (0, 0, 0, 0, 0, 1))",
+    "g": [
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM1",
+    "key": "((0, 4), (0, 1, 0, 0, 0, 1))",
+    "g": [
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM1",
+    "key": "((0, 4), (0, 2, 0, 0, 0, 1))",
+    "g": [
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM2",
+    "key": "((0, 2), (0, 1, 0, 0, 0, 0))",
+    "g": [
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM2",
+    "key": "((0, 2), (0, 0, 0, 0, 0, 1))",
+    "g": [
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   },
+   {
+    "model": "MSSM2",
+    "key": "((0, 2), (0, 1, 0, 0, 0, 1))",
+    "g": [
+     [
+      "uc",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "ec",
+      "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ],
+     [
+      "Q",
+      "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))"
+     ]
+    ]
+   }
+  ],
+  "gamma_values": {
+   "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))": 1121,
+   "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1))": 600,
+   "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1))": 519,
+   "(Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(2, 3), Fraction(2, 3), Fraction(0, 1), Fraction(0, 1))": 461,
+   "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1))": 251,
+   "(Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(0, 1), Fraction(2, 3), Fraction(2, 3), Fraction(0, 1), Fraction(0, 1))": 224,
+   "(Fraction(2, 3), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1))": 142,
+   "(Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1))": 138
+  }
+ }
+}

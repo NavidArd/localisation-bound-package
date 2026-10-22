@@ -1,0 +1,30 @@
+
+==============================================================================
+CASE A  V2 = 2/3, 2/3, -1/3, -1/3, -1/3, 0, 0, 0, 1/4, -1/4, -1/4, -1/4, -1/4, -1/4, -1/4, 1/4
+       Delta = 0, 0, 0, 0, 0, 0, 0, 0, 1/2, -1/2, -1/2, -1/2, -1/2, -1/2, -1/2, 1/2  (block 2)
+  stabiliser roots: block1 = 12  block2 = 126
+  block-1 classes satisfying SM + Delta: 243 of 6561
+  block-2 classes satisfying SM + Delta: 2187 of 6561
+  raw (block1 x block2) product: 531441
+  V1 space (SM, Delta, MI1, MI3): 59535
+  W  space (SM, Delta, MI6, MI5): 59535
+  block-1 orbits: 45  block-2 orbits: 6
+  V1 orbit representatives: 36
+  (V1 orbit rep, W) pairs passing XY + MI4: 750384
+  INEQUIVALENT (V1, W) pairs: 2912
+  wrote g4_lift_A.json
+
+==============================================================================
+CASE B  V2 = 7/12, 7/12, -5/12, -5/12, -5/12, -1/12, -5/12, 7/12, 0, 0, 0, 0, 0, 0, 0, 0
+       Delta = 0, 0, 0, 0, 0, 0, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0  (block 1)
+  stabiliser roots: block1 = 2  block2 = 240
+  block-1 classes satisfying SM + Delta: 81 of 6561
+  block-2 classes satisfying SM + Delta: 6561 of 6561
+  raw (block1 x block2) product: 531441
+  V1 space (SM, Delta, MI1, MI3): 59535
+  W  space (SM, Delta, MI6, MI5): 59535
+  block-1 orbits: 54  block-2 orbits: 5
+  V1 orbit representatives: 33
+  (V1 orbit rep, W) pairs passing XY + MI4: 696600
+  INEQUIVALENT (V1, W) pairs: 1432
+  wrote g4_lift_B.json

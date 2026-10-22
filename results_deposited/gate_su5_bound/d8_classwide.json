@@ -1,0 +1,1613 @@
+{
+ "_meta": {
+  "source": "primary orbifolder geometry files",
+  "geometry_dir": "F:\\physics\\orbifolder-1.2.1\\Geometry",
+  "formula": "delta_c = 1/2 sum_a eta_a (1-eta_a); B = 1 - delta_c (N_osc=0)",
+  "thresholds": {
+   "ten": "17/20",
+   "fivebar": "13/20"
+  }
+ },
+ "Z2xZ4_1_1": {
+  "point_group": [
+   2,
+   4
+  ],
+  "twist_vectors": [
+   [
+    "0",
+    "1/2",
+    "-1/2"
+   ],
+   [
+    "1/4",
+    "0",
+    "-1/4"
+   ]
+  ],
+  "provenance": [
+   {
+    "file": "F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z2xZ4_1_1.txt",
+    "line": 12,
+    "text": "0/1 0/1 1/2 -1/2"
+   },
+   {
+    "file": "F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z2xZ4_1_1.txt",
+    "line": 13,
+    "text": "0/1 1/4 0/1 -1/4"
+   }
+  ],
+  "n_twisted": 7,
+  "n_distinct_B": 3,
+  "B_multiset": {
+   "13/16": 2,
+   "3/4": 3,
+   "11/16": 2
+  },
+  "B_max": "13/16",
+  "B_min": "11/16",
+  "ten_doubling_permitted": [],
+  "fivebar_doubling_forbidden": [],
+  "susy_violations": [],
+  "sectors": [
+   {
+    "k": 0,
+    "l": 1,
+    "eta": [
+     "1/4",
+     "0",
+     "3/4"
+    ],
+    "delta_c": "3/16",
+    "B": "13/16",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 0,
+    "l": 2,
+    "eta": [
+     "1/2",
+     "0",
+     "1/2"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 0,
+    "l": 3,
+    "eta": [
+     "3/4",
+     "0",
+     "1/4"
+    ],
+    "delta_c": "3/16",
+    "B": "13/16",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 0,
+    "eta": [
+     "0",
+     "1/2",
+     "1/2"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 1,
+    "eta": [
+     "1/4",
+     "1/2",
+     "1/4"
+    ],
+    "delta_c": "5/16",
+    "B": "11/16",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 2,
+    "eta": [
+     "1/2",
+     "1/2",
+     "0"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 3,
+    "eta": [
+     "3/4",
+     "1/2",
+     "3/4"
+    ],
+    "delta_c": "5/16",
+    "B": "11/16",
+    "susy_sum": "2",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   }
+  ]
+ },
+ "Z4xZ4_1_1": {
+  "point_group": [
+   4,
+   4
+  ],
+  "twist_vectors": [
+   [
+    "0",
+    "1/4",
+    "-1/4"
+   ],
+   [
+    "1/4",
+    "0",
+    "-1/4"
+   ]
+  ],
+  "provenance": [
+   {
+    "file": "F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z4xZ4_1_1.txt",
+    "line": 12,
+    "text": "0/1 0/1 1/4 -1/4"
+   },
+   {
+    "file": "F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z4xZ4_1_1.txt",
+    "line": 13,
+    "text": "0/1 1/4 0/1 -1/4"
+   }
+  ],
+  "n_twisted": 15,
+  "n_distinct_B": 3,
+  "B_multiset": {
+   "13/16": 6,
+   "3/4": 3,
+   "11/16": 6
+  },
+  "B_max": "13/16",
+  "B_min": "11/16",
+  "ten_doubling_permitted": [],
+  "fivebar_doubling_forbidden": [],
+  "susy_violations": [],
+  "sectors": [
+   {
+    "k": 0,
+    "l": 1,
+    "eta": [
+     "1/4",
+     "0",
+     "3/4"
+    ],
+    "delta_c": "3/16",
+    "B": "13/16",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 0,
+    "l": 2,
+    "eta": [
+     "1/2",
+     "0",
+     "1/2"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 0,
+    "l": 3,
+    "eta": [
+     "3/4",
+     "0",
+     "1/4"
+    ],
+    "delta_c": "3/16",
+    "B": "13/16",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 0,
+    "eta": [
+     "0",
+     "1/4",
+     "3/4"
+    ],
+    "delta_c": "3/16",
+    "B": "13/16",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 1,
+    "eta": [
+     "1/4",
+     "1/4",
+     "1/2"
+    ],
+    "delta_c": "5/16",
+    "B": "11/16",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 2,
+    "eta": [
+     "1/2",
+     "1/4",
+     "1/4"
+    ],
+    "delta_c": "5/16",
+    "B": "11/16",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 3,
+    "eta": [
+     "3/4",
+     "1/4",
+     "0"
+    ],
+    "delta_c": "3/16",
+    "B": "13/16",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 0,
+    "eta": [
+     "0",
+     "1/2",
+     "1/2"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 1,
+    "eta": [
+     "1/4",
+     "1/2",
+     "1/4"
+    ],
+    "delta_c": "5/16",
+    "B": "11/16",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 2,
+    "eta": [
+     "1/2",
+     "1/2",
+     "0"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 3,
+    "eta": [
+     "3/4",
+     "1/2",
+     "3/4"
+    ],
+    "delta_c": "5/16",
+    "B": "11/16",
+    "susy_sum": "2",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 3,
+    "l": 0,
+    "eta": [
+     "0",
+     "3/4",
+     "1/4"
+    ],
+    "delta_c": "3/16",
+    "B": "13/16",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 3,
+    "l": 1,
+    "eta": [
+     "1/4",
+     "3/4",
+     "0"
+    ],
+    "delta_c": "3/16",
+    "B": "13/16",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 3,
+    "l": 2,
+    "eta": [
+     "1/2",
+     "3/4",
+     "3/4"
+    ],
+    "delta_c": "5/16",
+    "B": "11/16",
+    "susy_sum": "2",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 3,
+    "l": 3,
+    "eta": [
+     "3/4",
+     "3/4",
+     "1/2"
+    ],
+    "delta_c": "5/16",
+    "B": "11/16",
+    "susy_sum": "2",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   }
+  ]
+ },
+ "Z3xZ3_1_1": {
+  "point_group": [
+   3,
+   3
+  ],
+  "twist_vectors": [
+   [
+    "0",
+    "1/3",
+    "-1/3"
+   ],
+   [
+    "1/3",
+    "0",
+    "-1/3"
+   ]
+  ],
+  "provenance": [
+   {
+    "file": "F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z3xZ3_1_1.txt",
+    "line": 12,
+    "text": "0/1 0/1 1/3 -1/3"
+   },
+   {
+    "file": "F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z3xZ3_1_1.txt",
+    "line": 13,
+    "text": "0/1 1/3 0/1 -1/3"
+   }
+  ],
+  "n_twisted": 8,
+  "n_distinct_B": 2,
+  "B_multiset": {
+   "7/9": 6,
+   "2/3": 2
+  },
+  "B_max": "7/9",
+  "B_min": "2/3",
+  "ten_doubling_permitted": [],
+  "fivebar_doubling_forbidden": [],
+  "susy_violations": [],
+  "sectors": [
+   {
+    "k": 0,
+    "l": 1,
+    "eta": [
+     "1/3",
+     "0",
+     "2/3"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 0,
+    "l": 2,
+    "eta": [
+     "2/3",
+     "0",
+     "1/3"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 0,
+    "eta": [
+     "0",
+     "1/3",
+     "2/3"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 1,
+    "eta": [
+     "1/3",
+     "1/3",
+     "1/3"
+    ],
+    "delta_c": "1/3",
+    "B": "2/3",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 2,
+    "eta": [
+     "2/3",
+     "1/3",
+     "0"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 0,
+    "eta": [
+     "0",
+     "2/3",
+     "1/3"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 1,
+    "eta": [
+     "1/3",
+     "2/3",
+     "0"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 2,
+    "eta": [
+     "2/3",
+     "2/3",
+     "2/3"
+    ],
+    "delta_c": "1/3",
+    "B": "2/3",
+    "susy_sum": "2",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   }
+  ]
+ },
+ "Z6-I_1_1": {
+  "point_group": [
+   6,
+   1
+  ],
+  "twist_vectors": [
+   [
+    "1/6",
+    "1/6",
+    "-1/3"
+   ]
+  ],
+  "provenance": [
+   {
+    "file": "F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z6-I_1_1.txt",
+    "line": 12,
+    "text": "0/1 1/6 1/6 -1/3"
+   }
+  ],
+  "n_twisted": 5,
+  "n_distinct_B": 2,
+  "B_multiset": {
+   "3/4": 3,
+   "2/3": 2
+  },
+  "B_max": "3/4",
+  "B_min": "2/3",
+  "ten_doubling_permitted": [],
+  "fivebar_doubling_forbidden": [],
+  "susy_violations": [],
+  "sectors": [
+   {
+    "k": 1,
+    "l": 0,
+    "eta": [
+     "1/6",
+     "1/6",
+     "2/3"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 0,
+    "eta": [
+     "1/3",
+     "1/3",
+     "1/3"
+    ],
+    "delta_c": "1/3",
+    "B": "2/3",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 3,
+    "l": 0,
+    "eta": [
+     "1/2",
+     "1/2",
+     "0"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 4,
+    "l": 0,
+    "eta": [
+     "2/3",
+     "2/3",
+     "2/3"
+    ],
+    "delta_c": "1/3",
+    "B": "2/3",
+    "susy_sum": "2",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 5,
+    "l": 0,
+    "eta": [
+     "5/6",
+     "5/6",
+     "1/3"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "2",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   }
+  ]
+ },
+ "Z6-II_1_1": {
+  "point_group": [
+   6,
+   1
+  ],
+  "twist_vectors": [
+   [
+    "1/6",
+    "1/3",
+    "-1/2"
+   ]
+  ],
+  "provenance": [
+   {
+    "file": "F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z6-II_1_1.txt",
+    "line": 12,
+    "text": "0/1 1/6 1/3 -1/2"
+   }
+  ],
+  "n_twisted": 5,
+  "n_distinct_B": 3,
+  "B_multiset": {
+   "7/9": 2,
+   "3/4": 1,
+   "25/36": 2
+  },
+  "B_max": "7/9",
+  "B_min": "25/36",
+  "ten_doubling_permitted": [],
+  "fivebar_doubling_forbidden": [],
+  "susy_violations": [],
+  "sectors": [
+   {
+    "k": 1,
+    "l": 0,
+    "eta": [
+     "1/6",
+     "1/3",
+     "1/2"
+    ],
+    "delta_c": "11/36",
+    "B": "25/36",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 0,
+    "eta": [
+     "1/3",
+     "2/3",
+     "0"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 3,
+    "l": 0,
+    "eta": [
+     "1/2",
+     "0",
+     "1/2"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 4,
+    "l": 0,
+    "eta": [
+     "2/3",
+     "1/3",
+     "0"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 5,
+    "l": 0,
+    "eta": [
+     "5/6",
+     "2/3",
+     "1/2"
+    ],
+    "delta_c": "11/36",
+    "B": "25/36",
+    "susy_sum": "2",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   }
+  ]
+ },
+ "Z4_1_1": {
+  "point_group": [
+   4,
+   1
+  ],
+  "twist_vectors": [
+   [
+    "1/4",
+    "1/4",
+    "-1/2"
+   ]
+  ],
+  "provenance": [
+   {
+    "file": "F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z4_1_1.txt",
+    "line": 12,
+    "text": "0/1 1/4 1/4 -1/2"
+   }
+  ],
+  "n_twisted": 3,
+  "n_distinct_B": 2,
+  "B_multiset": {
+   "3/4": 1,
+   "11/16": 2
+  },
+  "B_max": "3/4",
+  "B_min": "11/16",
+  "ten_doubling_permitted": [],
+  "fivebar_doubling_forbidden": [],
+  "susy_violations": [],
+  "sectors": [
+   {
+    "k": 1,
+    "l": 0,
+    "eta": [
+     "1/4",
+     "1/4",
+     "1/2"
+    ],
+    "delta_c": "5/16",
+    "B": "11/16",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 0,
+    "eta": [
+     "1/2",
+     "1/2",
+     "0"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 3,
+    "l": 0,
+    "eta": [
+     "3/4",
+     "3/4",
+     "1/2"
+    ],
+    "delta_c": "5/16",
+    "B": "11/16",
+    "susy_sum": "2",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   }
+  ]
+ },
+ "Z3xZ6_1_1": {
+  "point_group": [
+   3,
+   6
+  ],
+  "twist_vectors": [
+   [
+    "0",
+    "1/3",
+    "-1/3"
+   ],
+   [
+    "1/6",
+    "0",
+    "-1/6"
+   ]
+  ],
+  "provenance": [
+   {
+    "file": "F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z3xZ6_1_1.txt",
+    "line": 12,
+    "text": "0/1 0/1 1/3 -1/3"
+   },
+   {
+    "file": "F:\\physics\\orbifolder-1.2.1\\Geometry\\Geometry_Z3xZ6_1_1.txt",
+    "line": 13,
+    "text": "0/1 1/6 0/1 -1/6"
+   }
+  ],
+  "n_twisted": 17,
+  "n_distinct_B": 5,
+  "B_multiset": {
+   "31/36": 2,
+   "7/9": 6,
+   "3/4": 3,
+   "25/36": 4,
+   "2/3": 2
+  },
+  "B_max": "31/36",
+  "B_min": "2/3",
+  "ten_doubling_permitted": [
+   [
+    0,
+    1
+   ],
+   [
+    0,
+    5
+   ]
+  ],
+  "fivebar_doubling_forbidden": [],
+  "susy_violations": [],
+  "sectors": [
+   {
+    "k": 0,
+    "l": 1,
+    "eta": [
+     "1/6",
+     "0",
+     "5/6"
+    ],
+    "delta_c": "5/36",
+    "B": "31/36",
+    "susy_sum": "1",
+    "ten_doubling_permitted": true,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 0,
+    "l": 2,
+    "eta": [
+     "1/3",
+     "0",
+     "2/3"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 0,
+    "l": 3,
+    "eta": [
+     "1/2",
+     "0",
+     "1/2"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 0,
+    "l": 4,
+    "eta": [
+     "2/3",
+     "0",
+     "1/3"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 0,
+    "l": 5,
+    "eta": [
+     "5/6",
+     "0",
+     "1/6"
+    ],
+    "delta_c": "5/36",
+    "B": "31/36",
+    "susy_sum": "1",
+    "ten_doubling_permitted": true,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 0,
+    "eta": [
+     "0",
+     "1/3",
+     "2/3"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 1,
+    "eta": [
+     "1/6",
+     "1/3",
+     "1/2"
+    ],
+    "delta_c": "11/36",
+    "B": "25/36",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 2,
+    "eta": [
+     "1/3",
+     "1/3",
+     "1/3"
+    ],
+    "delta_c": "1/3",
+    "B": "2/3",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 3,
+    "eta": [
+     "1/2",
+     "1/3",
+     "1/6"
+    ],
+    "delta_c": "11/36",
+    "B": "25/36",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 4,
+    "eta": [
+     "2/3",
+     "1/3",
+     "0"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 1,
+    "l": 5,
+    "eta": [
+     "5/6",
+     "1/3",
+     "5/6"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "2",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 0,
+    "eta": [
+     "0",
+     "2/3",
+     "1/3"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 1,
+    "eta": [
+     "1/6",
+     "2/3",
+     "1/6"
+    ],
+    "delta_c": "1/4",
+    "B": "3/4",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 2,
+    "eta": [
+     "1/3",
+     "2/3",
+     "0"
+    ],
+    "delta_c": "2/9",
+    "B": "7/9",
+    "susy_sum": "1",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 3,
+    "eta": [
+     "1/2",
+     "2/3",
+     "5/6"
+    ],
+    "delta_c": "11/36",
+    "B": "25/36",
+    "susy_sum": "2",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 4,
+    "eta": [
+     "2/3",
+     "2/3",
+     "2/3"
+    ],
+    "delta_c": "1/3",
+    "B": "2/3",
+    "susy_sum": "2",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   },
+   {
+    "k": 2,
+    "l": 5,
+    "eta": [
+     "5/6",
+     "2/3",
+     "1/2"
+    ],
+    "delta_c": "11/36",
+    "B": "25/36",
+    "susy_sum": "2",
+    "ten_doubling_permitted": false,
+    "fivebar_doubling_permitted": true
+   }
+  ]
+ },
+ "_N2_threshold": {
+  "delta_c_formula": "x(1-x)",
+  "x_star_exact": "(1 - sqrt(2/5))/2",
+  "x_star_decimal": "0.183772233983162066",
+  "check_1_over_6": {
+   "x": "1/6",
+   "delta_c": "5/36",
+   "delta_c_le_3_20": true
+  },
+  "check_1_over_5": {
+   "x": "1/5",
+   "delta_c": "4/25",
+   "delta_c_le_3_20": false
+  },
+  "check_1_over_4": {
+   "x": "1/4",
+   "delta_c": "3/16",
+   "delta_c_le_3_20": false
+  },
+  "all_primitive_k_over_N_passing_upto_N30": [
+   "1/6",
+   "5/6",
+   "1/7",
+   "6/7",
+   "1/8",
+   "7/8",
+   "1/9",
+   "8/9",
+   "1/10",
+   "9/10",
+   "1/11",
+   "2/11",
+   "9/11",
+   "10/11",
+   "1/12",
+   "11/12",
+   "1/13",
+   "2/13",
+   "11/13",
+   "12/13",
+   "1/14",
+   "13/14",
+   "1/15",
+   "2/15",
+   "13/15",
+   "14/15",
+   "1/16",
+   "15/16",
+   "1/17",
+   "2/17",
+   "3/17",
+   "14/17",
+   "15/17",
+   "16/17",
+   "1/18",
+   "17/18",
+   "1/19",
+   "2/19",
+   "3/19",
+   "16/19",
+   "17/19",
+   "18/19",
+   "1/20",
+   "3/20",
+   "17/20",
+   "19/20",
+   "1/21",
+   "2/21",
+   "19/21",
+   "20/21",
+   "1/22",
+   "3/22",
+   "19/22",
+   "21/22",
+   "1/23",
+   "2/23",
+   "3/23",
+   "4/23",
+   "19/23",
+   "20/23",
+   "21/23",
+   "22/23",
+   "1/24",
+   "23/24",
+   "1/25",
+   "2/25",
+   "3/25",
+   "4/25",
+   "21/25",
+   "22/25",
+   "23/25",
+   "24/25",
+   "1/26",
+   "3/26",
+   "23/26",
+   "25/26",
+   "1/27",
+   "2/27",
+   "4/27",
+   "23/27",
+   "25/27",
+   "26/27",
+   "1/28",
+   "3/28",
+   "5/28",
+   "23/28",
+   "25/28",
+   "27/28",
+   "1/29",
+   "2/29",
+   "3/29",
+   "4/29",
+   "5/29",
+   "24/29",
+   "25/29",
+   "26/29",
+   "27/29",
+   "28/29",
+   "1/30",
+   "29/30"
+  ]
+ },
+ "_three_plane_rotated": {
+  "search": "all eta_a = a/N in (0,1), a=1..N-1, N<=60, sum eta_a in Z, all three nonzero",
+  "min_delta_c": "13/400",
+  "at_N": 60,
+  "at": [
+   1,
+   1,
+   58
+  ],
+  "n_hits_delta_c_le_3_20": 5028,
+  "first_hits": [
+   {
+    "N": 12,
+    "eta": [
+     "1/12",
+     "1/12",
+     "10/12"
+    ],
+    "delta_c": "7/48"
+   },
+   {
+    "N": 12,
+    "eta": [
+     "1/12",
+     "10/12",
+     "1/12"
+    ],
+    "delta_c": "7/48"
+   },
+   {
+    "N": 12,
+    "eta": [
+     "2/12",
+     "11/12",
+     "11/12"
+    ],
+    "delta_c": "7/48"
+   },
+   {
+    "N": 12,
+    "eta": [
+     "10/12",
+     "1/12",
+     "1/12"
+    ],
+    "delta_c": "7/48"
+   },
+   {
+    "N": 12,
+    "eta": [
+     "11/12",
+     "2/12",
+     "11/12"
+    ],
+    "delta_c": "7/48"
+   },
+   {
+    "N": 12,
+    "eta": [
+     "11/12",
+     "11/12",
+     "2/12"
+    ],
+    "delta_c": "7/48"
+   },
+   {
+    "N": 13,
+    "eta": [
+     "1/13",
+     "1/13",
+     "11/13"
+    ],
+    "delta_c": "23/169"
+   },
+   {
+    "N": 13,
+    "eta": [
+     "1/13",
+     "11/13",
+     "1/13"
+    ],
+    "delta_c": "23/169"
+   },
+   {
+    "N": 13,
+    "eta": [
+     "2/13",
+     "12/13",
+     "12/13"
+    ],
+    "delta_c": "23/169"
+   },
+   {
+    "N": 13,
+    "eta": [
+     "11/13",
+     "1/13",
+     "1/13"
+    ],
+    "delta_c": "23/169"
+   },
+   {
+    "N": 13,
+    "eta": [
+     "12/13",
+     "2/13",
+     "12/13"
+    ],
+    "delta_c": "23/169"
+   },
+   {
+    "N": 13,
+    "eta": [
+     "12/13",
+     "12/13",
+     "2/13"
+    ],
+    "delta_c": "23/169"
+   }
+  ],
+  "smallest_N_with_hit": 12
+ },
+ "_gate_verdict_vs_phase_7_1": {
+  "Z2xZ4_1_1": {
+   "printed_md": {
+    "n_twisted": 7,
+    "B_max": "13/16",
+    "B_min": "11/16",
+    "ten_doubling": []
+   },
+   "gate": {
+    "n_twisted": 7,
+    "B_max": "13/16",
+    "B_min": "11/16",
+    "ten_doubling": [],
+    "B_multiset": {
+     "13/16": 2,
+     "3/4": 3,
+     "11/16": 2
+    }
+   },
+   "verdict_vs_markdown": "AGREE",
+   "verdict_vs_classwide_json": "AGREE"
+  },
+  "Z4xZ4_1_1": {
+   "printed_md": {
+    "n_twisted": 15,
+    "B_max": "13/16",
+    "B_min": "11/16",
+    "ten_doubling": []
+   },
+   "gate": {
+    "n_twisted": 15,
+    "B_max": "13/16",
+    "B_min": "11/16",
+    "ten_doubling": [],
+    "B_multiset": {
+     "13/16": 6,
+     "3/4": 3,
+     "11/16": 6
+    }
+   },
+   "verdict_vs_markdown": "AGREE",
+   "verdict_vs_classwide_json": "AGREE"
+  },
+  "Z3xZ3_1_1": {
+   "printed_md": {
+    "n_twisted": 8,
+    "B_max": "7/9",
+    "B_min": "2/3",
+    "ten_doubling": []
+   },
+   "gate": {
+    "n_twisted": 8,
+    "B_max": "7/9",
+    "B_min": "2/3",
+    "ten_doubling": [],
+    "B_multiset": {
+     "7/9": 6,
+     "2/3": 2
+    }
+   },
+   "verdict_vs_markdown": "AGREE",
+   "verdict_vs_classwide_json": "AGREE"
+  },
+  "Z6-I_1_1": {
+   "printed_md": {
+    "n_twisted": 5,
+    "B_max": "3/4",
+    "B_min": "2/3",
+    "ten_doubling": []
+   },
+   "gate": {
+    "n_twisted": 5,
+    "B_max": "3/4",
+    "B_min": "2/3",
+    "ten_doubling": [],
+    "B_multiset": {
+     "3/4": 3,
+     "2/3": 2
+    }
+   },
+   "verdict_vs_markdown": "AGREE",
+   "verdict_vs_classwide_json": "AGREE"
+  },
+  "Z6-II_1_1": {
+   "printed_md": {
+    "n_twisted": 5,
+    "B_max": "7/9",
+    "B_min": "25/36",
+    "ten_doubling": []
+   },
+   "gate": {
+    "n_twisted": 5,
+    "B_max": "7/9",
+    "B_min": "25/36",
+    "ten_doubling": [],
+    "B_multiset": {
+     "7/9": 2,
+     "3/4": 1,
+     "25/36": 2
+    }
+   },
+   "verdict_vs_markdown": "AGREE",
+   "verdict_vs_classwide_json": "AGREE"
+  },
+  "Z4_1_1": {
+   "printed_md": {
+    "n_twisted": 3,
+    "B_max": "3/4",
+    "B_min": "11/16",
+    "ten_doubling": []
+   },
+   "gate": {
+    "n_twisted": 3,
+    "B_max": "3/4",
+    "B_min": "11/16",
+    "ten_doubling": [],
+    "B_multiset": {
+     "3/4": 1,
+     "11/16": 2
+    }
+   },
+   "verdict_vs_markdown": "AGREE",
+   "verdict_vs_classwide_json": "AGREE"
+  },
+  "Z3xZ6_1_1": {
+   "printed_md": {
+    "n_twisted": 17,
+    "B_max": "31/36",
+    "B_min": "2/3",
+    "ten_doubling": [
+     [
+      0,
+      1
+     ],
+     [
+      0,
+      5
+     ]
+    ]
+   },
+   "gate": {
+    "n_twisted": 17,
+    "B_max": "31/36",
+    "B_min": "2/3",
+    "ten_doubling": [
+     [
+      0,
+      1
+     ],
+     [
+      0,
+      5
+     ]
+    ],
+    "B_multiset": {
+     "31/36": 2,
+     "7/9": 6,
+     "3/4": 3,
+     "25/36": 4,
+     "2/3": 2
+    }
+   },
+   "verdict_vs_markdown": "AGREE",
+   "verdict_vs_classwide_json": "AGREE"
+  }
+ },
+ "_gate_notes": {
+  "twist_provenance": "all seven read off PRIMARY orbifolder geometry files; second route via campaign code/geomlib.py agrees 0 mismatches",
+  "measured_cross_check": "per-sector MAX measured budget in data/su5_ten_bound/verify_{Z2xZ4_1_1,Z3xZ6_1_1}.json equals the recomputed N_osc=0 budget in every populated sector (6/6 and 13/13)",
+  "B_min_is_N_osc_0": "the table's B_min is min over SECTORS of 1-delta_c, NOT the min over STATES of B; 4,682 role-carrying 5bar fields in the phase's own data have B < 13/20 (Z2xZ4 4,038 at B in {9/16, 7/16}; Z3xZ6 644 at B in {4/9, 19/36, 7/12}) and are therefore NOT permitted to double by the theorem",
+  "unpopulated_sectors": {
+   "Z2xZ4_1_1": [
+    [
+     1,
+     1
+    ]
+   ],
+   "Z3xZ6_1_1": [
+    [
+     1,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     1,
+     3
+    ],
+    [
+     2,
+     1
+    ]
+   ]
+  },
+  "susy_condition": "sum_a eta_a integral in 60/60 twisted sectors across all seven",
+  "shell_enumeration_completion": {
+   "phase_ran": "code/su5_ten_bound/shell.py run(only=only, maxcells=40) -- CAP HIT",
+   "population": 65,
+   "phase_covered": 40,
+   "phase_missed": 25,
+   "missed_are": "a census-segment-ordered tail (seg34-seg45 over-represented), not a random sample",
+   "gate_reran_uncapped": {
+    "cells": 65,
+    "sector_split": {
+     "(0,5)": 33,
+     "(0,1)": 32
+    },
+    "roles": {
+     "ec": 28,
+     "uc": 22,
+     "Q": 15
+    },
+    "printed_in_own_shell": "65/65",
+    "shell_multiplicity_of_printed_10": "1 in 65/65",
+    "commutant_SU2": "23/65",
+    "shell_sizes": "26-48"
+   },
+   "phase_7_3_table_values_superseded": {
+    "cells": "40 -> 65",
+    "T(0,5)": "21 -> 33",
+    "T(0,1)": "19 -> 32",
+    "ec": "17 -> 28",
+    "uc": "15 -> 22",
+    "Q": "8 -> 15",
+    "commutant_SU2": "11/40 -> 23/65"
+   },
+   "verdict": "the phase CONCLUSION survives and is now actually established at 65/65; the stated coverage was 62% and the prose (\"every populated instance\") was false as written",
+   "gate_output": "data/gate_su5_bound/d8_shell_complete_Z3xZ6_1_1.json"
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "target_V2": "p (gate d7_construction.json)",
+ "classes_per_block": 6561,
+ "classes_total_per_shift": 43046721,
+ "block1_SM_preserving": 243,
+ "block2_Delta_integral": 2187,
+ "V1_space_A1": "243 x 6561 = 1594323",
+ "V1_space_A1_A4": "243 x 2187 = 531441",
+ "W_space_A1_A4": "243 x 2187 = 531441",
+ "naive_pair_space": 282429536481,
+ "norm_mod6_histogram": {
+  "0": 2241,
+  "2": 2160,
+  "4": 2160
+ }
+}

@@ -1,0 +1,1025 @@
+{
+ "geometry": "Z2xZ4_1_1",
+ "models": 400,
+ "pattern_at_10cells": {
+  "Q,uc,ec=111 | bars=000": 325,
+  "Q,uc,ec=100 | bars=000": 91,
+  "Q,uc,ec=011 | bars=000": 80,
+  "Q,uc,ec=000 | bars=011": 1
+ },
+ "uc_no_Q_group": {
+  "E6 x SO(10) x SU(2) x SU(4) x U(1)^1": 42,
+  "E7 x E8 x SU(2)": 20,
+  "E7 x SU(8) x U(1)^2": 12,
+  "E6 x SO(14) x SU(2) x U(1)^2": 6
+ },
+ "uc_no_Q_content": {
+  "ec,uc": 42,
+  "Hu,ec,uc": 10,
+  "L,ec,uc": 8,
+  "dc,ec,uc": 8,
+  "dcbar,ec,uc": 7,
+  "dc,dcbar,ec,uc": 3,
+  "Hu,dcbar,ec,uc": 2
+ },
+ "Q_no_uc_group": {
+  "E6 x SO(10) x SU(2) x SU(4) x U(1)^1": 52,
+  "E7 x SU(8) x U(1)^2": 16,
+  "E7 x SO(16) x SU(2)": 9,
+  "E7 x E8 x SU(2)": 8,
+  "E6 x SO(14) x SU(2) x U(1)^2": 6
+ },
+ "Q_no_uc_content": {
+  "Q": 50,
+  "L,Q": 15,
+  "Hu,Q": 11,
+  "Q,dc": 5,
+  "Hu,Q,dcbar": 4,
+  "Hu,Q,dc": 2,
+  "Hu,L,Q": 2,
+  "Q,dcbar": 2
+ },
+ "examples": [
+  {
+   "kind": "Q_no_uc",
+   "model": "MSSM10",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "Q",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "Q_no_uc",
+   "model": "MSSM10",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "Q",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "Q_no_uc",
+   "model": "MSSM10",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "Q",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "Q_no_uc",
+   "model": "MSSM10",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "Q",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM16",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    },
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM16",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    },
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM16",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    },
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM16",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    },
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM18",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    },
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM18",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    },
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM18",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    },
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM18",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    },
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "Q_no_uc",
+   "model": "MSSM20",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "Q",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "Q_no_uc",
+   "model": "MSSM20",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "Q",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "Q_no_uc",
+   "model": "MSSM20",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "Q",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "Q_no_uc",
+   "model": "MSSM20",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "Q",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM22",
+   "kl": [
+    1,
+    2
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "group": "E7 x E8 x SU(2)",
+   "fields": [
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "3/4",
+     "cls": [
+      [
+       "E7",
+       "56"
+      ]
+     ]
+    },
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "3/4",
+     "cls": [
+      [
+       "E7",
+       "56"
+      ]
+     ]
+    },
+    {
+     "role": "Hu",
+     "osc": "no",
+     "h": "3/4",
+     "cls": [
+      [
+       "E7",
+       "56"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM22",
+   "kl": [
+    1,
+    2
+   ],
+   "fp": [
+    1,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "group": "E7 x E8 x SU(2)",
+   "fields": [
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "3/4",
+     "cls": [
+      [
+       "E7",
+       "56"
+      ]
+     ]
+    },
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "3/4",
+     "cls": [
+      [
+       "E7",
+       "56"
+      ]
+     ]
+    },
+    {
+     "role": "Hu",
+     "osc": "no",
+     "h": "3/4",
+     "cls": [
+      [
+       "E7",
+       "56"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM22",
+   "kl": [
+    1,
+    2
+   ],
+   "fp": [
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+   ],
+   "group": "E7 x E8 x SU(2)",
+   "fields": [
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "3/4",
+     "cls": [
+      [
+       "E7",
+       "56"
+      ]
+     ]
+    },
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "3/4",
+     "cls": [
+      [
+       "E7",
+       "56"
+      ]
+     ]
+    },
+    {
+     "role": "Hu",
+     "osc": "no",
+     "h": "3/4",
+     "cls": [
+      [
+       "E7",
+       "56"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM22",
+   "kl": [
+    1,
+    2
+   ],
+   "fp": [
+    1,
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "group": "E7 x E8 x SU(2)",
+   "fields": [
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "3/4",
+     "cls": [
+      [
+       "E7",
+       "56"
+      ]
+     ]
+    },
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "3/4",
+     "cls": [
+      [
+       "E7",
+       "56"
+      ]
+     ]
+    },
+    {
+     "role": "Hu",
+     "osc": "no",
+     "h": "3/4",
+     "cls": [
+      [
+       "E7",
+       "56"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM25",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    },
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM25",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    },
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM25",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    },
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM25",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    },
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "kind": "uc_no_Q",
+   "model": "MSSM42",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(2) x SU(4) x U(1)^1",
+   "fields": [
+    {
+     "role": "uc",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    },
+    {
+     "role": "ec",
+     "osc": "no",
+     "h": "13/16",
+     "cls": [
+      [
+       "SO(10)",
+       "s"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

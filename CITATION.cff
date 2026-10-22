@@ -1,0 +1,97 @@
+cff-version: 1.2.0
+title: >-
+  Reproduction package for "A localisation bound for Standard-Model
+  representations in heterotic orbifolds"
+message: >-
+  If you use this package, please cite both the package and the accompanying
+  paper. NOTE: the DOI field below is a PLACEHOLDER and does not yet resolve --
+  see the `doi-status` note under `identifiers`.
+type: dataset
+version: "2.2"
+date-released: "2026-10-22"
+authors:
+  - family-names: Ardakanian
+    given-names: Navid
+    email: n.ardakanian@gmail.com
+    affiliation: Independent researcher
+abstract: >-
+  Catalogue inputs, raw orbifolder 1.2.1 output, parsed tables, and every
+  analysis script behind the localisation bound on repeated Standard-Model
+  representations at heterotic orbifold fixed points. Covers two complete
+  catalogues (T^6/(Z2 x Z4) and T^6/(Z3 x Z6): 16,138 distinct models,
+  880,589 twisted model-cells, 502,396 fields in a Standard-Model
+  representation), a second
+  independent implementation of the central counts, the seven-geometry budget
+  arithmetic, an independent re-enumeration of the two-class boundary that
+  makes the construction exhaustive, the spectra of all nine lattice
+  representatives of each of the 4,032 Standard-Model-intact embeddings
+  over the two classes (36,288 orbifolder spectra), the explicit
+  construction of a model
+  realising the configuration the bound permits, and the hidden-SU(2)
+  signature with the scope at which it holds. Includes a machine-readable
+  claim-to-script map with its resolver, a definitions section fixing every
+  counted unit, and a complete log of excluded, failed, duplicate and
+  recovered cases.
+keywords:
+  - heterotic string
+  - orbifold compactification
+  - Standard Model
+  - gauge embedding
+  - reproducibility
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+
+identifiers:
+  - type: other
+    value: "DOI NOT YET ASSIGNED"
+    description: >-
+      PLACEHOLDER. No DOI has been minted for version 2.2 of this package. It
+      will be created at the Zenodo release, and this file must be updated with
+      the real value before the package is cited anywhere. Do NOT reuse the DOI
+      of any earlier package: 10.5281/zenodo.21917404 identifies version 1.0 of
+      the reproduction package for a DIFFERENT paper (a selection-rule and
+      decoupling audit of a heterotic Z3 x Z3 vacuum) and is not a valid
+      citation for this work.
+
+references:
+  - type: article
+    title: >-
+      The orbifolder: a tool to study the low energy effective theory of
+      heterotic orbifolds
+    authors:
+      - family-names: Nilles
+        given-names: Hans Peter
+      - family-names: Ramos-Sánchez
+        given-names: Saúl
+      - family-names: Vaudrevange
+        given-names: Patrick K. S.
+      - family-names: Wingerter
+        given-names: Akin
+    journal: Computer Physics Communications
+    volume: 183
+    start: 1363
+    year: 2012
+    identifiers:
+      - type: other
+        value: "arXiv:1110.5229"
+    notes: >-
+      The constructor that produced the raw output. Version 1.2.1, GPL v3.
+      Not redistributed here; its licence, authorship files, build recipe and
+      the geometry input files used are, under orbifolder-1.2.1/.
+  - type: article
+    title: Predicting the orbifold origin of the MSSM
+    authors:
+      - family-names: Parr
+        given-names: Erik
+      - family-names: Vaudrevange
+        given-names: Patrick K. S.
+      - family-names: Wimmer
+        given-names: Martin
+    year: 2020
+    identifiers:
+      - type: other
+        value: "arXiv:2003.01732"
+    notes: >-
+      Source of the two model catalogues consumed here (Z2xZ4_1_1 and
+      Z3xZ6_1_1), redistributed from its arXiv ancillary files under
+      multi_geometry_campaign/data/literature/parr2020_full/.

@@ -1,0 +1,276 @@
+{
+ "stages": {
+  "block1_SM_preserving": 243,
+  "block2_Delta_integral": 2187,
+  "block1_orbits": 45,
+  "block2_orbits": 6,
+  "V1_representatives": 270,
+  "V1_reps_after_MI1_MI3": 36,
+  "W_space_A1_A4": 531441,
+  "W_after_MI5_MI6": 59535,
+  "pairs_SMexact_and_MI4": 750384,
+  "V1_reps_with_at_least_one_W": 36
+ },
+ "sizes": {
+  "classes_per_block": 6561,
+  "stabiliser_roots_block1": 12,
+  "stabiliser_roots_block2": 126,
+  "local_roots_at_p": 160,
+  "SM_roots_kept": 8,
+  "bad_XY_roots": 12
+ },
+ "hits_head": [
+  {
+   "v1_block1": 4696,
+   "v1_block2": 4682,
+   "n_W": 20169,
+   "orb1": 6,
+   "orb2": 126
+  },
+  {
+   "v1_block1": 4696,
+   "v1_block2": 4676,
+   "n_W": 20169,
+   "orb1": 6,
+   "orb2": 576
+  },
+  {
+   "v1_block1": 5915,
+   "v1_block2": 5785,
+   "n_W": 20169,
+   "orb1": 12,
+   "orb2": 756
+  },
+  {
+   "v1_block1": 420,
+   "v1_block2": 4682,
+   "n_W": 13446,
+   "orb1": 6,
+   "orb2": 126
+  },
+  {
+   "v1_block1": 420,
+   "v1_block2": 4676,
+   "n_W": 13446,
+   "orb1": 6,
+   "orb2": 576
+  },
+  {
+   "v1_block1": 1355,
+   "v1_block2": 5785,
+   "n_W": 13446,
+   "orb1": 12,
+   "orb2": 756
+  },
+  {
+   "v1_block1": 4534,
+   "v1_block2": 4682,
+   "n_W": 20169,
+   "orb1": 6,
+   "orb2": 126
+  },
+  {
+   "v1_block1": 4534,
+   "v1_block2": 4676,
+   "n_W": 20169,
+   "orb1": 6,
+   "orb2": 576
+  },
+  {
+   "v1_block1": 6482,
+   "v1_block2": 5785,
+   "n_W": 20169,
+   "orb1": 12,
+   "orb2": 756
+  },
+  {
+   "v1_block1": 1503,
+   "v1_block2": 0,
+   "n_W": 39690,
+   "orb1": 1,
+   "orb2": 1
+  },
+  {
+   "v1_block1": 1503,
+   "v1_block2": 5936,
+   "n_W": 13446,
+   "orb1": 1,
+   "orb2": 672
+  },
+  {
+   "v1_block1": 1503,
+   "v1_block2": 5972,
+   "n_W": 13446,
+   "orb1": 1,
+   "orb2": 56
+  },
+  {
+   "v1_block1": 1908,
+   "v1_block2": 0,
+   "n_W": 59535,
+   "orb1": 1,
+   "orb2": 1
+  },
+  {
+   "v1_block1": 1908,
+   "v1_block2": 5936,
+   "n_W": 20169,
+   "orb1": 1,
+   "orb2": 672
+  },
+  {
+   "v1_block1": 1908,
+   "v1_block2": 5972,
+   "n_W": 20169,
+   "orb1": 1,
+   "orb2": 56
+  },
+  {
+   "v1_block1": 2070,
+   "v1_block2": 0,
+   "n_W": 59535,
+   "orb1": 1,
+   "orb2": 1
+  },
+  {
+   "v1_block1": 2070,
+   "v1_block2": 5936,
+   "n_W": 20169,
+   "orb1": 1,
+   "orb2": 672
+  },
+  {
+   "v1_block1": 2070,
+   "v1_block2": 5972,
+   "n_W": 20169,
+   "orb1": 1,
+   "orb2": 56
+  },
+  {
+   "v1_block1": 2383,
+   "v1_block2": 0,
+   "n_W": 13446,
+   "orb1": 4,
+   "orb2": 1
+  },
+  {
+   "v1_block1": 2383,
+   "v1_block2": 5936,
+   "n_W": 13446,
+   "orb1": 4,
+   "orb2": 672
+  },
+  {
+   "v1_block1": 2383,
+   "v1_block2": 5972,
+   "n_W": 13446,
+   "orb1": 4,
+   "orb2": 56
+  },
+  {
+   "v1_block1": 3870,
+   "v1_block2": 0,
+   "n_W": 20169,
+   "orb1": 4,
+   "orb2": 1
+  },
+  {
+   "v1_block1": 3870,
+   "v1_block2": 5936,
+   "n_W": 20169,
+   "orb1": 4,
+   "orb2": 672
+  },
+  {
+   "v1_block1": 3870,
+   "v1_block2": 5972,
+   "n_W": 20169,
+   "orb1": 4,
+   "orb2": 56
+  },
+  {
+   "v1_block1": 4032,
+   "v1_block2": 0,
+   "n_W": 20169,
+   "orb1": 4,
+   "orb2": 1
+  },
+  {
+   "v1_block1": 4032,
+   "v1_block2": 5936,
+   "n_W": 20169,
+   "orb1": 4,
+   "orb2": 672
+  },
+  {
+   "v1_block1": 4032,
+   "v1_block2": 5972,
+   "n_W": 20169,
+   "orb1": 4,
+   "orb2": 56
+  },
+  {
+   "v1_block1": 5792,
+   "v1_block2": 0,
+   "n_W": 20169,
+   "orb1": 4,
+   "orb2": 1
+  },
+  {
+   "v1_block1": 5792,
+   "v1_block2": 5936,
+   "n_W": 20169,
+   "orb1": 4,
+   "orb2": 672
+  },
+  {
+   "v1_block1": 5792,
+   "v1_block2": 5972,
+   "n_W": 20169,
+   "orb1": 4,
+   "orb2": 56
+  },
+  {
+   "v1_block1": 6075,
+   "v1_block2": 0,
+   "n_W": 13446,
+   "orb1": 4,
+   "orb2": 1
+  },
+  {
+   "v1_block1": 6075,
+   "v1_block2": 5936,
+   "n_W": 13446,
+   "orb1": 4,
+   "orb2": 672
+  },
+  {
+   "v1_block1": 6075,
+   "v1_block2": 5972,
+   "n_W": 13446,
+   "orb1": 4,
+   "orb2": 56
+  },
+  {
+   "v1_block1": 5387,
+   "v1_block2": 0,
+   "n_W": 20169,
+   "orb1": 4,
+   "orb2": 1
+  },
+  {
+   "v1_block1": 5387,
+   "v1_block2": 5936,
+   "n_W": 20169,
+   "orb1": 4,
+   "orb2": 672
+  },
+  {
+   "v1_block1": 5387,
+   "v1_block2": 5972,
+   "n_W": 20169,
+   "orb1": 4,
+   "orb2": 56
+  }
+ ]
+}

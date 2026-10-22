@@ -1,0 +1,54 @@
+{
+ "Z2xZ4_1_1": {
+  "n_twisted": 7,
+  "B_max": "13/16",
+  "B_min": "11/16",
+  "ten_doubling_permitted": [],
+  "five_doubling_forbidden": []
+ },
+ "Z3xZ6_1_1": {
+  "n_twisted": 17,
+  "B_max": "31/36",
+  "B_min": "2/3",
+  "ten_doubling_permitted": [
+   "(0, 1)",
+   "(0, 5)"
+  ],
+  "five_doubling_forbidden": []
+ },
+ "Z4xZ4_1_1": {
+  "n_twisted": 15,
+  "B_max": "13/16",
+  "B_min": "11/16",
+  "ten_doubling_permitted": [],
+  "five_doubling_forbidden": []
+ },
+ "Z3xZ3_1_1": {
+  "n_twisted": 8,
+  "B_max": "7/9",
+  "B_min": "2/3",
+  "ten_doubling_permitted": [],
+  "five_doubling_forbidden": []
+ },
+ "Z6-I_1_1": {
+  "n_twisted": 5,
+  "B_max": "3/4",
+  "B_min": "2/3",
+  "ten_doubling_permitted": [],
+  "five_doubling_forbidden": []
+ },
+ "Z6-II_1_1": {
+  "n_twisted": 5,
+  "B_max": "7/9",
+  "B_min": "25/36",
+  "ten_doubling_permitted": [],
+  "five_doubling_forbidden": []
+ },
+ "Z4_1_1": {
+  "n_twisted": 3,
+  "B_max": "3/4",
+  "B_min": "11/16",
+  "ten_doubling_permitted": [],
+  "five_doubling_forbidden": []
+ }
+}

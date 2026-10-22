@@ -1,0 +1,22 @@
+{
+ "classA": {
+  "models": 2912,
+  "all_sm_valid": true,
+  "doubled": 1812,
+  "source": "su5_construction/s8_battery.json::n_with_T0l_ten"
+ },
+ "classB": {
+  "built": 1432,
+  "sm_valid": 1120,
+  "doubled_over_all_built": 400,
+  "doubled_over_sm_valid": 362,
+  "source": "gate_su5_construction/g8_batteryB.json::rows[hits>0] intersected with g8b_smvalid.json::valid"
+ },
+ "sm_valid_models_total": 4032,
+ "doubled_over_sm_valid_total": 2174,
+ "doubled_over_all_built_total": 2212,
+ "consistency": {
+  "classB_summary_doubled_10role": 400,
+  "agrees_with_recount_over_all_built": true
+ }
+}

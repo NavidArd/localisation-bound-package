@@ -1,0 +1,171 @@
+{
+ "scripts_run": 27,
+ "exited_cleanly": 27,
+ "exited_non_zero": 0,
+ "total_seconds": 10458,
+ "transcripts": "regeneration/logs2/",
+ "runs": [
+  {
+   "script": "su5_ten_bound/verify.py",
+   "argument": "Z2xZ4_1_1",
+   "exit": 0,
+   "seconds": 613
+  },
+  {
+   "script": "su5_ten_bound/verify.py",
+   "argument": "Z3xZ6_1_1",
+   "exit": 0,
+   "seconds": 357
+  },
+  {
+   "script": "su5_ten_bound/pattern_census.py",
+   "argument": "Z2xZ4_1_1",
+   "exit": 0,
+   "seconds": 434
+  },
+  {
+   "script": "su5_ten_bound/pattern_census.py",
+   "argument": "Z3xZ6_1_1",
+   "exit": 0,
+   "seconds": 519
+  },
+  {
+   "script": "gate_su5_bound/d1_mechanism.py",
+   "argument": "Z2xZ4_1_1",
+   "exit": 0,
+   "seconds": 1687
+  },
+  {
+   "script": "gate_su5_bound/d1_mechanism.py",
+   "argument": "Z3xZ6_1_1",
+   "exit": 0,
+   "seconds": 609
+  },
+  {
+   "script": "gate_su5_bound/d2_pshdup.py",
+   "argument": "Z2xZ4_1_1",
+   "exit": 0,
+   "seconds": 571
+  },
+  {
+   "script": "gate_su5_bound/d2_pshdup.py",
+   "argument": "Z3xZ6_1_1",
+   "exit": 0,
+   "seconds": 478
+  },
+  {
+   "script": "gate_su5_bound/d2_osc10.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 280
+  },
+  {
+   "script": "gate_su5_bound/d5_excluded.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 498
+  },
+  {
+   "script": "gate_su5_bound/d5_keycount.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 45
+  },
+  {
+   "script": "gate_su5_bound/d6_pattern_recount.py",
+   "argument": "Z2xZ4_1_1",
+   "exit": 0,
+   "seconds": 387
+  },
+  {
+   "script": "gate_su5_bound/d6_pattern_recount.py",
+   "argument": "Z3xZ6_1_1",
+   "exit": 0,
+   "seconds": 216
+  },
+  {
+   "script": "gate_su5_bound/d8_alltwists.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 1
+  },
+  {
+   "script": "gate_su5_bound/d8_classwide.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 4
+  },
+  {
+   "script": "gate_su5_bound/d9_comarks.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 20
+  },
+  {
+   "script": "gate_su5_construction/g2_classes.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 8
+  },
+  {
+   "script": "gate_su5_construction/g4_lift.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 22
+  },
+  {
+   "script": "su5_construction/s0_invariants.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 26
+  },
+  {
+   "script": "su5_construction/s2_sizing.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 2
+  },
+  {
+   "script": "two_classes/paperA_two_classes_enum.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 760
+  },
+  {
+   "script": "root_lift/rl_a_centralizer.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 46
+  },
+  {
+   "script": "root_lift/rl_b_data.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 1084
+  },
+  {
+   "script": "root_lift/rl_c_samefp.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 745
+  },
+  {
+   "script": "root_lift/rl_d_projection.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 1044
+  },
+  {
+   "script": "gate_su5_construction/g8c_doubled_smvalid.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 1
+  },
+  {
+   "script": "root_lift/rl_e_summary.py",
+   "argument": null,
+   "exit": 0,
+   "seconds": 1
+  }
+ ]
+}

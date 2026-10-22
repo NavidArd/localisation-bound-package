@@ -1,0 +1,12 @@
+{
+ "trY0|genQ3|-|-": 4,
+ "trY0|genQ3|-|dbl": 28,
+ "trY0|genQx|-|-": 322,
+ "trY0|genQx|-|dbl": 127,
+ "trYx|genQ3|-|-": 47,
+ "trYx|genQ3|-|dbl": 247,
+ "trYx|genQx|-|-": 727,
+ "trYx|genQx|-|dbl": 1410
+}
+Tr Y = 0 models: 481 of 2912
+Tr Y = 0 AND net Q = 3 AND doubled: 28 ['CB1041', 'CB1042', 'CB1384', 'CB1552', 'CB1555', 'CB1834', 'CB1860', 'CB1863', 'CB2001', 'CB2072']

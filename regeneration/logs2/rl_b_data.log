@@ -1,0 +1,25 @@
+=== Z2xZ4_1_1 : 58 census files
+  models=10925  same-role pairs=24406  Delta not in Lambda=0  not perp W=0
+  |Delta|^2 histogram: {'2': 24406}
+  generator coverage: {'complete': 6436, 'partial': 4489}
+  route G vs route I disagreements: 0
+  distinct-record same-role pairs at LIFT cells with same q_sh, both oscillator-free: 0
+  pair tags:
+     5bar|lift=False|sameq=True|sameosc=False|4droot=False 63
+     5bar|lift=False|sameq=True|sameosc=False|4droot=I:False 132
+     5bar|lift=False|sameq=True|sameosc=True|4droot=False 14623
+     5bar|lift=False|sameq=True|sameosc=True|4droot=I:False 9588
+  multiplicity at lift-sector cells: {}
+
+=== Z3xZ6_1_1 : 48 census files
+  models=4620  same-role pairs=7888  Delta not in Lambda=0  not perp W=0
+  |Delta|^2 histogram: {'2': 7888}
+  generator coverage: {'complete': 4029, 'partial': 591}
+  route G vs route I disagreements: 0
+  distinct-record same-role pairs at LIFT cells with same q_sh, both oscillator-free: 0
+  pair tags:
+     5bar|lift=False|sameq=True|sameosc=True|4droot=False 6832
+     5bar|lift=False|sameq=True|sameosc=True|4droot=I:False 1047
+     5bar|lift=True|sameq=True|sameosc=False|4droot=False 9
+  multiplicity at lift-sector cells: {'5bar:records=1': 2030, '5bar:hidmult=2': 57, '5bar:hidmult=1': 1984, '10:records=1': 225, '10:hidmult=1': 225, '5bar:records=2': 9, '5bar:hidmult=3': 4, '5bar:hidmult=4': 2, '5bar:hidmult=5': 1}
+

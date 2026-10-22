@@ -1,0 +1,61 @@
+  segment 1 done, cells so far 1
+  segment 2 done, cells so far 1
+  segment 3 done, cells so far 1
+  segment 4 done, cells so far 2
+  segment 5 done, cells so far 2
+  segment 6 done, cells so far 2
+  segment 7 done, cells so far 2
+  segment 8 done, cells so far 2
+  segment 9 done, cells so far 2
+  segment 10 done, cells so far 4
+  segment 11 done, cells so far 4
+  segment 12 done, cells so far 4
+  segment 13 done, cells so far 4
+  segment 14 done, cells so far 4
+  segment 15 done, cells so far 4
+  segment 16 done, cells so far 4
+  segment 17 done, cells so far 4
+  segment 18 done, cells so far 4
+  segment 19 done, cells so far 4
+  segment 20 done, cells so far 4
+  segment 21 done, cells so far 4
+  segment 22 done, cells so far 4
+  segment 23 done, cells so far 4
+  segment 24 done, cells so far 5
+  segment 25 done, cells so far 5
+  segment 26 done, cells so far 5
+  segment 27 done, cells so far 6
+  segment 28 done, cells so far 6
+  segment 29 done, cells so far 6
+  segment 30 done, cells so far 6
+  segment 31 done, cells so far 6
+  segment 32 done, cells so far 8
+  segment 33 done, cells so far 8
+  segment 34 done, cells so far 8
+  segment 35 done, cells so far 8
+  segment 36 done, cells so far 8
+  segment 37 done, cells so far 8
+  segment 38 done, cells so far 8
+  segment 39 done, cells so far 8
+  segment 40 done, cells so far 8
+  segment 41 done, cells so far 8
+  segment 42 done, cells so far 8
+  segment 43 done, cells so far 8
+  segment 44 done, cells so far 8
+  segment 45 done, cells so far 9
+  segment 46 done, cells so far 9
+  segment 47 done, cells so far 9
+  segment 48 done, cells so far 9
+{
+ "n_pairs": 9,
+ "d2_histogram": {
+  "2": 9
+ },
+ "pdotd_histogram": {
+  "7/6": 9
+ },
+ "dV1_integral": 5,
+ "dW3_integral": 9,
+ "both_integral": 5,
+ "qsh_equal": 9
+}

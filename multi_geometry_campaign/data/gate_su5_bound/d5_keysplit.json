@@ -1,0 +1,264 @@
+{
+ "Z2xZ4_1_1": [
+  {
+   "sector": [
+    0,
+    2
+   ],
+   "keyA": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "keyB": [
+    0,
+    1,
+    0,
+    0,
+    1,
+    0
+   ],
+   "models": 600,
+   "models_both": 495,
+   "Vg_A": {
+    "[('((Fraction(1, 4), Fraction(3, 4), Fraction(3, 4), Fraction(1, 4), Fraction(1, 4), Fraction(3, 4), Fraction(1, 4), Fraction(3, 4)), 0)', '((Fraction(1, 4), Fraction(3, 4), Fraction(1, 4), Fraction(1, 4), Fraction(3, 4), Fraction(1, 4), Fraction(3, 4), Fraction(3, 4)), 1)')]": 1,
+    "[('((Fraction(1, 4), Fraction(3, 4), Fraction(1, 4), Fraction(1, 4), Fraction(1, 4), Fraction(3, 4), Fraction(1, 4), Fraction(1, 4)), 0)', '((Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(1, 2), Fraction(0, 1)), 1)')]": 1,
+    "[('((Fraction(1, 4), Fraction(1, 4), Fraction(1, 4), Fraction(3, 4), Fraction(1, 4), Fraction(3, 4), Fraction(3, 4), Fraction(3, 4)), 0)', '((Fraction(1, 4), Fraction(1, 4), Fraction(1, 4), Fraction(1, 4), Fraction(1, 4), Fraction(3, 4), Fraction(3, 4), Fraction(1, 4)), 1)')]": 1
+   },
+   "Vg_B": {
+    "[('((Fraction(1, 4), Fraction(3, 4), Fraction(3, 4), Fraction(1, 4), Fraction(1, 4), Fraction(3, 4), Fraction(1, 4), Fraction(3, 4)), 0)', '((Fraction(1, 4), Fraction(3, 4), Fraction(1, 4), Fraction(1, 4), Fraction(3, 4), Fraction(1, 4), Fraction(3, 4), Fraction(3, 4)), 1)')]": 1,
+    "[('((Fraction(1, 4), Fraction(3, 4), Fraction(1, 4), Fraction(1, 4), Fraction(1, 4), Fraction(3, 4), Fraction(1, 4), Fraction(1, 4)), 0)', '((Fraction(0, 1), Fraction(1, 2), Fraction(0, 1), Fraction(1, 2), Fraction(1, 2), Fraction(0, 1), Fraction(1, 2), Fraction(0, 1)), 1)')]": 1,
+    "[('((Fraction(1, 4), Fraction(1, 4), Fraction(1, 4), Fraction(3, 4), Fraction(1, 4), Fraction(3, 4), Fraction(3, 4), Fraction(3, 4)), 0)', '((Fraction(1, 4), Fraction(1, 4), Fraction(1, 4), Fraction(1, 4), Fraction(1, 4), Fraction(3, 4), Fraction(3, 4), Fraction(1, 4)), 1)')]": 1
+   },
+   "same_Vg_models": 495,
+   "diff_Vg_models": 0,
+   "same_p2_multiset": 495,
+   "diff_p2_multiset": 0,
+   "nfields_A": 2166,
+   "nfields_B": 2166,
+   "example": null,
+   "Vg_A_distinct": 490,
+   "Vg_B_distinct": 490
+  }
+ ],
+ "Z3xZ6_1_1": [
+  {
+   "sector": [
+    0,
+    2
+   ],
+   "keyA": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "keyB": [
+    0,
+    2,
+    0,
+    0,
+    0,
+    1
+   ],
+   "models": 300,
+   "models_both": 252,
+   "Vg_A": {
+    "[('((Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3)), 1)', '((Fraction(1, 6), Fraction(5, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(1, 2)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3), Fraction(2, 3)), 1)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 2), Fraction(1, 2), Fraction(1, 2), Fraction(1, 2), Fraction(1, 2), Fraction(5, 6)), 0)')]": 1,
+    "[('((Fraction(1, 6), Fraction(1, 6), Fraction(5, 6), Fraction(5, 6), Fraction(5, 6), Fraction(5, 6), Fraction(1, 2), Fraction(1, 2)), 0)', '((Fraction(1, 6), Fraction(5, 6), Fraction(5, 6), Fraction(5, 6), Fraction(5, 6), Fraction(5, 6), Fraction(1, 6), Fraction(5, 6)), 0)')]": 1
+   },
+   "Vg_B": {
+    "[('((Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3)), 1)', '((Fraction(1, 6), Fraction(5, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(1, 2)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3), Fraction(2, 3)), 1)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 2), Fraction(1, 2), Fraction(1, 2), Fraction(1, 2), Fraction(1, 2), Fraction(5, 6)), 0)')]": 1,
+    "[('((Fraction(1, 6), Fraction(1, 6), Fraction(5, 6), Fraction(5, 6), Fraction(5, 6), Fraction(5, 6), Fraction(1, 2), Fraction(1, 2)), 0)', '((Fraction(1, 6), Fraction(5, 6), Fraction(5, 6), Fraction(5, 6), Fraction(5, 6), Fraction(5, 6), Fraction(1, 6), Fraction(5, 6)), 0)')]": 1
+   },
+   "same_Vg_models": 252,
+   "diff_Vg_models": 0,
+   "same_p2_multiset": 252,
+   "diff_p2_multiset": 0,
+   "nfields_A": 730,
+   "nfields_B": 730,
+   "example": null,
+   "Vg_A_distinct": 252,
+   "Vg_B_distinct": 252
+  },
+  {
+   "sector": [
+    0,
+    4
+   ],
+   "keyA": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "keyB": [
+    0,
+    2,
+    0,
+    0,
+    0,
+    1
+   ],
+   "models": 300,
+   "models_both": 241,
+   "Vg_A": {
+    "[('((Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(1, 2), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6)), 1)', '((Fraction(1, 3), Fraction(2, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1)), 1)')]": 1,
+    "[('((Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6)), 0)', '((Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(2, 3)), 1)')]": 1,
+    "[('((Fraction(1, 3), Fraction(1, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(0, 1), Fraction(0, 1)), 0)', '((Fraction(1, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(1, 3), Fraction(2, 3)), 0)')]": 1
+   },
+   "Vg_B": {
+    "[('((Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(1, 2), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6)), 1)', '((Fraction(1, 3), Fraction(2, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1)), 1)')]": 1,
+    "[('((Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6)), 0)', '((Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(2, 3)), 1)')]": 1,
+    "[('((Fraction(1, 3), Fraction(1, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(0, 1), Fraction(0, 1)), 0)', '((Fraction(1, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(1, 3), Fraction(2, 3)), 0)')]": 1
+   },
+   "same_Vg_models": 241,
+   "diff_Vg_models": 0,
+   "same_p2_multiset": 241,
+   "diff_p2_multiset": 0,
+   "nfields_A": 681,
+   "nfields_B": 681,
+   "example": null,
+   "Vg_A_distinct": 241,
+   "Vg_B_distinct": 241
+  },
+  {
+   "sector": [
+    2,
+    4
+   ],
+   "keyA": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "keyB": [
+    0,
+    2,
+    0,
+    0,
+    0,
+    1
+   ],
+   "models": 300,
+   "models_both": 290,
+   "Vg_A": {
+    "[('((Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(5, 6)), 0)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6), Fraction(1, 2)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(2, 3)), 1)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3)), 1)', '((Fraction(0, 1), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(1, 3), Fraction(0, 1), Fraction(1, 3)), 0)')]": 1
+   },
+   "Vg_B": {
+    "[('((Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(5, 6)), 0)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6), Fraction(1, 2)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(2, 3)), 1)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3)), 1)', '((Fraction(0, 1), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(1, 3), Fraction(0, 1), Fraction(1, 3)), 0)')]": 1
+   },
+   "same_Vg_models": 290,
+   "diff_Vg_models": 0,
+   "same_p2_multiset": 290,
+   "diff_p2_multiset": 0,
+   "nfields_A": 711,
+   "nfields_B": 711,
+   "example": null,
+   "Vg_A_distinct": 290,
+   "Vg_B_distinct": 290
+  },
+  {
+   "sector": [
+    2,
+    4
+   ],
+   "keyA": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    1
+   ],
+   "keyB": [
+    0,
+    2,
+    0,
+    1,
+    0,
+    1
+   ],
+   "models": 300,
+   "models_both": 284,
+   "Vg_A": {
+    "[('((Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(5, 6)), 0)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6), Fraction(1, 2)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(2, 3)), 1)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3)), 1)', '((Fraction(0, 1), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(1, 3), Fraction(0, 1), Fraction(1, 3)), 0)')]": 1
+   },
+   "Vg_B": {
+    "[('((Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(5, 6)), 0)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6), Fraction(1, 2)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(2, 3)), 1)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3)), 1)', '((Fraction(0, 1), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(1, 3), Fraction(0, 1), Fraction(1, 3)), 0)')]": 1
+   },
+   "same_Vg_models": 284,
+   "diff_Vg_models": 0,
+   "same_p2_multiset": 284,
+   "diff_p2_multiset": 0,
+   "nfields_A": 664,
+   "nfields_B": 664,
+   "example": null,
+   "Vg_A_distinct": 284,
+   "Vg_B_distinct": 284
+  },
+  {
+   "sector": [
+    2,
+    4
+   ],
+   "keyA": [
+    0,
+    1,
+    0,
+    2,
+    0,
+    1
+   ],
+   "keyB": [
+    0,
+    2,
+    0,
+    2,
+    0,
+    1
+   ],
+   "models": 300,
+   "models_both": 289,
+   "Vg_A": {
+    "[('((Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(5, 6)), 0)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6), Fraction(1, 2)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(2, 3)), 1)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3)), 1)', '((Fraction(0, 1), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(1, 3), Fraction(0, 1), Fraction(1, 3)), 0)')]": 1
+   },
+   "Vg_B": {
+    "[('((Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 2), Fraction(5, 6)), 0)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6), Fraction(1, 2)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(2, 3)), 1)', '((Fraction(1, 6), Fraction(1, 2), Fraction(1, 2), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(1, 6), Fraction(5, 6)), 0)')]": 1,
+    "[('((Fraction(1, 3), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(1, 3), Fraction(1, 3)), 1)', '((Fraction(0, 1), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(2, 3), Fraction(1, 3), Fraction(0, 1), Fraction(1, 3)), 0)')]": 1
+   },
+   "same_Vg_models": 289,
+   "diff_Vg_models": 0,
+   "same_p2_multiset": 289,
+   "diff_p2_multiset": 0,
+   "nfields_A": 655,
+   "nfields_B": 655,
+   "example": null,
+   "Vg_A_distinct": 289,
+   "Vg_B_distinct": 289
+  }
+ ]
+}

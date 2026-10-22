@@ -1,0 +1,2022 @@
+{
+ "models": 4620,
+ "cells": 296309,
+ "ten_fields": 37334,
+ "unprotected": [
+  {
+   "model": "MSSM103",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(12) x SU(2) x SU(2) x U(1)^2",
+   "shell_size": 36,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 6,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 20,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg1.txt.gz"
+  },
+  {
+   "model": "MSSM149",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "shell_size": 30,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 5,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg1.txt.gz"
+  },
+  {
+   "model": "MSSM1152",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg11.txt.gz"
+  },
+  {
+   "model": "MSSM1283",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "SO(12) x SU(7) x U(1)^4",
+   "shell_size": 34,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 14,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg12.txt.gz"
+  },
+  {
+   "model": "MSSM1314",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg13.txt.gz"
+  },
+  {
+   "model": "MSSM1441",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg14.txt.gz"
+  },
+  {
+   "model": "MSSM1468",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "SO(12) x SU(7) x U(1)^4",
+   "shell_size": 34,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 14,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg14.txt.gz"
+  },
+  {
+   "model": "MSSM1761",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg17.txt.gz"
+  },
+  {
+   "model": "MSSM1762",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(12) x SU(2) x SU(2) x U(1)^2",
+   "shell_size": 36,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 6,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 20,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg17.txt.gz"
+  },
+  {
+   "model": "MSSM1771",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "shell_size": 30,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 5,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg17.txt.gz"
+  },
+  {
+   "model": "MSSM1772",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg17.txt.gz"
+  },
+  {
+   "model": "MSSM1833",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg18.txt.gz"
+  },
+  {
+   "model": "MSSM1844",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg18.txt.gz"
+  },
+  {
+   "model": "MSSM1893",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "shell_size": 30,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 5,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg18.txt.gz"
+  },
+  {
+   "model": "MSSM1915",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg19.txt.gz"
+  },
+  {
+   "model": "MSSM1962",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg19.txt.gz"
+  },
+  {
+   "model": "MSSM1990",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "shell_size": 30,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 5,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg19.txt.gz"
+  },
+  {
+   "model": "MSSM2031",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg20.txt.gz"
+  },
+  {
+   "model": "MSSM2069",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg20.txt.gz"
+  },
+  {
+   "model": "MSSM2155",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg21.txt.gz"
+  },
+  {
+   "model": "MSSM2184",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg21.txt.gz"
+  },
+  {
+   "model": "MSSM2449",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg24.txt.gz"
+  },
+  {
+   "model": "MSSM2473",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "SO(12) x SU(7) x U(1)^4",
+   "shell_size": 34,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 14,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg24.txt.gz"
+  },
+  {
+   "model": "MSSM2655",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "SO(12) x SU(7) x U(1)^4",
+   "shell_size": 34,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 14,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg26.txt.gz"
+  },
+  {
+   "model": "MSSM2675",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg26.txt.gz"
+  },
+  {
+   "model": "MSSM2883",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg28.txt.gz"
+  },
+  {
+   "model": "MSSM2900",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg29.txt.gz"
+  },
+  {
+   "model": "MSSM2911",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "SO(12) x SU(7) x U(1)^4",
+   "shell_size": 34,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 14,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg29.txt.gz"
+  },
+  {
+   "model": "MSSM2939",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg29.txt.gz"
+  },
+  {
+   "model": "MSSM2945",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "shell_size": 30,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 5,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg29.txt.gz"
+  },
+  {
+   "model": "MSSM2983",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "shell_size": 30,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 5,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg29.txt.gz"
+  },
+  {
+   "model": "MSSM307",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg3.txt.gz"
+  },
+  {
+   "model": "MSSM310",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "SO(10) x SU(2) x SU(8) x U(1)^3",
+   "shell_size": 26,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 11,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg3.txt.gz"
+  },
+  {
+   "model": "MSSM328",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "shell_size": 30,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 5,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg3.txt.gz"
+  },
+  {
+   "model": "MSSM348",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg3.txt.gz"
+  },
+  {
+   "model": "MSSM3115",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "shell_size": 30,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 5,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg31.txt.gz"
+  },
+  {
+   "model": "MSSM3152",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg31.txt.gz"
+  },
+  {
+   "model": "MSSM3165",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg31.txt.gz"
+  },
+  {
+   "model": "MSSM3167",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "shell_size": 30,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 5,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg31.txt.gz"
+  },
+  {
+   "model": "MSSM3310",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "shell_size": 30,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 5,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg33.txt.gz"
+  },
+  {
+   "model": "MSSM3411",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "SO(12) x SU(7) x U(1)^4",
+   "shell_size": 34,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 14,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg34.txt.gz"
+  },
+  {
+   "model": "MSSM3437",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg34.txt.gz"
+  },
+  {
+   "model": "MSSM3737",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(12) x SU(2) x SU(2) x U(1)^2",
+   "shell_size": 36,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 6,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 20,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg37.txt.gz"
+  },
+  {
+   "model": "MSSM3981",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg39.txt.gz"
+  },
+  {
+   "model": "MSSM3985",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg39.txt.gz"
+  },
+  {
+   "model": "MSSM3987",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg39.txt.gz"
+  },
+  {
+   "model": "MSSM459",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg4.txt.gz"
+  },
+  {
+   "model": "MSSM4037",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg40.txt.gz"
+  },
+  {
+   "model": "MSSM4116",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg41.txt.gz"
+  },
+  {
+   "model": "MSSM4154",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg41.txt.gz"
+  },
+  {
+   "model": "MSSM4175",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg41.txt.gz"
+  },
+  {
+   "model": "MSSM4252",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg42.txt.gz"
+  },
+  {
+   "model": "MSSM4272",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "shell_size": 30,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 5,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg42.txt.gz"
+  },
+  {
+   "model": "MSSM4294",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg42.txt.gz"
+  },
+  {
+   "model": "MSSM4306",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg43.txt.gz"
+  },
+  {
+   "model": "MSSM4345",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg43.txt.gz"
+  },
+  {
+   "model": "MSSM4484",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg44.txt.gz"
+  },
+  {
+   "model": "MSSM4487",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg44.txt.gz"
+  },
+  {
+   "model": "MSSM4516",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(12) x SU(2) x SU(2) x U(1)^2",
+   "shell_size": 36,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 6,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 20,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg45.txt.gz"
+  },
+  {
+   "model": "MSSM4526",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "ec",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg45.txt.gz"
+  },
+  {
+   "model": "MSSM4548",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg45.txt.gz"
+  },
+  {
+   "model": "MSSM4569",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg45.txt.gz"
+  },
+  {
+   "model": "MSSM4580",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "shell_size": 46,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 21,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": false,
+   "any_root_perp_W_local": true,
+   "file": "census_seg45.txt.gz"
+  },
+  {
+   "model": "MSSM979",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "uc",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg9.txt.gz"
+  },
+  {
+   "model": "MSSM995",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Q",
+   "R": "47/90",
+   "B": "31/36",
+   "osc": "no",
+   "dc": "5/36",
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "shell_size": 48,
+   "printed_in_own_shell": true,
+   "shell_mult": 1,
+   "shell_max_mult": 23,
+   "shell_max_mult_10role": 1,
+   "n_10role_states_in_shell": 10,
+   "commutant_SU2": true,
+   "any_root_perp_W_local": true,
+   "file": "census_seg9.txt.gz"
+  }
+ ],
+ "skipped": {
+  "closure_failed": 2
+ },
+ "R10": {
+  "16/45": 36899,
+  "17/90": 268,
+  "3/10": 102,
+  "47/90": 65
+ },
+ "osc_unprotected": 0,
+ "n_unprotected_fields": 65,
+ "n_unprotected_cells": 65,
+ "summary": {
+  "by_sector": {
+   "(0, 5)": 33,
+   "(0, 1)": 32
+  },
+  "by_role": {
+   "uc": 22,
+   "ec": 28,
+   "Q": 15
+  },
+  "shell_mult": {
+   "1": 65
+  },
+  "shell_max_mult": {
+   "6": 4,
+   "5": 11,
+   "23": 18,
+   "14": 6,
+   "21": 25,
+   "11": 1
+  },
+  "shell_max_mult_10role": {
+   "1": 65
+  },
+  "n_10role_states_in_shell": {
+   "20": 4,
+   "10": 61
+  },
+  "commutant_SU2": {
+   "true": 23,
+   "false": 42
+  },
+  "any_root_perp_W": {
+   "true": 65
+  },
+  "printed_in_own_shell": {
+   "true": 65
+  },
+  "groups": {
+   "E6 x SO(12) x SU(2) x SU(2) x U(1)^2": 4,
+   "E6 x E6 x SU(3) x U(1)^2": 11,
+   "E6 x SU(2) x SU(3) x SU(7) x U(1)^1": 18,
+   "SO(12) x SU(7) x U(1)^4": 6,
+   "E6 x SO(10) x SU(3) x U(1)^3": 25,
+   "SO(10) x SU(2) x SU(8) x U(1)^3": 1
+  },
+  "R": {
+   "47/90": 65
+  },
+  "osc": {
+   "no": 65
+  }
+ }
+}

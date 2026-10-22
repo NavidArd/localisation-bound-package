@@ -1,0 +1,11676 @@
+{
+ "geometry": "Z2xZ4_1_1",
+ "point_group": "Z2xZ4",
+ "lattice_label": "Z2xZ4_1",
+ "twists": [
+  [
+   "0",
+   "1/2",
+   "-1/2"
+  ],
+  [
+   "1/4",
+   "0",
+   "-1/4"
+  ]
+ ],
+ "twist_generator_shifts": [
+  [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  [
+   "0",
+   "0",
+   "0",
+   "0",
+   "0",
+   "0"
+  ]
+ ],
+ "has_rototranslation": false,
+ "invariant_check": {
+  "pass": true,
+  "report": {
+   "per_sector": [
+    {
+     "sector": "U",
+     "g": [
+      0,
+      0
+     ],
+     "n_constructing_elements": 1
+    },
+    {
+     "sector": "T(0,1)",
+     "g": [
+      0,
+      1
+     ],
+     "n_constructing_elements": 4,
+     "elements_with_a_fixed_point_off_the_derived_set": 0,
+     "derived_nFix_per_plane": [
+      2,
+      "TORUS",
+      2
+     ],
+     "derived_nOrbits_per_plane": [
+      2,
+      2
+     ],
+     "orbits_touched_by_file_elements": [
+      2,
+      2
+     ],
+     "derived_n_simultaneous_orbits": 4
+    },
+    {
+     "sector": "T(0,2)",
+     "g": [
+      0,
+      2
+     ],
+     "n_constructing_elements": 10,
+     "elements_with_a_fixed_point_off_the_derived_set": 0,
+     "derived_nFix_per_plane": [
+      4,
+      "TORUS",
+      4
+     ],
+     "derived_nOrbits_per_plane": [
+      3,
+      3
+     ],
+     "orbits_touched_by_file_elements": [
+      3,
+      3
+     ],
+     "derived_n_simultaneous_orbits": 10
+    },
+    {
+     "sector": "T(0,3)",
+     "g": [
+      0,
+      3
+     ],
+     "n_constructing_elements": 4,
+     "elements_with_a_fixed_point_off_the_derived_set": 0,
+     "derived_nFix_per_plane": [
+      2,
+      "TORUS",
+      2
+     ],
+     "derived_nOrbits_per_plane": [
+      2,
+      2
+     ],
+     "orbits_touched_by_file_elements": [
+      2,
+      2
+     ],
+     "derived_n_simultaneous_orbits": 4
+    },
+    {
+     "sector": "T(1,0)",
+     "g": [
+      1,
+      0
+     ],
+     "n_constructing_elements": 12,
+     "elements_with_a_fixed_point_off_the_derived_set": 0,
+     "derived_nFix_per_plane": [
+      "TORUS",
+      4,
+      4
+     ],
+     "derived_nOrbits_per_plane": [
+      4,
+      3
+     ],
+     "orbits_touched_by_file_elements": [
+      4,
+      3
+     ],
+     "derived_n_simultaneous_orbits": 12
+    },
+    {
+     "sector": "T(1,1)",
+     "g": [
+      1,
+      1
+     ],
+     "n_constructing_elements": 16,
+     "elements_with_a_fixed_point_off_the_derived_set": 0,
+     "derived_nFix_per_plane": [
+      2,
+      4,
+      2
+     ],
+     "derived_nOrbits_per_plane": [
+      2,
+      4,
+      2
+     ],
+     "orbits_touched_by_file_elements": [
+      2,
+      4,
+      2
+     ],
+     "derived_n_simultaneous_orbits": 16
+    },
+    {
+     "sector": "T(1,2)",
+     "g": [
+      1,
+      2
+     ],
+     "n_constructing_elements": 12,
+     "elements_with_a_fixed_point_off_the_derived_set": 0,
+     "derived_nFix_per_plane": [
+      4,
+      4,
+      "TORUS"
+     ],
+     "derived_nOrbits_per_plane": [
+      3,
+      4
+     ],
+     "orbits_touched_by_file_elements": [
+      3,
+      4
+     ],
+     "derived_n_simultaneous_orbits": 12
+    },
+    {
+     "sector": "T(1,3)",
+     "g": [
+      1,
+      3
+     ],
+     "n_constructing_elements": 16,
+     "elements_with_a_fixed_point_off_the_derived_set": 0,
+     "derived_nFix_per_plane": [
+      2,
+      4,
+      2
+     ],
+     "derived_nOrbits_per_plane": [
+      2,
+      4,
+      2
+     ],
+     "orbits_touched_by_file_elements": [
+      2,
+      4,
+      2
+     ],
+     "derived_n_simultaneous_orbits": 16
+    }
+   ],
+   "ok": true,
+   "reasons": []
+  }
+ },
+ "plane_orders": [
+  4,
+  2,
+  4
+ ],
+ "gram": [
+  [
+   [
+    "1",
+    "0"
+   ],
+   [
+    "0",
+    "1"
+   ]
+  ],
+  [
+   [
+    "1",
+    "0"
+   ],
+   [
+    "0",
+    "1"
+   ]
+  ],
+  [
+   [
+    "1",
+    "0"
+   ],
+   [
+    "0",
+    "1"
+   ]
+  ]
+ ],
+ "plane_shape_rigid": [
+  true,
+  false,
+  true
+ ],
+ "exchange_symmetric_planes": [
+  {
+   "planes": [
+    1,
+    3
+   ],
+   "generator_images": [
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     3
+    ]
+   ]
+  }
+ ],
+ "sector_structure": {
+  "T(0,1)": [
+   2,
+   "TORUS",
+   2
+  ],
+  "T(0,2)": [
+   4,
+   "TORUS",
+   4
+  ],
+  "T(0,3)": [
+   2,
+   "TORUS",
+   2
+  ],
+  "T(1,0)": [
+   "TORUS",
+   4,
+   4
+  ],
+  "T(1,1)": [
+   2,
+   4,
+   2
+  ],
+  "T(1,2)": [
+   4,
+   4,
+   "TORUS"
+  ],
+  "T(1,3)": [
+   2,
+   4,
+   2
+  ]
+ },
+ "orbit_classes": {
+  "T(0,1)": [
+   [
+    1,
+    1
+   ],
+   null,
+   [
+    1,
+    1
+   ]
+  ],
+  "T(0,2)": [
+   [
+    1,
+    2,
+    1
+   ],
+   null,
+   [
+    1,
+    2,
+    1
+   ]
+  ],
+  "T(0,3)": [
+   [
+    1,
+    1
+   ],
+   null,
+   [
+    1,
+    1
+   ]
+  ],
+  "T(1,0)": [
+   null,
+   [
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    1
+   ]
+  ],
+  "T(1,1)": [
+   [
+    1,
+    1
+   ],
+   [
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    1
+   ]
+  ],
+  "T(1,2)": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    1,
+    1,
+    1,
+    1
+   ],
+   null
+  ],
+  "T(1,3)": [
+   [
+    1,
+    1
+   ],
+   [
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    1
+   ]
+  ]
+ },
+ "channels": [
+  {
+   "channel": {
+    "multiset": "UUU",
+    "gs": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      0
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     }
+    },
+    "capable_planes": [],
+    "computable_planes": [],
+    "notes": [],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ]
+    ],
+    "alphabet_total": [
+     "0"
+    ],
+    "leg_class_tuples": null,
+    "entries": null,
+    "note_all_unsuppressed": "no computable plane: every classical factor is exactly 1"
+   },
+   "L1": {
+    "L1": false,
+    "classes_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_classes_per_index": 0,
+    "distinct_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_distinct_norms_per_index": 0,
+    "single_plane_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_single_plane_norms_per_index": 0,
+    "n_simultaneous_orbits_per_leg": [
+     0,
+     0,
+     0
+    ]
+   },
+   "L2": {
+    "L2": false,
+    "has_zero": true,
+    "L2_single_modulus": false,
+    "alphabet_total": [
+     "0"
+    ],
+    "n_positive_exponents": 0,
+    "pairs": [],
+    "pairs_in_band": [],
+    "pairs_in_band_single_modulus": [],
+    "closest_pair_to_up_target": null,
+    "closest_pair_to_down_target": null,
+    "L2_down_analog": false
+   },
+   "PASS": false
+  },
+  {
+   "channel": {
+    "multiset": "UT(0,1)T(0,3)",
+    "gs": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      0,
+      3
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     }
+    },
+    "capable_planes": [],
+    "computable_planes": [],
+    "notes": [],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ]
+    ],
+    "alphabet_total": [
+     "0"
+    ],
+    "leg_class_tuples": null,
+    "entries": null,
+    "note_all_unsuppressed": "no computable plane: every classical factor is exactly 1"
+   },
+   "L1": {
+    "L1": false,
+    "classes_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_classes_per_index": 0,
+    "distinct_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_distinct_norms_per_index": 0,
+    "single_plane_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_single_plane_norms_per_index": 0,
+    "n_simultaneous_orbits_per_leg": [
+     0,
+     0,
+     0
+    ]
+   },
+   "L2": {
+    "L2": false,
+    "has_zero": true,
+    "L2_single_modulus": false,
+    "alphabet_total": [
+     "0"
+    ],
+    "n_positive_exponents": 0,
+    "pairs": [],
+    "pairs_in_band": [],
+    "pairs_in_band_single_modulus": [],
+    "closest_pair_to_up_target": null,
+    "closest_pair_to_down_target": null,
+    "L2_down_analog": false
+   },
+   "PASS": false
+  },
+  {
+   "channel": {
+    "multiset": "UT(0,2)T(0,2)",
+    "gs": [
+     [
+      0,
+      0
+     ],
+     [
+      0,
+      2
+     ],
+     [
+      0,
+      2
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     }
+    },
+    "capable_planes": [],
+    "computable_planes": [],
+    "notes": [],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ]
+    ],
+    "alphabet_total": [
+     "0"
+    ],
+    "leg_class_tuples": null,
+    "entries": null,
+    "note_all_unsuppressed": "no computable plane: every classical factor is exactly 1"
+   },
+   "L1": {
+    "L1": false,
+    "classes_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_classes_per_index": 0,
+    "distinct_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_distinct_norms_per_index": 0,
+    "single_plane_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_single_plane_norms_per_index": 0,
+    "n_simultaneous_orbits_per_leg": [
+     0,
+     0,
+     0
+    ]
+   },
+   "L2": {
+    "L2": false,
+    "has_zero": true,
+    "L2_single_modulus": false,
+    "alphabet_total": [
+     "0"
+    ],
+    "n_positive_exponents": 0,
+    "pairs": [],
+    "pairs_in_band": [],
+    "pairs_in_band_single_modulus": [],
+    "closest_pair_to_up_target": null,
+    "closest_pair_to_down_target": null,
+    "L2_down_analog": false
+   },
+   "PASS": false
+  },
+  {
+   "channel": {
+    "multiset": "UT(1,0)T(1,0)",
+    "gs": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      1,
+      0
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     }
+    },
+    "capable_planes": [],
+    "computable_planes": [],
+    "notes": [],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ]
+    ],
+    "alphabet_total": [
+     "0"
+    ],
+    "leg_class_tuples": null,
+    "entries": null,
+    "note_all_unsuppressed": "no computable plane: every classical factor is exactly 1"
+   },
+   "L1": {
+    "L1": false,
+    "classes_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_classes_per_index": 0,
+    "distinct_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_distinct_norms_per_index": 0,
+    "single_plane_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_single_plane_norms_per_index": 0,
+    "n_simultaneous_orbits_per_leg": [
+     0,
+     0,
+     0
+    ]
+   },
+   "L2": {
+    "L2": false,
+    "has_zero": true,
+    "L2_single_modulus": false,
+    "alphabet_total": [
+     "0"
+    ],
+    "n_positive_exponents": 0,
+    "pairs": [],
+    "pairs_in_band": [],
+    "pairs_in_band_single_modulus": [],
+    "closest_pair_to_up_target": null,
+    "closest_pair_to_down_target": null,
+    "L2_down_analog": false
+   },
+   "PASS": false
+  },
+  {
+   "channel": {
+    "multiset": "UT(1,1)T(1,3)",
+    "gs": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      1,
+      3
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     }
+    },
+    "capable_planes": [],
+    "computable_planes": [],
+    "notes": [],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ]
+    ],
+    "alphabet_total": [
+     "0"
+    ],
+    "leg_class_tuples": null,
+    "entries": null,
+    "note_all_unsuppressed": "no computable plane: every classical factor is exactly 1"
+   },
+   "L1": {
+    "L1": false,
+    "classes_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_classes_per_index": 0,
+    "distinct_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_distinct_norms_per_index": 0,
+    "single_plane_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_single_plane_norms_per_index": 0,
+    "n_simultaneous_orbits_per_leg": [
+     0,
+     0,
+     0
+    ]
+   },
+   "L2": {
+    "L2": false,
+    "has_zero": true,
+    "L2_single_modulus": false,
+    "alphabet_total": [
+     "0"
+    ],
+    "n_positive_exponents": 0,
+    "pairs": [],
+    "pairs_in_band": [],
+    "pairs_in_band_single_modulus": [],
+    "closest_pair_to_up_target": null,
+    "closest_pair_to_down_target": null,
+    "L2_down_analog": false
+   },
+   "PASS": false
+  },
+  {
+   "channel": {
+    "multiset": "UT(1,2)T(1,2)",
+    "gs": [
+     [
+      0,
+      0
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      1,
+      2
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     }
+    },
+    "capable_planes": [],
+    "computable_planes": [],
+    "notes": [],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ]
+    ],
+    "alphabet_total": [
+     "0"
+    ],
+    "leg_class_tuples": null,
+    "entries": null,
+    "note_all_unsuppressed": "no computable plane: every classical factor is exactly 1"
+   },
+   "L1": {
+    "L1": false,
+    "classes_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_classes_per_index": 0,
+    "distinct_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_distinct_norms_per_index": 0,
+    "single_plane_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_single_plane_norms_per_index": 0,
+    "n_simultaneous_orbits_per_leg": [
+     0,
+     0,
+     0
+    ]
+   },
+   "L2": {
+    "L2": false,
+    "has_zero": true,
+    "L2_single_modulus": false,
+    "alphabet_total": [
+     "0"
+    ],
+    "n_positive_exponents": 0,
+    "pairs": [],
+    "pairs_in_band": [],
+    "pairs_in_band_single_modulus": [],
+    "closest_pair_to_up_target": null,
+    "closest_pair_to_down_target": null,
+    "L2_down_analog": false
+   },
+   "PASS": false
+  },
+  {
+   "channel": {
+    "multiset": "T(0,1)T(0,1)T(0,2)",
+    "gs": [
+     [
+      0,
+      1
+     ],
+     [
+      0,
+      1
+     ],
+     [
+      0,
+      2
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": true,
+      "rule5_antiholomorphic": false,
+      "capable": true,
+      "all_legs_localized": true,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "orbit_classes_per_leg": [
+       2,
+       2,
+       3
+      ],
+      "orbit_sizes_per_leg": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        2,
+        1
+       ]
+      ],
+      "assignments": [
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "2",
+          "0"
+         ],
+         "120": [
+          "4",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "2",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "4",
+          "0"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         2
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         2
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "2",
+          "1"
+         ],
+         "120": [
+          "4",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "2",
+          "1"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "4",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         2
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "2",
+          "1/2"
+         ],
+         "120": [
+          "4",
+          "1/4"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "2",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "4",
+          "1/4"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         2
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         2
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "2",
+          "1/2"
+         ],
+         "120": [
+          "4",
+          "1/4"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "2",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "4",
+          "1/4"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         2
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "2",
+          "1"
+         ],
+         "120": [
+          "4",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "2",
+          "1"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "4",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         2
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         2
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "2",
+          "0"
+         ],
+         "120": [
+          "4",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "2",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "4",
+          "0"
+         ]
+        }
+       }
+      ],
+      "NORMs": [
+       "0",
+       "1",
+       "2"
+      ],
+      "status": "computable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": true,
+      "capable": true,
+      "all_legs_localized": true,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "orbit_classes_per_leg": [
+       2,
+       2,
+       3
+      ],
+      "orbit_sizes_per_leg": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        2,
+        1
+       ]
+      ],
+      "assignments": [
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "2",
+          "0"
+         ],
+         "120": [
+          "4",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "2",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "4",
+          "0"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         2
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         2
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "2",
+          "1"
+         ],
+         "120": [
+          "4",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "2",
+          "1"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "4",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         2
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "2",
+          "1/2"
+         ],
+         "120": [
+          "4",
+          "1/4"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "2",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "4",
+          "1/4"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         2
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         2
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "2",
+          "1/2"
+         ],
+         "120": [
+          "4",
+          "1/4"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "2",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "4",
+          "1/4"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         2
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "2",
+          "1"
+         ],
+         "120": [
+          "4",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "2",
+          "1"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "4",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         2
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         2
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "2",
+          "0"
+         ],
+         "120": [
+          "4",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "2",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "4",
+          "0"
+         ]
+        }
+       }
+      ],
+      "NORMs": [
+       "0",
+       "1",
+       "2"
+      ],
+      "status": "computable"
+     }
+    },
+    "capable_planes": [
+     1,
+     3
+    ],
+    "computable_planes": [
+     1,
+     3
+    ],
+    "notes": [],
+    "leg_class_tuples": [
+     {
+      "sector": "T(0,1)",
+      "n_distinct_class_tuples": 4,
+      "n_simultaneous_orbits": 4,
+      "class_tuples": {
+       "(0, 0)": 1,
+       "(0, 1)": 1,
+       "(1, 0)": 1,
+       "(1, 1)": 1
+      }
+     },
+     {
+      "sector": "T(0,1)",
+      "n_distinct_class_tuples": 4,
+      "n_simultaneous_orbits": 4,
+      "class_tuples": {
+       "(0, 0)": 1,
+       "(0, 1)": 1,
+       "(1, 0)": 1,
+       "(1, 1)": 1
+      }
+     },
+     {
+      "sector": "T(0,2)",
+      "n_distinct_class_tuples": 9,
+      "n_simultaneous_orbits": 10,
+      "class_tuples": {
+       "(0, 0)": 1,
+       "(0, 1)": 1,
+       "(0, 2)": 1,
+       "(1, 0)": 1,
+       "(1, 1)": 2,
+       "(1, 2)": 1,
+       "(2, 0)": 1,
+       "(2, 1)": 1,
+       "(2, 2)": 1
+      }
+     }
+    ],
+    "entries": [
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        2,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        2,
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        2,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        2,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        2,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        2,
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        2,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        2,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        2,
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     }
+    ],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ],
+     [
+      "0",
+      "0",
+      "1"
+     ],
+     [
+      "0",
+      "0",
+      "2"
+     ],
+     [
+      "1",
+      "0",
+      "0"
+     ],
+     [
+      "1",
+      "0",
+      "1"
+     ],
+     [
+      "1",
+      "0",
+      "2"
+     ],
+     [
+      "2",
+      "0",
+      "0"
+     ],
+     [
+      "2",
+      "0",
+      "1"
+     ],
+     [
+      "2",
+      "0",
+      "2"
+     ]
+    ],
+    "alphabet_total": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4"
+    ]
+   },
+   "L1": {
+    "L1": true,
+    "classes_per_index": [
+     4,
+     4,
+     9
+    ],
+    "max_classes_per_index": 9,
+    "n_simultaneous_orbits_per_leg": [
+     4,
+     4,
+     10
+    ],
+    "distinct_norms_per_index": [
+     1,
+     1,
+     4
+    ],
+    "max_distinct_norms_per_index": 4,
+    "single_plane_norms_per_index": [
+     1,
+     1,
+     2
+    ],
+    "max_single_plane_norms_per_index": 2
+   },
+   "L2": {
+    "L2": true,
+    "has_zero": true,
+    "L2_single_modulus": true,
+    "alphabet_total": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "n_positive_exponents": 4,
+    "pairs": [
+     {
+      "n1": "1",
+      "n2": "2",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1,
+       3
+      ]
+     },
+     {
+      "n1": "1",
+      "n2": "3",
+      "ratio": 3.0,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "1",
+      "n2": "4",
+      "ratio": 4.0,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "2",
+      "n2": "3",
+      "ratio": 1.5,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "3",
+      "n2": "4",
+      "ratio": 1.3333333333333333,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     }
+    ],
+    "pairs_in_band": [
+     {
+      "n1": "1",
+      "n2": "2",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1,
+       3
+      ]
+     },
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": false,
+      "shared_plane": null
+     }
+    ],
+    "pairs_in_band_single_modulus": [
+     {
+      "n1": "1",
+      "n2": "2",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1,
+       3
+      ]
+     }
+    ],
+    "closest_pair_to_up_target": {
+     "n1": "1",
+     "n2": "2",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      1,
+      3
+     ]
+    },
+    "closest_pair_to_down_target": {
+     "n1": "1",
+     "n2": "2",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      1,
+      3
+     ]
+    },
+    "L2_down_analog": true
+   },
+   "PASS": true
+  },
+  {
+   "channel": {
+    "multiset": "T(0,1)T(1,0)T(1,3)",
+    "gs": [
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      1,
+      3
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": true,
+      "capable": true,
+      "all_legs_localized": true,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "orbit_classes_per_leg": [
+       2,
+       3,
+       2
+      ],
+      "orbit_sizes_per_leg": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        2,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "assignments": [
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         2,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         2,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         2,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "4",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "1"
+         ],
+         "021": [
+          "4",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         2,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "4",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "1"
+         ],
+         "021": [
+          "4",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         2,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         2,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         2,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         2,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ]
+        }
+       }
+      ],
+      "NORMs": [
+       "0",
+       "2",
+       "4"
+      ],
+      "status": "computable"
+     }
+    },
+    "capable_planes": [
+     3
+    ],
+    "computable_planes": [
+     3
+    ],
+    "notes": [],
+    "leg_class_tuples": [
+     {
+      "sector": "T(0,1)",
+      "n_distinct_class_tuples": 2,
+      "n_simultaneous_orbits": 4,
+      "class_tuples": {
+       "(0,)": 2,
+       "(1,)": 2
+      }
+     },
+     {
+      "sector": "T(1,0)",
+      "n_distinct_class_tuples": 3,
+      "n_simultaneous_orbits": 12,
+      "class_tuples": {
+       "(0,)": 4,
+       "(1,)": 4,
+       "(2,)": 4
+      }
+     },
+     {
+      "sector": "T(1,3)",
+      "n_distinct_class_tuples": 2,
+      "n_simultaneous_orbits": 16,
+      "class_tuples": {
+       "(0,)": 8,
+       "(1,)": 8
+      }
+     }
+    ],
+    "entries": [
+     {
+      "legs": [
+       [
+        0
+       ],
+       [
+        0
+       ],
+       [
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        0
+       ],
+       [
+        1
+       ],
+       [
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0
+       ],
+       [
+        2
+       ],
+       [
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "4"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        1
+       ],
+       [
+        0
+       ],
+       [
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "4"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        1
+       ],
+       [
+        1
+       ],
+       [
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1
+       ],
+       [
+        2
+       ],
+       [
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     }
+    ],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ],
+     [
+      "0",
+      "0",
+      "2"
+     ],
+     [
+      "0",
+      "0",
+      "4"
+     ]
+    ],
+    "alphabet_total": [
+     "0",
+     "2",
+     "4"
+    ]
+   },
+   "L1": {
+    "L1": true,
+    "classes_per_index": [
+     2,
+     3,
+     2
+    ],
+    "max_classes_per_index": 3,
+    "n_simultaneous_orbits_per_leg": [
+     4,
+     12,
+     16
+    ],
+    "distinct_norms_per_index": [
+     1,
+     2,
+     1
+    ],
+    "max_distinct_norms_per_index": 2,
+    "single_plane_norms_per_index": [
+     1,
+     2,
+     1
+    ],
+    "max_single_plane_norms_per_index": 2
+   },
+   "L2": {
+    "L2": true,
+    "has_zero": true,
+    "L2_single_modulus": true,
+    "alphabet_total": [
+     "0",
+     "2",
+     "4"
+    ],
+    "n_positive_exponents": 2,
+    "pairs": [
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       3
+      ]
+     }
+    ],
+    "pairs_in_band": [
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       3
+      ]
+     }
+    ],
+    "pairs_in_band_single_modulus": [
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       3
+      ]
+     }
+    ],
+    "closest_pair_to_up_target": {
+     "n1": "2",
+     "n2": "4",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      3
+     ]
+    },
+    "closest_pair_to_down_target": {
+     "n1": "2",
+     "n2": "4",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      3
+     ]
+    },
+    "L2_down_analog": true
+   },
+   "PASS": true
+  },
+  {
+   "channel": {
+    "multiset": "T(0,1)T(1,1)T(1,2)",
+    "gs": [
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      1,
+      2
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": true,
+      "rule5_antiholomorphic": false,
+      "capable": true,
+      "all_legs_localized": true,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "orbit_classes_per_leg": [
+       2,
+       2,
+       3
+      ],
+      "orbit_sizes_per_leg": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        2,
+        1
+       ]
+      ],
+      "assignments": [
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "120",
+         "201",
+         "021",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         2
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "120",
+         "201",
+         "021",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         2
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "4",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "120",
+         "201",
+         "021",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1"
+         ],
+         "102": [
+          "4",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "120",
+         "201",
+         "021",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         2
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "120",
+         "201",
+         "021",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         2
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "120",
+         "201",
+         "021",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "120",
+         "201",
+         "021",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         2
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "120",
+         "201",
+         "021",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         2
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "120",
+         "201",
+         "021",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "4",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "120",
+         "201",
+         "021",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1"
+         ],
+         "102": [
+          "4",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         2
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "120",
+         "201",
+         "021",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         2
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "120",
+         "201",
+         "021",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ]
+        }
+       }
+      ],
+      "NORMs": [
+       "0",
+       "2",
+       "4"
+      ],
+      "status": "computable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     }
+    },
+    "capable_planes": [
+     1
+    ],
+    "computable_planes": [
+     1
+    ],
+    "notes": [],
+    "leg_class_tuples": [
+     {
+      "sector": "T(0,1)",
+      "n_distinct_class_tuples": 2,
+      "n_simultaneous_orbits": 4,
+      "class_tuples": {
+       "(0,)": 2,
+       "(1,)": 2
+      }
+     },
+     {
+      "sector": "T(1,1)",
+      "n_distinct_class_tuples": 2,
+      "n_simultaneous_orbits": 16,
+      "class_tuples": {
+       "(0,)": 8,
+       "(1,)": 8
+      }
+     },
+     {
+      "sector": "T(1,2)",
+      "n_distinct_class_tuples": 3,
+      "n_simultaneous_orbits": 12,
+      "class_tuples": {
+       "(0,)": 4,
+       "(1,)": 4,
+       "(2,)": 4
+      }
+     }
+    ],
+    "entries": [
+     {
+      "legs": [
+       [
+        0
+       ],
+       [
+        0
+       ],
+       [
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        0
+       ],
+       [
+        0
+       ],
+       [
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "4",
+       "0",
+       "0"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        0
+       ],
+       [
+        1
+       ],
+       [
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1
+       ],
+       [
+        0
+       ],
+       [
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1
+       ],
+       [
+        1
+       ],
+       [
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "4",
+       "0",
+       "0"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        1
+       ],
+       [
+        1
+       ],
+       [
+        2
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     }
+    ],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ],
+     [
+      "2",
+      "0",
+      "0"
+     ],
+     [
+      "4",
+      "0",
+      "0"
+     ]
+    ],
+    "alphabet_total": [
+     "0",
+     "2",
+     "4"
+    ]
+   },
+   "L1": {
+    "L1": true,
+    "classes_per_index": [
+     2,
+     2,
+     3
+    ],
+    "max_classes_per_index": 3,
+    "n_simultaneous_orbits_per_leg": [
+     4,
+     16,
+     12
+    ],
+    "distinct_norms_per_index": [
+     1,
+     1,
+     2
+    ],
+    "max_distinct_norms_per_index": 2,
+    "single_plane_norms_per_index": [
+     1,
+     1,
+     2
+    ],
+    "max_single_plane_norms_per_index": 2
+   },
+   "L2": {
+    "L2": true,
+    "has_zero": true,
+    "L2_single_modulus": true,
+    "alphabet_total": [
+     "0",
+     "2",
+     "4"
+    ],
+    "n_positive_exponents": 2,
+    "pairs": [
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1
+      ]
+     }
+    ],
+    "pairs_in_band": [
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1
+      ]
+     }
+    ],
+    "pairs_in_band_single_modulus": [
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1
+      ]
+     }
+    ],
+    "closest_pair_to_up_target": {
+     "n1": "2",
+     "n2": "4",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      1
+     ]
+    },
+    "closest_pair_to_down_target": {
+     "n1": "2",
+     "n2": "4",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      1
+     ]
+    },
+    "L2_down_analog": true
+   },
+   "PASS": true
+  },
+  {
+   "channel": {
+    "multiset": "T(0,2)T(0,3)T(0,3)",
+    "gs": [
+     [
+      0,
+      2
+     ],
+     [
+      0,
+      3
+     ],
+     [
+      0,
+      3
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": true,
+      "capable": true,
+      "all_legs_localized": true,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "orbit_classes_per_leg": [
+       3,
+       2,
+       2
+      ],
+      "orbit_sizes_per_leg": [
+       [
+        1,
+        2,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "assignments": [
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "120": [
+          "2",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "2",
+          "0"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "120": [
+          "2",
+          "1"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "2",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/4"
+         ],
+         "120": [
+          "2",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "4",
+          "1/4"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "2",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/4"
+         ],
+         "120": [
+          "2",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "4",
+          "1/4"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "2",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "120": [
+          "2",
+          "1"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "2",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         2,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "120": [
+          "2",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "2",
+          "0"
+         ]
+        }
+       }
+      ],
+      "NORMs": [
+       "0",
+       "1",
+       "2"
+      ],
+      "status": "computable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": true,
+      "rule5_antiholomorphic": false,
+      "capable": true,
+      "all_legs_localized": true,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "orbit_classes_per_leg": [
+       3,
+       2,
+       2
+      ],
+      "orbit_sizes_per_leg": [
+       [
+        1,
+        2,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "assignments": [
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "120": [
+          "2",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "2",
+          "0"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "120": [
+          "2",
+          "1"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "2",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/4"
+         ],
+         "120": [
+          "2",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "4",
+          "1/4"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "2",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/4"
+         ],
+         "120": [
+          "2",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "4",
+          "1/4"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "2",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "120": [
+          "2",
+          "1"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "2",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         2,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "120": [
+          "2",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "2",
+          "0"
+         ]
+        }
+       }
+      ],
+      "NORMs": [
+       "0",
+       "1",
+       "2"
+      ],
+      "status": "computable"
+     }
+    },
+    "capable_planes": [
+     1,
+     3
+    ],
+    "computable_planes": [
+     1,
+     3
+    ],
+    "notes": [],
+    "leg_class_tuples": [
+     {
+      "sector": "T(0,2)",
+      "n_distinct_class_tuples": 9,
+      "n_simultaneous_orbits": 10,
+      "class_tuples": {
+       "(0, 0)": 1,
+       "(0, 1)": 1,
+       "(0, 2)": 1,
+       "(1, 0)": 1,
+       "(1, 1)": 2,
+       "(1, 2)": 1,
+       "(2, 0)": 1,
+       "(2, 1)": 1,
+       "(2, 2)": 1
+      }
+     },
+     {
+      "sector": "T(0,3)",
+      "n_distinct_class_tuples": 4,
+      "n_simultaneous_orbits": 4,
+      "class_tuples": {
+       "(0, 0)": 1,
+       "(0, 1)": 1,
+       "(1, 0)": 1,
+       "(1, 1)": 1
+      }
+     },
+     {
+      "sector": "T(0,3)",
+      "n_distinct_class_tuples": 4,
+      "n_simultaneous_orbits": 4,
+      "class_tuples": {
+       "(0, 0)": 1,
+       "(0, 1)": 1,
+       "(1, 0)": 1,
+       "(1, 1)": 1
+      }
+     }
+    ],
+    "entries": [
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        0,
+        2
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        2
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        0,
+        2
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        0,
+        2
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        2
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        2
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        2
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        2
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        2,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        2,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        2,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        2,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        2,
+        1
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        2,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        2,
+        1
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        2,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        2,
+        2
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        2,
+        2
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        2,
+        2
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        2,
+        2
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     }
+    ],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ],
+     [
+      "0",
+      "0",
+      "1"
+     ],
+     [
+      "0",
+      "0",
+      "2"
+     ],
+     [
+      "1",
+      "0",
+      "0"
+     ],
+     [
+      "1",
+      "0",
+      "1"
+     ],
+     [
+      "1",
+      "0",
+      "2"
+     ],
+     [
+      "2",
+      "0",
+      "0"
+     ],
+     [
+      "2",
+      "0",
+      "1"
+     ],
+     [
+      "2",
+      "0",
+      "2"
+     ]
+    ],
+    "alphabet_total": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4"
+    ]
+   },
+   "L1": {
+    "L1": true,
+    "classes_per_index": [
+     9,
+     4,
+     4
+    ],
+    "max_classes_per_index": 9,
+    "n_simultaneous_orbits_per_leg": [
+     10,
+     4,
+     4
+    ],
+    "distinct_norms_per_index": [
+     4,
+     1,
+     1
+    ],
+    "max_distinct_norms_per_index": 4,
+    "single_plane_norms_per_index": [
+     2,
+     1,
+     1
+    ],
+    "max_single_plane_norms_per_index": 2
+   },
+   "L2": {
+    "L2": true,
+    "has_zero": true,
+    "L2_single_modulus": true,
+    "alphabet_total": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "n_positive_exponents": 4,
+    "pairs": [
+     {
+      "n1": "1",
+      "n2": "2",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1,
+       3
+      ]
+     },
+     {
+      "n1": "1",
+      "n2": "3",
+      "ratio": 3.0,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "1",
+      "n2": "4",
+      "ratio": 4.0,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "2",
+      "n2": "3",
+      "ratio": 1.5,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "3",
+      "n2": "4",
+      "ratio": 1.3333333333333333,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     }
+    ],
+    "pairs_in_band": [
+     {
+      "n1": "1",
+      "n2": "2",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1,
+       3
+      ]
+     },
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": false,
+      "shared_plane": null
+     }
+    ],
+    "pairs_in_band_single_modulus": [
+     {
+      "n1": "1",
+      "n2": "2",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1,
+       3
+      ]
+     }
+    ],
+    "closest_pair_to_up_target": {
+     "n1": "1",
+     "n2": "2",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      1,
+      3
+     ]
+    },
+    "closest_pair_to_down_target": {
+     "n1": "1",
+     "n2": "2",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      1,
+      3
+     ]
+    },
+    "L2_down_analog": true
+   },
+   "PASS": true
+  },
+  {
+   "channel": {
+    "multiset": "T(0,2)T(1,0)T(1,2)",
+    "gs": [
+     [
+      0,
+      2
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      1,
+      2
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     }
+    },
+    "capable_planes": [],
+    "computable_planes": [],
+    "notes": [],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ]
+    ],
+    "alphabet_total": [
+     "0"
+    ],
+    "leg_class_tuples": null,
+    "entries": null,
+    "note_all_unsuppressed": "no computable plane: every classical factor is exactly 1"
+   },
+   "L1": {
+    "L1": false,
+    "classes_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_classes_per_index": 0,
+    "distinct_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_distinct_norms_per_index": 0,
+    "single_plane_norms_per_index": [
+     0,
+     0,
+     0
+    ],
+    "max_single_plane_norms_per_index": 0,
+    "n_simultaneous_orbits_per_leg": [
+     0,
+     0,
+     0
+    ]
+   },
+   "L2": {
+    "L2": false,
+    "has_zero": true,
+    "L2_single_modulus": false,
+    "alphabet_total": [
+     "0"
+    ],
+    "n_positive_exponents": 0,
+    "pairs": [],
+    "pairs_in_band": [],
+    "pairs_in_band_single_modulus": [],
+    "closest_pair_to_up_target": null,
+    "closest_pair_to_down_target": null,
+    "L2_down_analog": false
+   },
+   "PASS": false
+  },
+  {
+   "channel": {
+    "multiset": "T(0,2)T(1,1)T(1,1)",
+    "gs": [
+     [
+      0,
+      2
+     ],
+     [
+      1,
+      1
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": true,
+      "rule5_antiholomorphic": false,
+      "capable": true,
+      "all_legs_localized": true,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "orbit_classes_per_leg": [
+       3,
+       2,
+       2
+      ],
+      "orbit_sizes_per_leg": [
+       [
+        1,
+        2,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "assignments": [
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "120": [
+          "2",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "2",
+          "0"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "120": [
+          "2",
+          "1"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "2",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/4"
+         ],
+         "120": [
+          "2",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "4",
+          "1/4"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "2",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/4"
+         ],
+         "120": [
+          "2",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "4",
+          "1/4"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "2",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "120": [
+          "2",
+          "1"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "2",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         2,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "120": [
+          "2",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "2",
+          "0"
+         ]
+        }
+       }
+      ],
+      "NORMs": [
+       "0",
+       "1",
+       "2"
+      ],
+      "status": "computable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": true,
+      "rule5_antiholomorphic": false,
+      "capable": true,
+      "all_legs_localized": true,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "orbit_classes_per_leg": [
+       3,
+       2,
+       2
+      ],
+      "orbit_sizes_per_leg": [
+       [
+        1,
+        2,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "assignments": [
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "120": [
+          "2",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "2",
+          "0"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "120": [
+          "2",
+          "1"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "2",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/4"
+         ],
+         "120": [
+          "2",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "4",
+          "1/4"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "2",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/4"
+         ],
+         "120": [
+          "2",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "4",
+          "1/4"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "2",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "120": [
+          "2",
+          "1"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "2",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         2,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "120": [
+          "2",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "2",
+          "0"
+         ]
+        }
+       }
+      ],
+      "NORMs": [
+       "0",
+       "1",
+       "2"
+      ],
+      "status": "computable"
+     }
+    },
+    "capable_planes": [
+     1,
+     3
+    ],
+    "computable_planes": [
+     1,
+     3
+    ],
+    "notes": [],
+    "leg_class_tuples": [
+     {
+      "sector": "T(0,2)",
+      "n_distinct_class_tuples": 9,
+      "n_simultaneous_orbits": 10,
+      "class_tuples": {
+       "(0, 0)": 1,
+       "(0, 1)": 1,
+       "(0, 2)": 1,
+       "(1, 0)": 1,
+       "(1, 1)": 2,
+       "(1, 2)": 1,
+       "(2, 0)": 1,
+       "(2, 1)": 1,
+       "(2, 2)": 1
+      }
+     },
+     {
+      "sector": "T(1,1)",
+      "n_distinct_class_tuples": 4,
+      "n_simultaneous_orbits": 16,
+      "class_tuples": {
+       "(0, 0)": 4,
+       "(0, 1)": 4,
+       "(1, 0)": 4,
+       "(1, 1)": 4
+      }
+     },
+     {
+      "sector": "T(1,1)",
+      "n_distinct_class_tuples": 4,
+      "n_simultaneous_orbits": 16,
+      "class_tuples": {
+       "(0, 0)": 4,
+       "(0, 1)": 4,
+       "(1, 0)": 4,
+       "(1, 1)": 4
+      }
+     }
+    ],
+    "entries": [
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        0,
+        2
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        2
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        0,
+        2
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        0,
+        2
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        2
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        2
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        2
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        2
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        2,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        2,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        2,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        2,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        2,
+        1
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        2,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        2,
+        1
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        2,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        2,
+        2
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        2,
+        2
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        2,
+        2
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        2,
+        2
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     }
+    ],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ],
+     [
+      "0",
+      "0",
+      "1"
+     ],
+     [
+      "0",
+      "0",
+      "2"
+     ],
+     [
+      "1",
+      "0",
+      "0"
+     ],
+     [
+      "1",
+      "0",
+      "1"
+     ],
+     [
+      "1",
+      "0",
+      "2"
+     ],
+     [
+      "2",
+      "0",
+      "0"
+     ],
+     [
+      "2",
+      "0",
+      "1"
+     ],
+     [
+      "2",
+      "0",
+      "2"
+     ]
+    ],
+    "alphabet_total": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4"
+    ]
+   },
+   "L1": {
+    "L1": true,
+    "classes_per_index": [
+     9,
+     4,
+     4
+    ],
+    "max_classes_per_index": 9,
+    "n_simultaneous_orbits_per_leg": [
+     10,
+     16,
+     16
+    ],
+    "distinct_norms_per_index": [
+     4,
+     1,
+     1
+    ],
+    "max_distinct_norms_per_index": 4,
+    "single_plane_norms_per_index": [
+     2,
+     1,
+     1
+    ],
+    "max_single_plane_norms_per_index": 2
+   },
+   "L2": {
+    "L2": true,
+    "has_zero": true,
+    "L2_single_modulus": true,
+    "alphabet_total": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "n_positive_exponents": 4,
+    "pairs": [
+     {
+      "n1": "1",
+      "n2": "2",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1,
+       3
+      ]
+     },
+     {
+      "n1": "1",
+      "n2": "3",
+      "ratio": 3.0,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "1",
+      "n2": "4",
+      "ratio": 4.0,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "2",
+      "n2": "3",
+      "ratio": 1.5,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "3",
+      "n2": "4",
+      "ratio": 1.3333333333333333,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     }
+    ],
+    "pairs_in_band": [
+     {
+      "n1": "1",
+      "n2": "2",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1,
+       3
+      ]
+     },
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": false,
+      "shared_plane": null
+     }
+    ],
+    "pairs_in_band_single_modulus": [
+     {
+      "n1": "1",
+      "n2": "2",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1,
+       3
+      ]
+     }
+    ],
+    "closest_pair_to_up_target": {
+     "n1": "1",
+     "n2": "2",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      1,
+      3
+     ]
+    },
+    "closest_pair_to_down_target": {
+     "n1": "1",
+     "n2": "2",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      1,
+      3
+     ]
+    },
+    "L2_down_analog": true
+   },
+   "PASS": true
+  },
+  {
+   "channel": {
+    "multiset": "T(0,2)T(1,3)T(1,3)",
+    "gs": [
+     [
+      0,
+      2
+     ],
+     [
+      1,
+      3
+     ],
+     [
+      1,
+      3
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": true,
+      "capable": true,
+      "all_legs_localized": true,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "orbit_classes_per_leg": [
+       3,
+       2,
+       2
+      ],
+      "orbit_sizes_per_leg": [
+       [
+        1,
+        2,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "assignments": [
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "120": [
+          "2",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "2",
+          "0"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "120": [
+          "2",
+          "1"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "2",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/4"
+         ],
+         "120": [
+          "2",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "4",
+          "1/4"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "2",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/4"
+         ],
+         "120": [
+          "2",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "4",
+          "1/4"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "2",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "120": [
+          "2",
+          "1"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "2",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         2,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "120": [
+          "2",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "2",
+          "0"
+         ]
+        }
+       }
+      ],
+      "NORMs": [
+       "0",
+       "1",
+       "2"
+      ],
+      "status": "computable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": true,
+      "capable": true,
+      "all_legs_localized": true,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "orbit_classes_per_leg": [
+       3,
+       2,
+       2
+      ],
+      "orbit_sizes_per_leg": [
+       [
+        1,
+        2,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "assignments": [
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "120": [
+          "2",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "2",
+          "0"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "120": [
+          "2",
+          "1"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "2",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/4"
+         ],
+         "120": [
+          "2",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "4",
+          "1/4"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "2",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": "1",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/4"
+         ],
+         "120": [
+          "2",
+          "1/2"
+         ],
+         "201": [
+          "4",
+          "1/4"
+         ],
+         "102": [
+          "4",
+          "1/4"
+         ],
+         "021": [
+          "4",
+          "1/4"
+         ],
+         "210": [
+          "2",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         2,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "1/2"
+         ],
+         "120": [
+          "2",
+          "1"
+         ],
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "102": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ],
+         "210": [
+          "2",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         2,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         2,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [],
+        "n_admissible_orderings": 6,
+        "per_ordering_pf_rhomin": {
+         "012": [
+          "4",
+          "0"
+         ],
+         "120": [
+          "2",
+          "0"
+         ],
+         "201": [
+          "4",
+          "0"
+         ],
+         "102": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ],
+         "210": [
+          "2",
+          "0"
+         ]
+        }
+       }
+      ],
+      "NORMs": [
+       "0",
+       "1",
+       "2"
+      ],
+      "status": "computable"
+     }
+    },
+    "capable_planes": [
+     1,
+     3
+    ],
+    "computable_planes": [
+     1,
+     3
+    ],
+    "notes": [],
+    "leg_class_tuples": [
+     {
+      "sector": "T(0,2)",
+      "n_distinct_class_tuples": 9,
+      "n_simultaneous_orbits": 10,
+      "class_tuples": {
+       "(0, 0)": 1,
+       "(0, 1)": 1,
+       "(0, 2)": 1,
+       "(1, 0)": 1,
+       "(1, 1)": 2,
+       "(1, 2)": 1,
+       "(2, 0)": 1,
+       "(2, 1)": 1,
+       "(2, 2)": 1
+      }
+     },
+     {
+      "sector": "T(1,3)",
+      "n_distinct_class_tuples": 4,
+      "n_simultaneous_orbits": 16,
+      "class_tuples": {
+       "(0, 0)": 4,
+       "(0, 1)": 4,
+       "(1, 0)": 4,
+       "(1, 1)": 4
+      }
+     },
+     {
+      "sector": "T(1,3)",
+      "n_distinct_class_tuples": 4,
+      "n_simultaneous_orbits": 16,
+      "class_tuples": {
+       "(0, 0)": 4,
+       "(0, 1)": 4,
+       "(1, 0)": 4,
+       "(1, 1)": 4
+      }
+     }
+    ],
+    "entries": [
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        0,
+        2
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0,
+        2
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        0,
+        2
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        0,
+        2
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "1"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1,
+        2
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        2
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        1,
+        2
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "2"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        1,
+        2
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "1",
+       "0",
+       "0"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        2,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        2,
+        0
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        2,
+        0
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        2,
+        0
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        2,
+        1
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        2,
+        1
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "1"
+      ],
+      "total": "3"
+     },
+     {
+      "legs": [
+       [
+        2,
+        1
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        2,
+        1
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "1"
+      ],
+      "total": "1"
+     },
+     {
+      "legs": [
+       [
+        2,
+        2
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "2"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        2,
+        2
+       ],
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        2,
+        2
+       ],
+       [
+        1,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        2,
+        2
+       ],
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     }
+    ],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ],
+     [
+      "0",
+      "0",
+      "1"
+     ],
+     [
+      "0",
+      "0",
+      "2"
+     ],
+     [
+      "1",
+      "0",
+      "0"
+     ],
+     [
+      "1",
+      "0",
+      "1"
+     ],
+     [
+      "1",
+      "0",
+      "2"
+     ],
+     [
+      "2",
+      "0",
+      "0"
+     ],
+     [
+      "2",
+      "0",
+      "1"
+     ],
+     [
+      "2",
+      "0",
+      "2"
+     ]
+    ],
+    "alphabet_total": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4"
+    ]
+   },
+   "L1": {
+    "L1": true,
+    "classes_per_index": [
+     9,
+     4,
+     4
+    ],
+    "max_classes_per_index": 9,
+    "n_simultaneous_orbits_per_leg": [
+     10,
+     16,
+     16
+    ],
+    "distinct_norms_per_index": [
+     4,
+     1,
+     1
+    ],
+    "max_distinct_norms_per_index": 4,
+    "single_plane_norms_per_index": [
+     2,
+     1,
+     1
+    ],
+    "max_single_plane_norms_per_index": 2
+   },
+   "L2": {
+    "L2": true,
+    "has_zero": true,
+    "L2_single_modulus": true,
+    "alphabet_total": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "n_positive_exponents": 4,
+    "pairs": [
+     {
+      "n1": "1",
+      "n2": "2",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1,
+       3
+      ]
+     },
+     {
+      "n1": "1",
+      "n2": "3",
+      "ratio": 3.0,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "1",
+      "n2": "4",
+      "ratio": 4.0,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "2",
+      "n2": "3",
+      "ratio": 1.5,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": false,
+      "shared_plane": null
+     },
+     {
+      "n1": "3",
+      "n2": "4",
+      "ratio": 1.3333333333333333,
+      "in_band": false,
+      "single_modulus": false,
+      "shared_plane": null
+     }
+    ],
+    "pairs_in_band": [
+     {
+      "n1": "1",
+      "n2": "2",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1,
+       3
+      ]
+     },
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": false,
+      "shared_plane": null
+     }
+    ],
+    "pairs_in_band_single_modulus": [
+     {
+      "n1": "1",
+      "n2": "2",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1,
+       3
+      ]
+     }
+    ],
+    "closest_pair_to_up_target": {
+     "n1": "1",
+     "n2": "2",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      1,
+      3
+     ]
+    },
+    "closest_pair_to_down_target": {
+     "n1": "1",
+     "n2": "2",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      1,
+      3
+     ]
+    },
+    "L2_down_analog": true
+   },
+   "PASS": true
+  },
+  {
+   "channel": {
+    "multiset": "T(0,3)T(1,0)T(1,1)",
+    "gs": [
+     [
+      0,
+      3
+     ],
+     [
+      1,
+      0
+     ],
+     [
+      1,
+      1
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": true,
+      "rule5_antiholomorphic": false,
+      "capable": true,
+      "all_legs_localized": true,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "orbit_classes_per_leg": [
+       2,
+       3,
+       2
+      ],
+      "orbit_sizes_per_leg": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        2,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "assignments": [
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         2,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         2,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         2,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "4",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "1"
+         ],
+         "021": [
+          "4",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         2,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "4",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "1"
+         ],
+         "021": [
+          "4",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         2,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         2,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         2,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         2,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ]
+        }
+       }
+      ],
+      "NORMs": [
+       "0",
+       "2",
+       "4"
+      ],
+      "status": "computable"
+     }
+    },
+    "capable_planes": [
+     3
+    ],
+    "computable_planes": [
+     3
+    ],
+    "notes": [],
+    "leg_class_tuples": [
+     {
+      "sector": "T(0,3)",
+      "n_distinct_class_tuples": 2,
+      "n_simultaneous_orbits": 4,
+      "class_tuples": {
+       "(0,)": 2,
+       "(1,)": 2
+      }
+     },
+     {
+      "sector": "T(1,0)",
+      "n_distinct_class_tuples": 3,
+      "n_simultaneous_orbits": 12,
+      "class_tuples": {
+       "(0,)": 4,
+       "(1,)": 4,
+       "(2,)": 4
+      }
+     },
+     {
+      "sector": "T(1,1)",
+      "n_distinct_class_tuples": 2,
+      "n_simultaneous_orbits": 16,
+      "class_tuples": {
+       "(0,)": 8,
+       "(1,)": 8
+      }
+     }
+    ],
+    "entries": [
+     {
+      "legs": [
+       [
+        0
+       ],
+       [
+        0
+       ],
+       [
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        0
+       ],
+       [
+        1
+       ],
+       [
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0
+       ],
+       [
+        2
+       ],
+       [
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "4"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        1
+       ],
+       [
+        0
+       ],
+       [
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "4"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        1
+       ],
+       [
+        1
+       ],
+       [
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "2"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1
+       ],
+       [
+        2
+       ],
+       [
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     }
+    ],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ],
+     [
+      "0",
+      "0",
+      "2"
+     ],
+     [
+      "0",
+      "0",
+      "4"
+     ]
+    ],
+    "alphabet_total": [
+     "0",
+     "2",
+     "4"
+    ]
+   },
+   "L1": {
+    "L1": true,
+    "classes_per_index": [
+     2,
+     3,
+     2
+    ],
+    "max_classes_per_index": 3,
+    "n_simultaneous_orbits_per_leg": [
+     4,
+     12,
+     16
+    ],
+    "distinct_norms_per_index": [
+     1,
+     2,
+     1
+    ],
+    "max_distinct_norms_per_index": 2,
+    "single_plane_norms_per_index": [
+     1,
+     2,
+     1
+    ],
+    "max_single_plane_norms_per_index": 2
+   },
+   "L2": {
+    "L2": true,
+    "has_zero": true,
+    "L2_single_modulus": true,
+    "alphabet_total": [
+     "0",
+     "2",
+     "4"
+    ],
+    "n_positive_exponents": 2,
+    "pairs": [
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       3
+      ]
+     }
+    ],
+    "pairs_in_band": [
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       3
+      ]
+     }
+    ],
+    "pairs_in_band_single_modulus": [
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       3
+      ]
+     }
+    ],
+    "closest_pair_to_up_target": {
+     "n1": "2",
+     "n2": "4",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      3
+     ]
+    },
+    "closest_pair_to_down_target": {
+     "n1": "2",
+     "n2": "4",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      3
+     ]
+    },
+    "L2_down_analog": true
+   },
+   "PASS": true
+  },
+  {
+   "channel": {
+    "multiset": "T(0,3)T(1,2)T(1,3)",
+    "gs": [
+     [
+      0,
+      3
+     ],
+     [
+      1,
+      2
+     ],
+     [
+      1,
+      3
+     ]
+    ],
+    "planes": {
+     "plane1": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": true,
+      "capable": true,
+      "all_legs_localized": true,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "orbit_classes_per_leg": [
+       2,
+       3,
+       2
+      ],
+      "orbit_sizes_per_leg": [
+       [
+        1,
+        1
+       ],
+       [
+        1,
+        2,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "assignments": [
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         2,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         0,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         2,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         2,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "4",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "1"
+         ],
+         "021": [
+          "4",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         0,
+         2,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         0,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "4",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "1"
+         ],
+         "021": [
+          "4",
+          "1"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         2,
+         1
+        ],
+        "NORM": "2",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "1/2"
+         ],
+         "021": [
+          "4",
+          "1/2"
+         ]
+        }
+       },
+       {
+        "orbit_class_index": [
+         1,
+         1,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         2,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         2,
+         0
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": null,
+        "outcome": "space-group forbidden",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 0,
+        "per_ordering_pf_rhomin": {}
+       },
+       {
+        "orbit_class_index": [
+         1,
+         2,
+         1
+        ],
+        "orbit_sizes": [
+         1,
+         1,
+         1
+        ],
+        "NORM": "0",
+        "outcome": "ok",
+        "degenerate_orderings": [
+         "012",
+         "120",
+         "102",
+         "210"
+        ],
+        "n_admissible_orderings": 2,
+        "per_ordering_pf_rhomin": {
+         "201": [
+          "4",
+          "0"
+         ],
+         "021": [
+          "4",
+          "0"
+         ]
+        }
+       }
+      ],
+      "NORMs": [
+       "0",
+       "2",
+       "4"
+      ],
+      "status": "computable"
+     },
+     "plane2": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": false,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     },
+     "plane3": {
+      "rule5_holomorphic": false,
+      "rule5_antiholomorphic": false,
+      "capable": false,
+      "all_legs_localized": false,
+      "plane_shape_rigid": true,
+      "gram": [
+       [
+        "1",
+        "0"
+       ],
+       [
+        "0",
+        "1"
+       ]
+      ],
+      "status": "not capable"
+     }
+    },
+    "capable_planes": [
+     1
+    ],
+    "computable_planes": [
+     1
+    ],
+    "notes": [],
+    "leg_class_tuples": [
+     {
+      "sector": "T(0,3)",
+      "n_distinct_class_tuples": 2,
+      "n_simultaneous_orbits": 4,
+      "class_tuples": {
+       "(0,)": 2,
+       "(1,)": 2
+      }
+     },
+     {
+      "sector": "T(1,2)",
+      "n_distinct_class_tuples": 3,
+      "n_simultaneous_orbits": 12,
+      "class_tuples": {
+       "(0,)": 4,
+       "(1,)": 4,
+       "(2,)": 4
+      }
+     },
+     {
+      "sector": "T(1,3)",
+      "n_distinct_class_tuples": 2,
+      "n_simultaneous_orbits": 16,
+      "class_tuples": {
+       "(0,)": 8,
+       "(1,)": 8
+      }
+     }
+    ],
+    "entries": [
+     {
+      "legs": [
+       [
+        0
+       ],
+       [
+        0
+       ],
+       [
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     },
+     {
+      "legs": [
+       [
+        0
+       ],
+       [
+        1
+       ],
+       [
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        0
+       ],
+       [
+        2
+       ],
+       [
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "4",
+       "0",
+       "0"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        1
+       ],
+       [
+        0
+       ],
+       [
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "4",
+       "0",
+       "0"
+      ],
+      "total": "4"
+     },
+     {
+      "legs": [
+       [
+        1
+       ],
+       [
+        1
+       ],
+       [
+        0
+       ]
+      ],
+      "exponent_tuple": [
+       "2",
+       "0",
+       "0"
+      ],
+      "total": "2"
+     },
+     {
+      "legs": [
+       [
+        1
+       ],
+       [
+        2
+       ],
+       [
+        1
+       ]
+      ],
+      "exponent_tuple": [
+       "0",
+       "0",
+       "0"
+      ],
+      "total": "0"
+     }
+    ],
+    "alphabet_tuples": [
+     [
+      "0",
+      "0",
+      "0"
+     ],
+     [
+      "2",
+      "0",
+      "0"
+     ],
+     [
+      "4",
+      "0",
+      "0"
+     ]
+    ],
+    "alphabet_total": [
+     "0",
+     "2",
+     "4"
+    ]
+   },
+   "L1": {
+    "L1": true,
+    "classes_per_index": [
+     2,
+     3,
+     2
+    ],
+    "max_classes_per_index": 3,
+    "n_simultaneous_orbits_per_leg": [
+     4,
+     12,
+     16
+    ],
+    "distinct_norms_per_index": [
+     1,
+     2,
+     1
+    ],
+    "max_distinct_norms_per_index": 2,
+    "single_plane_norms_per_index": [
+     1,
+     2,
+     1
+    ],
+    "max_single_plane_norms_per_index": 2
+   },
+   "L2": {
+    "L2": true,
+    "has_zero": true,
+    "L2_single_modulus": true,
+    "alphabet_total": [
+     "0",
+     "2",
+     "4"
+    ],
+    "n_positive_exponents": 2,
+    "pairs": [
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1
+      ]
+     }
+    ],
+    "pairs_in_band": [
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1
+      ]
+     }
+    ],
+    "pairs_in_band_single_modulus": [
+     {
+      "n1": "2",
+      "n2": "4",
+      "ratio": 2.0,
+      "in_band": true,
+      "single_modulus": true,
+      "shared_plane": [
+       1
+      ]
+     }
+    ],
+    "closest_pair_to_up_target": {
+     "n1": "2",
+     "n2": "4",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      1
+     ]
+    },
+    "closest_pair_to_down_target": {
+     "n1": "2",
+     "n2": "4",
+     "ratio": 2.0,
+     "in_band": true,
+     "single_modulus": true,
+     "shared_plane": [
+      1
+     ]
+    },
+    "L2_down_analog": true
+   },
+   "PASS": true
+  }
+ ],
+ "n_channels": 15,
+ "n_channels_with_capacity": 8,
+ "max_classes_per_index": 9,
+ "max_distinct_norms_per_index": 4,
+ "max_single_plane_norms_per_index": 2,
+ "union_alphabet": [
+  "0",
+  "1",
+  "2",
+  "3",
+  "4"
+ ],
+ "passing_channels": [
+  "T(0,1)T(0,1)T(0,2)",
+  "T(0,1)T(1,0)T(1,3)",
+  "T(0,1)T(1,1)T(1,2)",
+  "T(0,2)T(0,3)T(0,3)",
+  "T(0,2)T(1,1)T(1,1)",
+  "T(0,2)T(1,3)T(1,3)",
+  "T(0,3)T(1,0)T(1,1)",
+  "T(0,3)T(1,2)T(1,3)"
+ ],
+ "passing_channels_single_modulus": [
+  "T(0,1)T(0,1)T(0,2)",
+  "T(0,1)T(1,0)T(1,3)",
+  "T(0,1)T(1,1)T(1,2)",
+  "T(0,2)T(0,3)T(0,3)",
+  "T(0,2)T(1,1)T(1,1)",
+  "T(0,2)T(1,3)T(1,3)",
+  "T(0,3)T(1,0)T(1,1)",
+  "T(0,3)T(1,2)T(1,3)"
+ ],
+ "status": "PASS",
+ "failure_mode": null,
+ "runtime_s": 4.2
+}

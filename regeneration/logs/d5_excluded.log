@@ -1,0 +1,69 @@
+Z2xZ4_1_1 {
+ "loaded": 11540,
+ "own_blocks": 11540,
+ "lib_blocks": 11540,
+ "ok": 10925,
+ "excl_any_cfg_closes": 599,
+ "excl_cfg0_no_generator": 0,
+ "skip": {
+  "closure_failed": 615
+ },
+ "excl_kY": {
+  "5/3": 615
+ },
+ "excl_ncfg": {
+  "2": 584,
+  "1": 16,
+  "4": 15
+ },
+ "excl_kY_by_ncfg": {
+  "ncfg=2|5/3": 584,
+  "ncfg=1|5/3": 16,
+  "ncfg=4|5/3": 15
+ },
+ "ok_kY": {
+  "5/3": 10925
+ },
+ "n_distinct_labels": 11540,
+ "duplicate_labels": 0,
+ "duplicate_label_examples": [],
+ "accounting_ok": true
+}
+Z3xZ6_1_1 {
+ "loaded": 4622,
+ "own_blocks": 4622,
+ "lib_blocks": 4622,
+ "ok": 4620,
+ "excl_any_cfg_closes": 0,
+ "excl_cfg0_no_generator": 0,
+ "skip": {
+  "closure_failed": 2
+ },
+ "excl_kY": {
+  "5/3": 2
+ },
+ "excl_ncfg": {
+  "1": 2
+ },
+ "excl_kY_by_ncfg": {
+  "ncfg=1|5/3": 2
+ },
+ "ok_kY": {
+  "5/3": 4620
+ },
+ "n_distinct_labels": 4612,
+ "duplicate_labels": 10,
+ "duplicate_label_examples": [
+  "MSSM0",
+  "MSSM1",
+  "MSSM2",
+  "MSSM3",
+  "MSSM4",
+  "MSSM5",
+  "MSSM6",
+  "MSSM7",
+  "MSSM8",
+  "MSSM9"
+ ],
+ "accounting_ok": true
+}

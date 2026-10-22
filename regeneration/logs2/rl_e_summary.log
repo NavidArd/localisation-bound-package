@@ -1,0 +1,9 @@
+Z3xZ6_1_1     100 elements, lift forced at 5  (0, 1),(0, 5)
+Z6-I_1_1       42 elements, lift forced at 1  
+Z2xZ4_1_1      74 elements, lift forced at 0  
+Z4xZ4_1_1     123 elements, lift forced at 0  
+Z3xZ3_1_1     108 elements, lift forced at 0  
+Z6-II_1_1      44 elements, lift forced at 0  
+Z4_1_1         42 elements, lift forced at 0  
+TOTAL         533 elements, lift forced at 6
+wrote F:\physics\paperA_repro_package\multi_geometry_campaign\data\root_lift\questionA_summary.json

@@ -1,0 +1,425 @@
+{
+ "note": "Both-catalogue totals of the uniform-convention census with the E_6 parse repaired. Each value is the sum over the two geometries of the accumulator key named in `from`; the two ratios are quotients of two such sums.",
+ "geometries": [
+  "Z2xZ4_1_1",
+  "Z3xZ6_1_1"
+ ],
+ "from": {
+  "models": [
+   "models"
+  ],
+  "twisted_model_cells": [
+   "mcells_tw"
+  ],
+  "fields_10_rec": [
+   "f_rec_by_fam",
+   "10"
+  ],
+  "fields_5bar_rec": [
+   "f_rec_by_fam",
+   "5bar"
+  ],
+  "fields_10_st": [
+   "f_st_by_fam",
+   "10"
+  ],
+  "fields_5bar_st": [
+   "f_st_by_fam",
+   "5bar"
+  ],
+  "slots_10": [
+   "slots_by_fam",
+   "10"
+  ],
+  "slots_5bar": [
+   "slots_by_fam",
+   "5bar"
+  ],
+  "below_slots_5bar": [
+   "below_slots",
+   "5bar"
+  ],
+  "cells_with_a_10_role": [
+   "occ",
+   "ten_any"
+  ],
+  "cells_with_a_5bar_role": [
+   "occ",
+   "five_any"
+  ],
+  "violations_record": [
+   "viol_rec"
+  ],
+  "violations_state": [
+   "viol_st"
+  ],
+  "unprotected_10_fields": [
+   "loophole_f_rec"
+  ],
+  "unprotected_10_fields_state": [
+   "loophole_f_st"
+  ],
+  "pairs_rec_10": [
+   "pairs_rec_by_fam",
+   "10"
+  ],
+  "pairs_rec_5bar": [
+   "pairs_rec_by_fam",
+   "5bar"
+  ],
+  "pairs_st_10": [
+   "pairs_st_by_fam",
+   "10"
+  ],
+  "pairs_st_5bar": [
+   "pairs_st_by_fam",
+   "5bar"
+  ],
+  "pairs_st_cross_5bar": [
+   "pairs_st_cross_by_fam",
+   "5bar"
+  ],
+  "delta_not_in_lambda": [
+   "d_notlambda"
+  ],
+  "delta_not_perp_W": [
+   "d_notperp"
+  ],
+  "delta_pairs_tested": [
+   "d_pairs"
+  ],
+  "budget_identity_checked": [
+   "I1_checked"
+  ],
+  "budget_identity_bad": [
+   "I1_bad"
+  ],
+  "smbasis_fail": [
+   "smbasis_fail"
+  ],
+  "dup_groups": [
+   "dup_groups"
+  ],
+  "dup_cells": [
+   "dup_cells"
+  ],
+  "dup_groups_carrying_a_role": [
+   "dup_groups_role"
+  ],
+  "ceiling_overruns": [
+   "ceil_over"
+  ],
+  "kY_5_over_3": [
+   "kY",
+   "5/3"
+  ],
+  "models_recovered_at_a_later_embedding": [
+   "models_recovered"
+  ],
+  "constructing_elements_twisted": [
+   "geo_cells_tw"
+  ]
+ },
+ "per_geometry": {
+  "models": {
+   "Z2xZ4_1_1": 11526,
+   "Z3xZ6_1_1": 4612
+  },
+  "twisted_model_cells": {
+   "Z2xZ4_1_1": 584855,
+   "Z3xZ6_1_1": 295734
+  },
+  "fields_10_rec": {
+   "Z2xZ4_1_1": 72494,
+   "Z3xZ6_1_1": 37223
+  },
+  "fields_5bar_rec": {
+   "Z2xZ4_1_1": 256290,
+   "Z3xZ6_1_1": 136389
+  },
+  "fields_10_st": {
+   "Z2xZ4_1_1": 72494,
+   "Z3xZ6_1_1": 37223
+  },
+  "fields_5bar_st": {
+   "Z2xZ4_1_1": 267853,
+   "Z3xZ6_1_1": 140803
+  },
+  "slots_10": {
+   "Z2xZ4_1_1": 72494,
+   "Z3xZ6_1_1": 37223
+  },
+  "slots_5bar": {
+   "Z2xZ4_1_1": 231323,
+   "Z3xZ6_1_1": 128747
+  },
+  "below_slots_5bar": {
+   "Z2xZ4_1_1": 3913,
+   "Z3xZ6_1_1": 653
+  },
+  "cells_with_a_10_role": {
+   "Z2xZ4_1_1": 29242,
+   "Z3xZ6_1_1": 16208
+  },
+  "cells_with_a_5bar_role": {
+   "Z2xZ4_1_1": 128468,
+   "Z3xZ6_1_1": 69917
+  },
+  "violations_record": {
+   "Z2xZ4_1_1": 0,
+   "Z3xZ6_1_1": 0
+  },
+  "violations_state": {
+   "Z2xZ4_1_1": 0,
+   "Z3xZ6_1_1": 0
+  },
+  "unprotected_10_fields": {
+   "Z2xZ4_1_1": 0,
+   "Z3xZ6_1_1": 65
+  },
+  "unprotected_10_fields_state": {
+   "Z2xZ4_1_1": 0,
+   "Z3xZ6_1_1": 65
+  },
+  "pairs_rec_10": {
+   "Z2xZ4_1_1": 0,
+   "Z3xZ6_1_1": 0
+  },
+  "pairs_rec_5bar": {
+   "Z2xZ4_1_1": 25883,
+   "Z3xZ6_1_1": 7860
+  },
+  "pairs_st_10": {
+   "Z2xZ4_1_1": 0,
+   "Z3xZ6_1_1": 0
+  },
+  "pairs_st_5bar": {
+   "Z2xZ4_1_1": 39011,
+   "Z3xZ6_1_1": 12868
+  },
+  "pairs_st_cross_5bar": {
+   "Z2xZ4_1_1": 27159,
+   "Z3xZ6_1_1": 8332
+  },
+  "delta_not_in_lambda": {
+   "Z2xZ4_1_1": 0,
+   "Z3xZ6_1_1": 0
+  },
+  "delta_not_perp_W": {
+   "Z2xZ4_1_1": 0,
+   "Z3xZ6_1_1": 0
+  },
+  "delta_pairs_tested": {
+   "Z2xZ4_1_1": 25883,
+   "Z3xZ6_1_1": 7860
+  },
+  "budget_identity_checked": {
+   "Z2xZ4_1_1": 328784,
+   "Z3xZ6_1_1": 173612
+  },
+  "budget_identity_bad": {
+   "Z2xZ4_1_1": 0,
+   "Z3xZ6_1_1": 0
+  },
+  "smbasis_fail": {
+   "Z2xZ4_1_1": 0,
+   "Z3xZ6_1_1": 0
+  },
+  "dup_groups": {
+   "Z2xZ4_1_1": 18844,
+   "Z3xZ6_1_1": 4775
+  },
+  "dup_cells": {
+   "Z2xZ4_1_1": 14092,
+   "Z3xZ6_1_1": 4406
+  },
+  "dup_groups_carrying_a_role": {
+   "Z2xZ4_1_1": 0,
+   "Z3xZ6_1_1": 0
+  },
+  "ceiling_overruns": {
+   "Z2xZ4_1_1": 0,
+   "Z3xZ6_1_1": 0
+  },
+  "kY_5_over_3": {
+   "Z2xZ4_1_1": 11526,
+   "Z3xZ6_1_1": 4612
+  },
+  "models_recovered_at_a_later_embedding": {
+   "Z2xZ4_1_1": 599,
+   "Z3xZ6_1_1": 0
+  },
+  "constructing_elements_twisted": {
+   "Z2xZ4_1_1": 58,
+   "Z3xZ6_1_1": 70
+  }
+ },
+ "totals": {
+  "models": 16138,
+  "twisted_model_cells": 880589,
+  "fields_10_rec": 109717,
+  "fields_5bar_rec": 392679,
+  "fields_10_st": 109717,
+  "fields_5bar_st": 408656,
+  "slots_10": 109717,
+  "slots_5bar": 360070,
+  "below_slots_5bar": 4566,
+  "cells_with_a_10_role": 45450,
+  "cells_with_a_5bar_role": 198385,
+  "violations_record": 0,
+  "violations_state": 0,
+  "unprotected_10_fields": 65,
+  "unprotected_10_fields_state": 65,
+  "pairs_rec_10": 0,
+  "pairs_rec_5bar": 33743,
+  "pairs_st_10": 0,
+  "pairs_st_5bar": 51879,
+  "pairs_st_cross_5bar": 35491,
+  "delta_not_in_lambda": 0,
+  "delta_not_perp_W": 0,
+  "delta_pairs_tested": 33743,
+  "budget_identity_checked": 502396,
+  "budget_identity_bad": 0,
+  "smbasis_fail": 0,
+  "dup_groups": 23619,
+  "dup_cells": 18498,
+  "dup_groups_carrying_a_role": 0,
+  "ceiling_overruns": 0,
+  "kY_5_over_3": 16138,
+  "models_recovered_at_a_later_embedding": 599,
+  "constructing_elements_twisted": 128,
+  "role_carrying_fields_rec": 502396,
+  "role_carrying_fields_st": 518373,
+  "pairs_rec": 33743,
+  "pairs_st": 51879,
+  "pairs_st_cross": 35491,
+  "ratio_10_pairs_per_cell": 2.414,
+  "ratio_5bar_pairs_per_cell": 1.815
+ },
+ "mixed_budget": {
+  "Z2xZ4_1_1": {
+   "groups": {
+    "5bar|33/40": 197
+   },
+   "fields": {
+    "5bar|33/40|13/40": 197,
+    "5bar|33/40|33/40": 197
+   }
+  },
+  "Z3xZ6_1_1": {
+   "groups": {
+    "5bar|83/90": 9
+   },
+   "fields": {
+    "5bar|83/90|53/90": 9,
+    "5bar|83/90|83/90": 9
+   }
+  }
+ },
+ "histograms": {
+  "Z2xZ4_1_1": {
+   "mult_records": {
+    "5bar": {
+     "1": 207270,
+     "2": 23141,
+     "3": 910,
+     "4": 2
+    },
+    "10": {
+     "1": 72494
+    }
+   },
+   "mult_states": {
+    "5bar": {
+     "1": 197193,
+     "2": 31811,
+     "3": 2238,
+     "4": 81
+    },
+    "10": {
+     "1": 72494
+    }
+   },
+   "hidden_dimension": {
+    "5bar": {
+     "1": 244990,
+     "2": 11063,
+     "3": 211,
+     "4": 26
+    },
+    "10": {
+     "1": 72494
+    }
+   },
+   "R_by_family": {
+    "5bar": {
+     "13/40": 3936,
+     "23/40": 42759,
+     "3/40": 174,
+     "33/40": 26275,
+     "7/10": 183146
+    },
+    "10": {
+     "17/40": 7689,
+     "3/10": 57113,
+     "7/40": 7692
+    }
+   }
+  },
+  "Z3xZ6_1_1": {
+   "mult_records": {
+    "5bar": {
+     "1": 121319,
+     "2": 7218,
+     "3": 206,
+     "4": 4
+    },
+    "10": {
+     "1": 37223
+    }
+   },
+   "mult_states": {
+    "5bar": {
+     "1": 117494,
+     "2": 10458,
+     "3": 788,
+     "4": 6,
+     "5": 1
+    },
+    "10": {
+     "1": 37223
+    }
+   },
+   "hidden_dimension": {
+    "5bar": {
+     "1": 132092,
+     "2": 4184,
+     "3": 110,
+     "4": 2,
+     "5": 1
+    },
+    "10": {
+     "1": 37223
+    }
+   },
+   "R_by_family": {
+    "5bar": {
+     "11/30": 18,
+     "23/90": 40,
+     "34/45": 109426,
+     "4/45": 595,
+     "53/90": 1290,
+     "7/10": 639,
+     "8/15": 24143,
+     "83/90": 238
+    },
+    "10": {
+     "16/45": 36788,
+     "17/90": 268,
+     "3/10": 102,
+     "47/90": 65
+    }
+   }
+  }
+ }
+}

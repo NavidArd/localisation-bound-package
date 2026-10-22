@@ -1,0 +1,96 @@
+{
+ "models": 4612,
+ "spacegroup_ok": 4612,
+ "defining_condition_failures": {},
+ "order_histogram": {
+  "3,6": 4612
+ },
+ "MI_failures": {},
+ "MI_failure_examples": [],
+ "MI_pass": 4612,
+ "wl_nontrivial": 4588,
+ "wl_distinct_vectors": 4588,
+ "rule_set": "orbifolder-1.2.1 CheckModularInvariance, SP_factors from cspacegroup.cpp",
+ "SP_matrix": [
+  [
+   3,
+   3,
+   1,
+   1,
+   3,
+   3,
+   1,
+   1
+  ],
+  [
+   3,
+   6,
+   1,
+   1,
+   3,
+   3,
+   1,
+   1
+  ],
+  [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  [
+   3,
+   3,
+   1,
+   1,
+   3,
+   3,
+   1,
+   1
+  ],
+  [
+   3,
+   3,
+   1,
+   1,
+   3,
+   3,
+   1,
+   1
+  ],
+  [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ]
+ ]
+}

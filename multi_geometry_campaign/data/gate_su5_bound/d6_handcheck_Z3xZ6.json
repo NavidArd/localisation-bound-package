@@ -1,0 +1,2489 @@
+{
+ "geometry": "Z3xZ6_1_1",
+ "cells": [
+  {
+   "model": "MSSM90",
+   "file": "census_seg0.txt.gz",
+   "sector": "T(1,5)",
+   "fixed_point_n_a": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pattern": "001",
+   "role_content": [
+    "ec"
+   ],
+   "ten_roles_present": [
+    "ec"
+   ],
+   "Q_present": false,
+   "uc_present": false,
+   "ec_present": true,
+   "a3": 2,
+   "a2": 3,
+   "sY0": 1,
+   "sY": -1,
+   "sC": -1,
+   "tY": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1/12",
+    "-1/4",
+    "-1/4",
+    "-1/12",
+    "-1/12",
+    "1/4",
+    "1/4",
+    "3/4"
+   ],
+   "net_Q": {
+    "Q": 1,
+    "uc": 1,
+    "dc": 5,
+    "ec": 3
+   },
+   "independent_reading_agrees": true,
+   "fields": [
+    {
+     "label": "F_115",
+     "rep": [
+      1,
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "1",
+     "p_sh": [
+      "0",
+      "-1/2",
+      "1/6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1/12",
+      "1/4",
+      "1/4",
+      "1/12",
+      "1/12",
+      "-1/4",
+      "-5/12",
+      "-11/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "-2/3",
+      "-1/6"
+     ],
+     "osc": "no",
+     "role_independent": "ec",
+     "role_code": "ec"
+    },
+    {
+     "label": "F_116",
+     "rep": [
+      1,
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "0",
+      "-1/2",
+      "1/6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "5/12",
+      "-1/4",
+      "-1/4",
+      "-5/12",
+      "-5/12",
+      "1/4",
+      "1/12",
+      "-5/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "-2/3",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^(-1)",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_117",
+     "rep": [
+      1,
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "0",
+      "-1/2",
+      "1/6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1/12",
+      "1/4",
+      "1/4",
+      "1/12",
+      "1/12",
+      "-1/4",
+      "7/12",
+      "1/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "-2/3",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^(-1) -a_( -1/6)^(-3)",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_118",
+     "rep": [
+      1,
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "0",
+      "-1/2",
+      "1/6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1/12",
+      "1/4",
+      "1/4",
+      "1/12",
+      "1/12",
+      "-1/4",
+      "7/12",
+      "1/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "-2/3",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/3)^2",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_119",
+     "rep": [
+      1,
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "0",
+      "-1/2",
+      "1/6",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1/12",
+      "1/4",
+      "1/4",
+      "1/12",
+      "1/12",
+      "3/4",
+      "-5/12",
+      "1/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "-2/3",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^(-3)",
+     "role_independent": null,
+     "role_code": null
+    }
+   ],
+   "raw": [
+    {
+     "label": "F_115",
+     "block": "\n\n    F_115\n  sector (k,l)        : (1, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (1, 5, 0)\n\n  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  5/6,-16/3,  -28,  7/3,    0,   -7, -1/2,-1315/2,  118)\n\n  left-moving p_sh    : (0, -1/2, 1/6, 0, 0, 0, 0, 0),  (-1/12, 1/4, 1/4, 1/12, 1/12, -1/4, -5/12, -11/12)\n  right-moving q_sh   : (0, -1/6, -2/3, -1/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)\n  internalIndex       : (11, 0, 0)\n  field no.           : 299"
+    },
+    {
+     "label": "F_116",
+     "block": "\n\n    F_116\n  sector (k,l)        : (1, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (1, 5, 0)\n\n  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( 13/6,-16/3,  -28,  7/3,    0,   -7, -1/2,-219/2, -438)\n\n  left-moving p_sh    : (0, -1/2, 1/6, 0, 0, 0, 0, 0),  (5/12, -1/4, -1/4, -5/12, -5/12, 1/4, 1/12, -5/12)\n  right-moving q_sh   : (0, -1/6, -2/3, -1/6)\n  oscillators         : -a_( -1/6)^(-1) \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)\n  internalIndex       : (11, 0, 1)\n  field no.           : 300"
+    },
+    {
+     "label": "F_117",
+     "block": "\n\n    F_117\n  sector (k,l)        : (1, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (1, 5, 0)\n\n  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  1/2,-16/3,  -28,  7/3,    0,   -7,  5/2, 55/2,  110)\n\n  left-moving p_sh    : (0, -1/2, 1/6, 0, 0, 0, 0, 0),  (-1/12, 1/4, 1/4, 1/12, 1/12, -1/4, 7/12, 1/12)\n  right-moving q_sh   : (0, -1/6, -2/3, -1/6)\n  oscillators         : -a_( -1/6)^(-1) -a_( -1/6)^(-3) \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)\n  internalIndex       : (11, 0, 2)\n  field no.           : 301"
+    },
+    {
+     "label": "F_118",
+     "block": "\n\n    F_118\n  sector (k,l)        : (1, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (1, 5, 0)\n\n  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  1/2,-16/3,  -28,  7/3,    0,   -7,  5/2, 55/2,  110)\n\n  left-moving p_sh    : (0, -1/2, 1/6, 0, 0, 0, 0, 0),  (-1/12, 1/4, 1/4, 1/12, 1/12, -1/4, 7/12, 1/12)\n  right-moving q_sh   : (0, -1/6, -2/3, -1/6)\n  oscillators         : -a_( -1/3)^2 \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)\n  internalIndex       : (11, 0, 3)\n  field no.           : 302"
+    },
+    {
+     "label": "F_119",
+     "block": "\n\n    F_119\n  sector (k,l)        : (1, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (1, 5, 0)\n\n  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  7/6,-16/3,  -28,  7/3,    0,  261, -3/2, 63/2,  126)\n\n  left-moving p_sh    : (0, -1/2, 1/6, 0, 0, 0, 0, 0),  (-1/12, 1/4, 1/4, 1/12, 1/12, 3/4, -5/12, 1/12)\n  right-moving q_sh   : (0, -1/6, -2/3, -1/6)\n  oscillators         : -a_( -1/6)^(-3) \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)\n  internalIndex       : (11, 0, 4)\n  field no.           : 303"
+    }
+   ]
+  },
+  {
+   "model": "MSSM103",
+   "file": "census_seg1.txt.gz",
+   "sector": "T(0,5)",
+   "fixed_point_n_a": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pattern": "010",
+   "role_content": [
+    "Hu",
+    "L",
+    "uc"
+   ],
+   "ten_roles_present": [
+    "uc"
+   ],
+   "Q_present": false,
+   "uc_present": true,
+   "ec_present": false,
+   "a3": 3,
+   "a2": 4,
+   "sY0": 1,
+   "sY": 1,
+   "sC": -1,
+   "tY": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1/2",
+    "-1/3",
+    "-1/3",
+    "-1/3",
+    "1/2",
+    "0",
+    "0",
+    "0"
+   ],
+   "net_Q": {
+    "Q": 3,
+    "uc": 3,
+    "dc": 3,
+    "ec": 3
+   },
+   "independent_reading_agrees": true,
+   "fields": [
+    {
+     "label": "F_41",
+     "rep": [
+      1,
+      1,
+      1,
+      3,
+      1
+     ],
+     "c3": -3,
+     "c2": 1,
+     "Y": "-2/3",
+     "p_sh": [
+      "-1/3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1/6",
+      "-1/6",
+      "-5/12",
+      "-5/12",
+      "7/12",
+      "7/12",
+      "-5/12",
+      "-7/12",
+      "-1/12",
+      "1/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "no",
+     "role_independent": "uc",
+     "role_code": "uc"
+    },
+    {
+     "label": "F_42",
+     "rep": [
+      1,
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "2/3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "5/6",
+      "-1/6",
+      "1/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "-1/12",
+      "-7/12",
+      "-5/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "no",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_43",
+     "rep": [
+      1,
+      1,
+      1,
+      1,
+      2
+     ],
+     "c3": 1,
+     "c2": 2,
+     "Y": "1/2",
+     "p_sh": [
+      "-1/3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1/6",
+      "-1/6",
+      "-5/12",
+      "-5/12",
+      "-5/12",
+      "-5/12",
+      "7/12",
+      "5/12",
+      "-1/12",
+      "1/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "-a_( -1/6)^(-1)",
+     "role_independent": "Hu",
+     "role_code": "Hu"
+    },
+    {
+     "label": "F_44",
+     "rep": [
+      1,
+      1,
+      1,
+      1,
+      2
+     ],
+     "c3": 1,
+     "c2": 2,
+     "Y": "-1/2",
+     "p_sh": [
+      "-1/3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1/6",
+      "-1/6",
+      "-11/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "-1/12",
+      "5/12",
+      "-5/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "-a_( -1/6)^3",
+     "role_independent": "L",
+     "role_code": "L"
+    }
+   ],
+   "raw": [
+    {
+     "label": "F_41",
+     "block": "\n\n    F_41\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  1,  3,  1)_l  U(1): ( -2/9,  2/3,   -5, -140, -315,  -90,110/3, -904, 1390)\n\n  left-moving p_sh    : (-1/3, 0, 0, 0, 0, 0, -1/6, -1/6),  (-5/12, -5/12, 7/12, 7/12, -5/12, -7/12, -1/12, 1/12)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 0)\n  field no.           : 95"
+    },
+    {
+     "label": "F_42",
+     "block": "\n\n    F_42\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( 25/9, -4/3,   24,   88,   68, -580,-730/3, -444, -666)\n\n  left-moving p_sh    : (2/3, 0, 0, 0, 0, 0, 5/6, -1/6),  (1/12, 1/12, 1/12, 1/12, 1/12, -1/12, -7/12, -5/12)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 0)\n  field no.           : 96"
+    },
+    {
+     "label": "F_43",
+     "block": "\n\n    F_43\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  1,  1,  2)_l  U(1): (-31/18,  2/3,   -5, -140,  185,  -97,173/3,  381,-1488)\n\n  left-moving p_sh    : (-1/3, 0, 0, 0, 0, 0, -1/6, -1/6),  (-5/12, -5/12, -5/12, -5/12, 7/12, 5/12, -1/12, 1/12)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : -a_( -1/6)^(-1) \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 3)\n  field no.           : 101"
+    },
+    {
+     "label": "F_44",
+     "block": "\n\n    F_44\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  1,  1,  2)_l  U(1): (-25/18,  2/3,   -5, -140,  -65,  431,-379/3, -717,  984)\n\n  left-moving p_sh    : (-1/3, 0, 0, 0, 0, 0, -1/6, -1/6),  (-11/12, 1/12, 1/12, 1/12, 1/12, -1/12, 5/12, -5/12)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : -a_( -1/6)^3 \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 4)\n  field no.           : 102"
+    }
+   ]
+  },
+  {
+   "model": "MSSM149",
+   "file": "census_seg1.txt.gz",
+   "sector": "T(0,5)",
+   "fixed_point_n_a": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pattern": "010",
+   "role_content": [
+    "uc"
+   ],
+   "ten_roles_present": [
+    "uc"
+   ],
+   "Q_present": false,
+   "uc_present": true,
+   "ec_present": false,
+   "a3": 1,
+   "a2": 2,
+   "sY0": 1,
+   "sY": 1,
+   "sC": -1,
+   "tY": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "-1/6",
+    "1/6",
+    "-1/2",
+    "-1/2",
+    "-1/3",
+    "1/6",
+    "-1/3",
+    "1/6"
+   ],
+   "net_Q": {
+    "Q": 3,
+    "uc": 3,
+    "dc": 3,
+    "ec": 3
+   },
+   "independent_reading_agrees": true,
+   "fields": [
+    {
+     "label": "F_43",
+     "rep": [
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "-2/3",
+      "-1/6",
+      "-1/6",
+      "-1/6",
+      "-1/6",
+      "-1/6",
+      "-1/6",
+      "-2/3",
+      "1/3",
+      "-1/3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "2/3"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "no",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_44",
+     "rep": [
+      1,
+      3,
+      1
+     ],
+     "c3": -3,
+     "c2": 1,
+     "Y": "-2/3",
+     "p_sh": [
+      "1/3",
+      "-1/6",
+      "-1/6",
+      "-1/6",
+      "-1/6",
+      "-1/6",
+      "-1/6",
+      "1/3",
+      "-1/6",
+      "1/6",
+      "1/2",
+      "1/2",
+      "1/2",
+      "1/2",
+      "1/2",
+      "1/6"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "no",
+     "role_independent": "uc",
+     "role_code": "uc"
+    },
+    {
+     "label": "F_45",
+     "rep": [
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "-1/6",
+      "1/3",
+      "1/3",
+      "1/3",
+      "1/3",
+      "1/3",
+      "1/3",
+      "-1/6",
+      "-2/3",
+      "-1/3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1/3"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "-a_( -1/6)^3",
+     "role_independent": null,
+     "role_code": null
+    }
+   ],
+   "raw": [
+    {
+     "label": "F_43",
+     "block": "\n\n    F_43\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  1)_l  U(1): ( -2/9,   -2,   -2,   -8,    5,   20,   38,   66,   -6,  -14)\n\n  left-moving p_sh    : (-2/3, -1/6, -1/6, -1/6, -1/6, -1/6, -1/6, -2/3),  (1/3, -1/3, 0, 0, 0, 0, 0, 2/3)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 0)\n  field no.           : 97"
+    },
+    {
+     "label": "F_44",
+     "block": "\n\n    F_44\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  3,  1)_l  U(1): (-11/9,    0,    0,    6,   -1,   49,   13,  -12,   59,   -8)\n\n  left-moving p_sh    : (1/3, -1/6, -1/6, -1/6, -1/6, -1/6, -1/6, 1/3),  (-1/6, 1/6, 1/2, 1/2, 1/2, 1/2, 1/2, 1/6)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 0)\n  field no.           : 98"
+    },
+    {
+     "label": "F_45",
+     "block": "\n\n    F_45\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  1)_l  U(1): ( 13/9,    1,    1,   -5,  -23,   14,   -9,  -31,  -15,   22)\n\n  left-moving p_sh    : (-1/6, 1/3, 1/3, 1/3, 1/3, 1/3, 1/3, -1/6),  (-2/3, -1/3, 0, 0, 0, 0, 0, -1/3)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : -a_( -1/6)^3 \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 2)\n  field no.           : 101"
+    }
+   ]
+  },
+  {
+   "model": "MSSM1049",
+   "file": "census_seg10.txt.gz",
+   "sector": "T(0,3)",
+   "fixed_point_n_a": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pattern": "001",
+   "role_content": [
+    "L",
+    "dcbar",
+    "ec"
+   ],
+   "ten_roles_present": [
+    "ec"
+   ],
+   "Q_present": false,
+   "uc_present": false,
+   "ec_present": true,
+   "a3": 2,
+   "a2": 3,
+   "sY0": 1,
+   "sY": 1,
+   "sC": 1,
+   "tY": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "-1/12",
+    "7/12",
+    "-1/4",
+    "-1/4",
+    "-1/12",
+    "5/12",
+    "-1/12",
+    "5/12"
+   ],
+   "net_Q": {
+    "Q": 3,
+    "uc": 3,
+    "dc": 3,
+    "ec": 3
+   },
+   "independent_reading_agrees": true,
+   "fields": [
+    {
+     "label": "F_8",
+     "rep": [
+      1,
+      1,
+      3,
+      1
+     ],
+     "c3": 3,
+     "c2": 1,
+     "Y": "-1/3",
+     "p_sh": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-3/4",
+      "1/4",
+      "1/4",
+      "1/4",
+      "1/4",
+      "-1/4",
+      "-1/4",
+      "-3/4"
+     ],
+     "qsh": [
+      "0",
+      "-1/2",
+      "0",
+      "-1/2"
+     ],
+     "osc": "no",
+     "role_independent": "dcbar",
+     "role_code": "dcbar"
+    },
+    {
+     "label": "F_9",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "1",
+     "p_sh": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1/4",
+      "3/4",
+      "-1/4",
+      "-1/4",
+      "-1/4",
+      "1/4",
+      "1/4",
+      "3/4"
+     ],
+     "qsh": [
+      "0",
+      "-1/2",
+      "0",
+      "-1/2"
+     ],
+     "osc": "no",
+     "role_independent": "ec",
+     "role_code": "ec"
+    },
+    {
+     "label": "F_10",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1/4",
+      "-1/4",
+      "-1/4",
+      "-1/4",
+      "-1/4",
+      "-3/4",
+      "1/4",
+      "3/4"
+     ],
+     "qsh": [
+      "0",
+      "-1/2",
+      "0",
+      "-1/2"
+     ],
+     "osc": "no",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_11",
+     "rep": [
+      1,
+      1,
+      1,
+      2
+     ],
+     "c3": 1,
+     "c2": 2,
+     "Y": "-1/2",
+     "p_sh": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-1/4",
+      "-1/4",
+      "3/4",
+      "3/4",
+      "-1/4",
+      "1/4",
+      "1/4",
+      "-1/4"
+     ],
+     "qsh": [
+      "0",
+      "-1/2",
+      "0",
+      "-1/2"
+     ],
+     "osc": "no",
+     "role_independent": "L",
+     "role_code": "L"
+    }
+   ],
+   "raw": [
+    {
+     "label": "F_8",
+     "block": "\n\n    F_8\n  sector (k,l)        : (0, 3)\n  fixed point n_a     : (1, 0, 0, 0, 0, 0)\n  space group charges : (0, 3, 0)\n\n  representation      : (  1,  1,  3,  1)_l  U(1): (  1/3,    1,    0,    0,    0, -133,   47)\n\n  left-moving p_sh    : (0, 0, 0, 0, 0, 0, 0, 0),  (-3/4, 1/4, 1/4, 1/4, 1/4, -1/4, -1/4, -3/4)\n  right-moving q_sh   : (0, -1/2, 0, -1/2)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 1/3, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (3, 1, 0)\n  field no.           : 37"
+    },
+    {
+     "label": "F_9",
+     "block": "\n\n    F_9\n  sector (k,l)        : (0, 3)\n  fixed point n_a     : (1, 0, 0, 0, 0, 0)\n  space group charges : (0, 3, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): (  1/3,    0,    0,    8,   13,  255,  -75)\n\n  left-moving p_sh    : (0, 0, 0, 0, 0, 0, 0, 0),  (-1/4, 3/4, -1/4, -1/4, -1/4, 1/4, 1/4, 3/4)\n  right-moving q_sh   : (0, -1/2, 0, -1/2)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 1/3, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (3, 1, 0)\n  field no.           : 38"
+    },
+    {
+     "label": "F_10",
+     "block": "\n\n    F_10\n  sector (k,l)        : (0, 3)\n  fixed point n_a     : (1, 0, 0, 0, 0, 0)\n  space group charges : (0, 3, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): ( -1/3,    0,    0,   -8,   23,  267,  -47)\n\n  left-moving p_sh    : (0, 0, 0, 0, 0, 0, 0, 0),  (-1/4, -1/4, -1/4, -1/4, -1/4, -3/4, 1/4, 3/4)\n  right-moving q_sh   : (0, -1/2, 0, -1/2)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (3, 1, 1)\n  field no.           : 39"
+    },
+    {
+     "label": "F_11",
+     "block": "\n\n    F_11\n  sector (k,l)        : (0, 3)\n  fixed point n_a     : (1, 0, 0, 0, 0, 0)\n  space group charges : (0, 3, 0)\n\n  representation      : (  1,  1,  1,  2)_l  U(1): (    1,    0,    0,    0,   18, -138,   80)\n\n  left-moving p_sh    : (0, 0, 0, 0, 0, 0, 0, 0),  (-1/4, -1/4, 3/4, 3/4, -1/4, 1/4, 1/4, -1/4)\n  right-moving q_sh   : (0, -1/2, 0, -1/2)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 2/3, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (3, 1, 3)\n  field no.           : 41"
+    }
+   ]
+  },
+  {
+   "model": "MSSM1132",
+   "file": "census_seg11.txt.gz",
+   "sector": "T(1,5)",
+   "fixed_point_n_a": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pattern": "001",
+   "role_content": [
+    "ec"
+   ],
+   "ten_roles_present": [
+    "ec"
+   ],
+   "Q_present": false,
+   "uc_present": false,
+   "ec_present": true,
+   "a3": 0,
+   "a2": 1,
+   "sY0": 1,
+   "sY": 1,
+   "sC": 1,
+   "tY": [
+    "1/4",
+    "-1/4",
+    "-1/4",
+    "-5/12",
+    "-5/12",
+    "-5/12",
+    "1/4",
+    "1/4",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "net_Q": {
+    "Q": 1,
+    "uc": 1,
+    "dc": 5,
+    "ec": 3
+   },
+   "independent_reading_agrees": true,
+   "fields": [
+    {
+     "label": "F_95",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "1",
+     "p_sh": [
+      "1/3",
+      "-1/3",
+      "-1/3",
+      "-1/2",
+      "-1/2",
+      "-1/2",
+      "1/6",
+      "1/3",
+      "1/12",
+      "-5/12",
+      "1/4",
+      "1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "-2/3",
+      "-1/6"
+     ],
+     "osc": "no",
+     "role_independent": "ec",
+     "role_code": "ec"
+    },
+    {
+     "label": "F_96",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "-1/6",
+      "1/6",
+      "1/6",
+      "0",
+      "0",
+      "0",
+      "-1/3",
+      "5/6",
+      "1/12",
+      "-5/12",
+      "1/4",
+      "1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "-2/3",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^(-1)",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_97",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "-1/6",
+      "1/6",
+      "1/6",
+      "0",
+      "0",
+      "0",
+      "2/3",
+      "-1/6",
+      "1/12",
+      "-5/12",
+      "1/4",
+      "1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "-2/3",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^(-1) -a_( -1/6)^(-3)",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_98",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "-1/6",
+      "1/6",
+      "1/6",
+      "0",
+      "0",
+      "0",
+      "2/3",
+      "-1/6",
+      "1/12",
+      "-5/12",
+      "1/4",
+      "1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "-2/3",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/3)^2",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_99",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "5/6",
+      "1/6",
+      "1/6",
+      "0",
+      "0",
+      "0",
+      "-1/3",
+      "-1/6",
+      "1/12",
+      "-5/12",
+      "1/4",
+      "1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "-2/3",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^(-3)",
+     "role_independent": null,
+     "role_code": null
+    }
+   ],
+   "raw": [
+    {
+     "label": "F_95",
+     "block": "\n\n    F_95\n  sector (k,l)        : (1, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (1, 5, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): (  4/3,    0,   -3,    9,   -9, 94/3,  1/3, -7/3,    2)\n\n  left-moving p_sh    : (1/3, -1/3, -1/3, -1/2, -1/2, -1/2, 1/6, 1/3),  (1/12, -5/12, 1/4, 1/12, -1/12, -1/12, -1/12, -1/12)\n  right-moving q_sh   : (0, -1/6, -2/3, -1/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)\n  internalIndex       : (11, 0, 0)\n  field no.           : 265"
+    },
+    {
+     "label": "F_96",
+     "block": "\n\n    F_96\n  sector (k,l)        : (1, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (1, 5, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): (    3,    0,    0,    0,  -24,-41/3,-44/3, 23/3,   67)\n\n  left-moving p_sh    : (-1/6, 1/6, 1/6, 0, 0, 0, -1/3, 5/6),  (1/12, -5/12, 1/4, 1/12, -1/12, -1/12, -1/12, -1/12)\n  right-moving q_sh   : (0, -1/6, -2/3, -1/6)\n  oscillators         : -a_( -1/6)^(-1) \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)\n  internalIndex       : (11, 0, 1)\n  field no.           : 266"
+    },
+    {
+     "label": "F_97",
+     "block": "\n\n    F_97\n  sector (k,l)        : (1, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (1, 5, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): (  2/3,    0,    3,    3,   -3,148/3, 19/3,-19/3,  -24)\n\n  left-moving p_sh    : (-1/6, 1/6, 1/6, 0, 0, 0, 2/3, -1/6),  (1/12, -5/12, 1/4, 1/12, -1/12, -1/12, -1/12, -1/12)\n  right-moving q_sh   : (0, -1/6, -2/3, -1/6)\n  oscillators         : -a_( -1/6)^(-1) -a_( -1/6)^(-3) \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)\n  internalIndex       : (11, 0, 2)\n  field no.           : 267"
+    },
+    {
+     "label": "F_98",
+     "block": "\n\n    F_98\n  sector (k,l)        : (1, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (1, 5, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): (  2/3,    0,    3,    3,   -3,148/3, 19/3,-19/3,  -24)\n\n  left-moving p_sh    : (-1/6, 1/6, 1/6, 0, 0, 0, 2/3, -1/6),  (1/12, -5/12, 1/4, 1/12, -1/12, -1/12, -1/12, -1/12)\n  right-moving q_sh   : (0, -1/6, -2/3, -1/6)\n  oscillators         : -a_( -1/3)^2 \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)\n  internalIndex       : (11, 0, 3)\n  field no.           : 268"
+    },
+    {
+     "label": "F_99",
+     "block": "\n\n    F_99\n  sector (k,l)        : (1, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (1, 5, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): (    1,    2,   -2,   -2,   -6,121/3, 10/3,-13/3,  -11)\n\n  left-moving p_sh    : (5/6, 1/6, 1/6, 0, 0, 0, -1/3, -1/6),  (1/12, -5/12, 1/4, 1/12, -1/12, -1/12, -1/12, -1/12)\n  right-moving q_sh   : (0, -1/6, -2/3, -1/6)\n  oscillators         : -a_( -1/6)^(-3) \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)\n  internalIndex       : (11, 0, 4)\n  field no.           : 269"
+    }
+   ]
+  },
+  {
+   "model": "MSSM1152",
+   "file": "census_seg11.txt.gz",
+   "sector": "T(0,1)",
+   "fixed_point_n_a": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pattern": "001",
+   "role_content": [
+    "ec"
+   ],
+   "ten_roles_present": [
+    "ec"
+   ],
+   "Q_present": false,
+   "uc_present": false,
+   "ec_present": true,
+   "a3": 0,
+   "a2": 2,
+   "sY0": 1,
+   "sY": -1,
+   "sC": 1,
+   "tY": [
+    "-1/6",
+    "1/6",
+    "-1/2",
+    "1/6",
+    "1/6",
+    "1/3",
+    "-1/3",
+    "1/2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   "net_Q": {
+    "Q": 3,
+    "uc": 3,
+    "dc": 5,
+    "ec": 3
+   },
+   "independent_reading_agrees": true,
+   "fields": [
+    {
+     "label": "F_14",
+     "rep": [
+      1,
+      2,
+      1,
+      2,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "-1/6",
+      "1/6",
+      "1/6",
+      "-1/2",
+      "1/2",
+      "1/6",
+      "-1/6",
+      "-1/6",
+      "-1/3",
+      "1/3",
+      "-1/3",
+      "2/3",
+      "-1/3",
+      "-1/3",
+      "1/6",
+      "1/6"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "no",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_15",
+     "rep": [
+      1,
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "1",
+     "p_sh": [
+      "1/3",
+      "-1/3",
+      "2/3",
+      "0",
+      "0",
+      "-1/3",
+      "1/3",
+      "-2/3",
+      "1/6",
+      "-1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "-1/3",
+      "-1/3"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "no",
+     "role_independent": "ec",
+     "role_code": "ec"
+    },
+    {
+     "label": "F_16",
+     "rep": [
+      1,
+      2,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "-1/6",
+      "1/6",
+      "1/6",
+      "-1/2",
+      "1/2",
+      "1/6",
+      "-1/6",
+      "-1/6",
+      "1/6",
+      "-1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "-1/3",
+      "-1/3"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^1 -a_( -1/6)^1",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_17",
+     "rep": [
+      1,
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "1/3",
+      "-1/3",
+      "-1/3",
+      "0",
+      "0",
+      "-1/3",
+      "1/3",
+      "1/3",
+      "1/6",
+      "-1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "-1/3",
+      "-1/3"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^(-3) -a_( -1/6)^(-3)",
+     "role_independent": null,
+     "role_code": null
+    }
+   ],
+   "raw": [
+    {
+     "label": "F_14",
+     "block": "\n\n    F_14\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  2,  1,  2,  1)_l  U(1): ( 26/9,   -4,   46,   63,   63,    7,  -93,  -31,   91,  -92)\n\n  left-moving p_sh    : (-1/6, 1/6, 1/6, -1/2, 1/2, 1/6, -1/6, -1/6),  (-1/3, 1/3, -1/3, 2/3, -1/3, -1/3, 1/6, 1/6)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 0)\n  field no.           : 42"
+    },
+    {
+     "label": "F_15",
+     "block": "\n\n    F_15\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  1,  1,  1,  1)_l  U(1): (-10/9,    2,  -23,  -86,  -86,   50,  234, -208,  104,   68)\n\n  left-moving p_sh    : (1/3, -1/3, 2/3, 0, 0, -1/3, 1/3, -2/3),  (1/6, -1/6, 1/6, 1/6, 1/6, 1/6, -1/3, -1/3)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 0)\n  field no.           : 43"
+    },
+    {
+     "label": "F_16",
+     "block": "\n\n    F_16\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  5/9,    2,  -23,  -86,  -86,  -17, -111,  -37,   94,  178)\n\n  left-moving p_sh    : (-1/6, 1/6, 1/6, -1/2, 1/2, 1/6, -1/6, -1/6),  (1/6, -1/6, 1/6, 1/6, 1/6, 1/6, -1/3, -1/3)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : -a_( -1/6)^1 -a_( -1/6)^1 \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 2)\n  field no.           : 45"
+    },
+    {
+     "label": "F_17",
+     "block": "\n\n    F_17\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  1,  1,  1,  1)_l  U(1): (-22/9,    2,  -23,  -86,  -86,   50,  234,   78,  112,  -20)\n\n  left-moving p_sh    : (1/3, -1/3, -1/3, 0, 0, -1/3, 1/3, 1/3),  (1/6, -1/6, 1/6, 1/6, 1/6, 1/6, -1/3, -1/3)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : -a_( -1/6)^(-3) -a_( -1/6)^(-3) \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 5)\n  field no.           : 48"
+    }
+   ]
+  },
+  {
+   "model": "MSSM1203",
+   "file": "census_seg12.txt.gz",
+   "sector": "T(0,1)",
+   "fixed_point_n_a": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pattern": "010",
+   "role_content": [
+    "L",
+    "dc",
+    "uc"
+   ],
+   "ten_roles_present": [
+    "uc"
+   ],
+   "Q_present": false,
+   "uc_present": true,
+   "ec_present": false,
+   "a3": 2,
+   "a2": 3,
+   "sY0": 1,
+   "sY": -1,
+   "sC": -1,
+   "tY": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1/3",
+    "1/3",
+    "-1/2",
+    "-1/2",
+    "1/3",
+    "0"
+   ],
+   "net_Q": {
+    "Q": 3,
+    "uc": 3,
+    "dc": 3,
+    "ec": 3
+   },
+   "independent_reading_agrees": true,
+   "fields": [
+    {
+     "label": "F_8",
+     "rep": [
+      1,
+      1,
+      3,
+      1
+     ],
+     "c3": -3,
+     "c2": 1,
+     "Y": "1/3",
+     "p_sh": [
+      "-1/6",
+      "-1/6",
+      "0",
+      "0",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "-5/12",
+      "-7/12",
+      "-11/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "-5/12"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "no",
+     "role_independent": "dc",
+     "role_code": "dc"
+    },
+    {
+     "label": "F_9",
+     "rep": [
+      1,
+      1,
+      1,
+      2
+     ],
+     "c3": 1,
+     "c2": 2,
+     "Y": "-1/2",
+     "p_sh": [
+      "-1/6",
+      "-1/6",
+      "0",
+      "0",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/12",
+      "-1/12",
+      "7/12",
+      "7/12",
+      "-5/12",
+      "7/12",
+      "7/12",
+      "1/12"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "no",
+     "role_independent": "L",
+     "role_code": "L"
+    },
+    {
+     "label": "F_10",
+     "rep": [
+      1,
+      1,
+      3,
+      1
+     ],
+     "c3": -3,
+     "c2": 1,
+     "Y": "-2/3",
+     "p_sh": [
+      "-1/6",
+      "-1/6",
+      "0",
+      "0",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/12",
+      "-1/12",
+      "-5/12",
+      "7/12",
+      "-5/12",
+      "-5/12",
+      "7/12",
+      "1/12"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^(-3)",
+     "role_independent": "uc",
+     "role_code": "uc"
+    },
+    {
+     "label": "F_11",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "-1/6",
+      "-1/6",
+      "0",
+      "0",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "-5/12",
+      "-7/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "7/12"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^(-3) -a_( -1/6)^(-3)",
+     "role_independent": null,
+     "role_code": null
+    }
+   ],
+   "raw": [
+    {
+     "label": "F_8",
+     "block": "\n\n    F_8\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  1,  3,  1)_l  U(1): ( -1/3,  1/3, -1/2, -4/3,   -6, 11/2,    2,  -14)\n\n  left-moving p_sh    : (-1/6, -1/6, 0, 0, 1/6, 1/6, 1/6, 1/6),  (-5/12, -7/12, -11/12, 1/12, 1/12, 1/12, 1/12, -5/12)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 0)\n  field no.           : 28"
+    },
+    {
+     "label": "F_9",
+     "block": "\n\n    F_9\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  1,  1,  2)_l  U(1): (  5/3,  1/3,  1/2, -1/3,    1,  9/2,    3,   30)\n\n  left-moving p_sh    : (-1/6, -1/6, 0, 0, 1/6, 1/6, 1/6, 1/6),  (1/12, -1/12, 7/12, 7/12, -5/12, 7/12, 7/12, 1/12)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 0)\n  field no.           : 29"
+    },
+    {
+     "label": "F_10",
+     "block": "\n\n    F_10\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  1,  3,  1)_l  U(1): ( -1/3,  1/3,  1/2, -1/3,    1,  9/2,  -12,   16)\n\n  left-moving p_sh    : (-1/6, -1/6, 0, 0, 1/6, 1/6, 1/6, 1/6),  (1/12, -1/12, -5/12, 7/12, -5/12, -5/12, 7/12, 1/12)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : -a_( -1/6)^(-3) \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 3)\n  field no.           : 32"
+    },
+    {
+     "label": "F_11",
+     "block": "\n\n    F_11\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): (  5/3,  1/3, -1/2, -4/3,    6, 15/2,    0,    0)\n\n  left-moving p_sh    : (-1/6, -1/6, 0, 0, 1/6, 1/6, 1/6, 1/6),  (-5/12, -7/12, 1/12, 1/12, 1/12, 1/12, 1/12, 7/12)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : -a_( -1/6)^(-3) -a_( -1/6)^(-3) \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 4)\n  field no.           : 33"
+    }
+   ]
+  },
+  {
+   "model": "MSSM1283",
+   "file": "census_seg12.txt.gz",
+   "sector": "T(0,5)",
+   "fixed_point_n_a": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pattern": "001",
+   "role_content": [
+    "dc",
+    "ec"
+   ],
+   "ten_roles_present": [
+    "ec"
+   ],
+   "Q_present": false,
+   "uc_present": false,
+   "ec_present": true,
+   "a3": 3,
+   "a2": 4,
+   "sY0": 1,
+   "sY": 1,
+   "sC": -1,
+   "tY": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1/3",
+    "1/3",
+    "0",
+    "0",
+    "-1/6",
+    "-1/3",
+    "2/3",
+    "1/6"
+   ],
+   "net_Q": {
+    "Q": 3,
+    "uc": 3,
+    "dc": 3,
+    "ec": 3
+   },
+   "independent_reading_agrees": true,
+   "fields": [
+    {
+     "label": "F_28",
+     "rep": [
+      1,
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "1/12",
+      "1/12",
+      "1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/4",
+      "-5/12",
+      "1/4",
+      "-5/12",
+      "-1/12",
+      "-1/12",
+      "7/12",
+      "5/12",
+      "7/12",
+      "-7/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "no",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_29",
+     "rep": [
+      1,
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "1",
+     "p_sh": [
+      "1/12",
+      "1/12",
+      "1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/4",
+      "-5/12",
+      "1/4",
+      "7/12",
+      "-1/12",
+      "-1/12",
+      "-5/12",
+      "-7/12",
+      "7/12",
+      "5/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "no",
+     "role_independent": "ec",
+     "role_code": "ec"
+    },
+    {
+     "label": "F_30",
+     "rep": [
+      1,
+      1,
+      1,
+      3,
+      1
+     ],
+     "c3": -3,
+     "c2": 1,
+     "Y": "1/3",
+     "p_sh": [
+      "1/12",
+      "1/12",
+      "1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/4",
+      "-5/12",
+      "1/4",
+      "-5/12",
+      "-1/12",
+      "-1/12",
+      "-5/12",
+      "5/12",
+      "7/12",
+      "5/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "-a_( -1/6)^3",
+     "role_independent": "dc",
+     "role_code": "dc"
+    },
+    {
+     "label": "F_31",
+     "rep": [
+      1,
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "1/12",
+      "1/12",
+      "1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/4",
+      "-5/12",
+      "-1/4",
+      "1/12",
+      "-7/12",
+      "-7/12",
+      "1/12",
+      "-1/12",
+      "1/12",
+      "-1/12"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "-a_( -1/6)^3 -a_( -1/6)^3",
+     "role_independent": null,
+     "role_code": null
+    }
+   ],
+   "raw": [
+    {
+     "label": "F_28",
+     "block": "\n\n    F_28\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  5/6,   -1,  1/3,-113/3,1067/6,  -23, -8/3,  -32,  -41)\n\n  left-moving p_sh    : (1/12, 1/12, 1/12, -1/12, -1/12, -1/12, -1/4, -5/12),  (1/4, -5/12, -1/12, -1/12, 7/12, 5/12, 7/12, -7/12)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 1)\n  field no.           : 72"
+    },
+    {
+     "label": "F_29",
+     "block": "\n\n    F_29\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  5/6,    1, -8/3,-26/3,2447/6,   37,-98/3,  -50,   25)\n\n  left-moving p_sh    : (1/12, 1/12, 1/12, -1/12, -1/12, -1/12, -1/4, -5/12),  (1/4, 7/12, -1/12, -1/12, -5/12, -7/12, 7/12, 5/12)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 1)\n  field no.           : 73"
+    },
+    {
+     "label": "F_30",
+     "block": "\n\n    F_30\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  1,  3,  1)_l  U(1): ( 13/6,   -1,  1/3,-113/3,1067/6,  -23, -8/3,  -32,   -1)\n\n  left-moving p_sh    : (1/12, 1/12, 1/12, -1/12, -1/12, -1/12, -1/4, -5/12),  (1/4, -5/12, -1/12, -1/12, -5/12, 5/12, 7/12, 5/12)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : -a_( -1/6)^3 \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 4)\n  field no.           : 76"
+    },
+    {
+     "label": "F_31",
+     "block": "\n\n    F_31\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  1/2,    1,-50/3,-116/3,125/6,   17,-68/3,  -44,   -7)\n\n  left-moving p_sh    : (1/12, 1/12, 1/12, -1/12, -1/12, -1/12, -1/4, -5/12),  (-1/4, 1/12, -7/12, -7/12, 1/12, -1/12, 1/12, -1/12)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : -a_( -1/6)^3 -a_( -1/6)^3 \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 5)\n  field no.           : 77"
+    }
+   ]
+  },
+  {
+   "model": "MSSM1314",
+   "file": "census_seg13.txt.gz",
+   "sector": "T(0,5)",
+   "fixed_point_n_a": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pattern": "010",
+   "role_content": [
+    "uc"
+   ],
+   "ten_roles_present": [
+    "uc"
+   ],
+   "Q_present": false,
+   "uc_present": true,
+   "ec_present": false,
+   "a3": 2,
+   "a2": 3,
+   "sY0": 1,
+   "sY": -1,
+   "sC": -1,
+   "tY": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1/6",
+    "-1/6",
+    "1/6",
+    "1/2",
+    "-1/3",
+    "-1/3",
+    "1/2",
+    "1/6"
+   ],
+   "net_Q": {
+    "Q": 3,
+    "uc": 3,
+    "dc": 3,
+    "ec": 3
+   },
+   "independent_reading_agrees": true,
+   "fields": [
+    {
+     "label": "F_55",
+     "rep": [
+      3,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "-1/12",
+      "-1/12",
+      "-5/12",
+      "1/12",
+      "-11/12",
+      "1/12",
+      "1/12",
+      "-1/12",
+      "1/3",
+      "0",
+      "-2/3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "1/3"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "no",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_56",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "-1/12",
+      "-1/12",
+      "-5/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "11/12",
+      "-2/3",
+      "0",
+      "1/3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "1/3"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "no",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_57",
+     "rep": [
+      1,
+      1,
+      3,
+      1
+     ],
+     "c3": -3,
+     "c2": 1,
+     "Y": "-2/3",
+     "p_sh": [
+      "-1/12",
+      "-1/12",
+      "7/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "-1/12",
+      "-1/6",
+      "1/2",
+      "-1/6",
+      "1/2",
+      "-1/2",
+      "-1/2",
+      "1/2",
+      "-1/6"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "no",
+     "role_independent": "uc",
+     "role_code": "uc"
+    },
+    {
+     "label": "F_58",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "11/12",
+      "-1/12",
+      "-5/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "-1/12",
+      "1/3",
+      "0",
+      "1/3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-2/3"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "no",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_59",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "-1/12",
+      "-1/12",
+      "7/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "1/12",
+      "-1/12",
+      "1/3",
+      "0",
+      "1/3",
+      "0",
+      "0",
+      "0",
+      "0",
+      "-2/3"
+     ],
+     "qsh": [
+      "0",
+      "-1/6",
+      "0",
+      "-5/6"
+     ],
+     "osc": "-a_( -1/6)^3 -a_( -1/6)^3",
+     "role_independent": null,
+     "role_code": null
+    }
+   ],
+   "raw": [
+    {
+     "label": "F_55",
+     "block": "\n\n    F_55\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  3,  1,  1,  1)_l  U(1): ( 47/18,    0,    0,    0,   -6,   46, -234,  660, -338,    0)\n\n  left-moving p_sh    : (-1/12, -1/12, -5/12, 1/12, -11/12, 1/12, 1/12, -1/12),  (1/3, 0, -2/3, 0, 0, 0, 0, 1/3)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 0)\n  field no.           : 123"
+    },
+    {
+     "label": "F_56",
+     "block": "\n\n    F_56\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): (-61/18,    0,    2,    0,  -11,  -97,   96,  -68, -318,    0)\n\n  left-moving p_sh    : (-1/12, -1/12, -5/12, 1/12, 1/12, 1/12, 1/12, 11/12),  (-2/3, 0, 1/3, 0, 0, 0, 0, 1/3)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 0)\n  field no.           : 124"
+    },
+    {
+     "label": "F_57",
+     "block": "\n\n    F_57\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  3,  1)_l  U(1): (-25/18,    0,    0,    1,   12,   44,    5,  -31,   24,   -1)\n\n  left-moving p_sh    : (-1/12, -1/12, 7/12, 1/12, 1/12, 1/12, 1/12, -1/12),  (-1/6, 1/2, -1/6, 1/2, -1/2, -1/2, 1/2, -1/6)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 0)\n  field no.           : 125"
+    },
+    {
+     "label": "F_58",
+     "block": "\n\n    F_58\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): ( 11/18,   -1,   -1,    0,  -11,   39,  -90, -760,  366,    0)\n\n  left-moving p_sh    : (11/12, -1/12, -5/12, 1/12, 1/12, 1/12, 1/12, -1/12),  (1/3, 0, 1/3, 0, 0, 0, 0, -2/3)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 0)\n  field no.           : 126"
+    },
+    {
+     "label": "F_59",
+     "block": "\n\n    F_59\n  sector (k,l)        : (0, 5)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 5, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): ( 17/18,    0,    0,    0,   12,   44,    5, -690,  423,    0)\n\n  left-moving p_sh    : (-1/12, -1/12, 7/12, 1/12, 1/12, 1/12, 1/12, -1/12),  (1/3, 0, 1/3, 0, 0, 0, 0, -2/3)\n  right-moving q_sh   : (0, -1/6, 0, -5/6)\n  oscillators         : -a_( -1/6)^3 -a_( -1/6)^3 \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (5, 0, 3)\n  field no.           : 131"
+    }
+   ]
+  },
+  {
+   "model": "MSSM1468",
+   "file": "census_seg14.txt.gz",
+   "sector": "T(0,1)",
+   "fixed_point_n_a": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pattern": "010",
+   "role_content": [
+    "dc",
+    "uc"
+   ],
+   "ten_roles_present": [
+    "uc"
+   ],
+   "Q_present": false,
+   "uc_present": true,
+   "ec_present": false,
+   "a3": 2,
+   "a2": 3,
+   "sY0": 1,
+   "sY": 1,
+   "sC": -1,
+   "tY": [
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "-1/6",
+    "-1/6",
+    "-1/2",
+    "-1/2",
+    "1/3",
+    "1/3",
+    "-1/6",
+    "1/6"
+   ],
+   "net_Q": {
+    "Q": 3,
+    "uc": 3,
+    "dc": 3,
+    "ec": 3
+   },
+   "independent_reading_agrees": true,
+   "fields": [
+    {
+     "label": "F_10",
+     "rep": [
+      1,
+      1,
+      3,
+      1
+     ],
+     "c3": -3,
+     "c2": 1,
+     "Y": "-2/3",
+     "p_sh": [
+      "0",
+      "-1/3",
+      "-1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "-1/6",
+      "-7/12",
+      "-1/12",
+      "5/12",
+      "5/12",
+      "-7/12",
+      "-7/12",
+      "-1/4",
+      "-1/12"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "no",
+     "role_independent": "uc",
+     "role_code": "uc"
+    },
+    {
+     "label": "F_11",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "0",
+      "2/3",
+      "-1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "5/6",
+      "-1/12",
+      "5/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "1/4",
+      "5/12"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "no",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_12",
+     "rep": [
+      1,
+      1,
+      3,
+      1
+     ],
+     "c3": -3,
+     "c2": 1,
+     "Y": "1/3",
+     "p_sh": [
+      "0",
+      "-1/3",
+      "-1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "-1/6",
+      "-1/12",
+      "-7/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-3/4",
+      "5/12"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^1",
+     "role_independent": "dc",
+     "role_code": "dc"
+    },
+    {
+     "label": "F_13",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "0",
+      "-1/3",
+      "-1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "-1/6",
+      "-1/12",
+      "-7/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "1/4",
+      "-7/12"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^1 -a_( -1/6)^1",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_14",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "0",
+      "-1/3",
+      "-1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "-1/6",
+      "-1/12",
+      "5/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "1/4",
+      "5/12"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^1 -a_( -1/6)^1 -a_( -1/6)^1",
+     "role_independent": null,
+     "role_code": null
+    },
+    {
+     "label": "F_15",
+     "rep": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "c3": 1,
+     "c2": 1,
+     "Y": "0",
+     "p_sh": [
+      "0",
+      "-1/3",
+      "-1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/6",
+      "-1/6",
+      "-1/12",
+      "5/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "-1/12",
+      "1/4",
+      "5/12"
+     ],
+     "qsh": [
+      "0",
+      "-5/6",
+      "0",
+      "-1/6"
+     ],
+     "osc": "-a_( -1/6)^(-3) -a_( -1/6)^(-3) -a_( -1/6)^(-3)",
+     "role_independent": null,
+     "role_code": null
+    }
+   ],
+   "raw": [
+    {
+     "label": "F_10",
+     "block": "\n\n    F_10\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  1,  3,  1)_l  U(1): ( 22/9,  1/2,   -4,    6,  570,865/2,-2419, -284,-1108)\n\n  left-moving p_sh    : (0, -1/3, -1/6, 1/6, 1/6, 1/6, 1/6, -1/6),  (-7/12, -1/12, 5/12, 5/12, -7/12, -7/12, -1/4, -1/12)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 1)\n  field no.           : 34"
+    },
+    {
+     "label": "F_11",
+     "block": "\n\n    F_11\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): ( -5/9,  1/2,   15,  204,  -31,405/2, 3507, 3324, -246)\n\n  left-moving p_sh    : (0, 2/3, -1/6, 1/6, 1/6, 1/6, 1/6, 5/6),  (-1/12, 5/12, -1/12, -1/12, -1/12, -1/12, 1/4, 5/12)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : no\n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 1)\n  field no.           : 35"
+    },
+    {
+     "label": "F_12",
+     "block": "\n\n    F_12\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  1,  3,  1)_l  U(1): ( 28/9, -1/2,   -4,    6, -256,-2789/2, -527,  332,  608)\n\n  left-moving p_sh    : (0, -1/3, -1/6, 1/6, 1/6, 1/6, 1/6, -1/6),  (-1/12, -7/12, -1/12, -1/12, -1/12, -1/12, -3/4, 5/12)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : -a_( -1/6)^1 \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 2)\n  field no.           : 36"
+    },
+    {
+     "label": "F_13",
+     "block": "\n\n    F_13\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): ( 16/9, -1/2,   -4,    6, -256,4319/2,-4061,  860, -456)\n\n  left-moving p_sh    : (0, -1/3, -1/6, 1/6, 1/6, 1/6, 1/6, -1/6),  (-1/12, -7/12, -1/12, -1/12, -1/12, -1/12, 1/4, -7/12)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : -a_( -1/6)^1 -a_( -1/6)^1 \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 3)\n  field no.           : 37"
+    },
+    {
+     "label": "F_14",
+     "block": "\n\n    F_14\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): ( 22/9,  1/2,   -4,    6, -256,765/2, 3057,  156, -516)\n\n  left-moving p_sh    : (0, -1/3, -1/6, 1/6, 1/6, 1/6, 1/6, -1/6),  (-1/12, 5/12, -1/12, -1/12, -1/12, -1/12, 1/4, 5/12)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : -a_( -1/6)^1 -a_( -1/6)^1 -a_( -1/6)^1 \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 4)\n  field no.           : 38"
+    },
+    {
+     "label": "F_15",
+     "block": "\n\n    F_15\n  sector (k,l)        : (0, 1)\n  fixed point n_a     : (0, 0, 0, 0, 0, 0)\n  space group charges : (0, 1, 0)\n\n  representation      : (  1,  1,  1,  1)_l  U(1): ( 22/9,  1/2,   -4,    6, -256,765/2, 3057,  156, -516)\n\n  left-moving p_sh    : (0, -1/3, -1/6, 1/6, 1/6, 1/6, 1/6, -1/6),  (-1/12, 5/12, -1/12, -1/12, -1/12, -1/12, 1/4, 5/12)\n  right-moving q_sh   : (0, -5/6, 0, -1/6)\n  oscillators         : -a_( -1/6)^(-3) -a_( -1/6)^(-3) -a_( -1/6)^(-3) \n\n  vev                 : 0.00\n\n  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)\n  internalIndex       : (1, 0, 8)\n  field no.           : 42"
+    }
+   ]
+  }
+ ]
+}

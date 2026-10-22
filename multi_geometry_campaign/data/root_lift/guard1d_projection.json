@@ -1,0 +1,4020 @@
+{
+ "CB1534": {
+  "geom": "Z3xZ6_1_1",
+  "n_cells": 60,
+  "n_fields": 147,
+  "P1_violations": 0,
+  "gauge4d": "E6 x SU(2) x SU(2) x SU(3) x SU(4) x U(1)^3",
+  "n_roots_4d": 94,
+  "loophole_cells": [
+   {
+    "kl": [
+     0,
+     1
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-5/6",
+     "0",
+     "-1/6"
+    ],
+    "lifts": true,
+    "n_candidates": 20,
+    "n_survivors": 12,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     12
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1, -3,  2,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     3
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "0",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 32,
+    "n_survivors": 4,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  2,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     3
+    ],
+    "fp": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "0",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 32,
+    "n_survivors": 4,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  2,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     3
+    ],
+    "fp": [
+     1,
+     0,
+     0,
+     0,
+     1,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "0",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 32,
+    "n_survivors": 20,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     4,
+     4,
+     12
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  2,  1,  2",
+     "6,  1,  1,  1,  2",
+     "1,  1,  2,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "0",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 3,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1, -3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "0",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 3,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1, -3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "0",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 3,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1, -3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     4
+    ],
+    "fp": [
+     0,
+     2,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "0",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 3,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1, -3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "0",
+     "-2/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 56,
+    "n_survivors": 8,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     4,
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "4,  1,  1,  1,  1",
+     "-4,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "0",
+     "-2/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 56,
+    "n_survivors": 20,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     4,
+     4,
+     12
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "4,  1,  1,  1,  1",
+     "-4,  1,  1,  1,  1",
+     "6,  1,  2,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "0",
+     "-2/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 27,
+    "n_survivors": 14,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     4,
+     4,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  2,  1,  2",
+     "4,  1,  1,  1,  1",
+     "1, -3,  1,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "0",
+     "-2/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 27,
+    "n_survivors": 27,
+    "n_printed_records": 6,
+    "n_weyl_orbits": 6,
+    "orbit_sizes": [
+     2,
+     3,
+     4,
+     4,
+     6,
+     8
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  2,  1,  2",
+     "4,  1,  1,  1,  1",
+     "1,  1,  2,  1,  1",
+     "4,  1,  1,  1,  2",
+     "1, -3,  1,  1,  2",
+     "1, -3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "0",
+     "-2/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 27,
+    "n_survivors": 8,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     4,
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-4,  1,  1,  1,  1",
+     "1,  1,  2,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "0",
+     "-2/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 27,
+    "n_survivors": 18,
+    "n_printed_records": 4,
+    "n_weyl_orbits": 4,
+    "orbit_sizes": [
+     2,
+     4,
+     4,
+     8
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-4,  1,  1,  1,  2",
+     "1,  1,  2,  1,  1",
+     "-4,  1,  1,  1,  1",
+     "1,  1,  2,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-2/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 12,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     12
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-4,  3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-2/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 30,
+    "n_survivors": 2,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-2/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 18,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     6,
+     12
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-4,  3,  1,  1,  1",
+     "1,  3,  2,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-2/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 30,
+    "n_survivors": 3,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     1,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  2",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-2/3",
+     "-1/6"
+    ],
+    "lifts": false,
+    "n_candidates": 6,
+    "n_survivors": 6,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1, -3,  1,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-2/3",
+     "-1/6"
+    ],
+    "lifts": false,
+    "n_candidates": 18,
+    "n_survivors": 4,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-4,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "0",
+     "-1/3",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 56,
+    "n_survivors": 6,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1, -3,  2,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "0",
+     "-1/3",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 56,
+    "n_survivors": 18,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     6,
+     12
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-4, -3,  1,  1,  1",
+     "1, -3,  2,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     2
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "-1/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 3,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     2
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "-1/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 27,
+    "n_survivors": 13,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     2,
+     3,
+     8
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  2,  1,  1",
+     "4,  1,  1,  1,  2",
+     "1, -3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     2
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "-1/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 3,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     2
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "-1/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 27,
+    "n_survivors": 27,
+    "n_printed_records": 6,
+    "n_weyl_orbits": 6,
+    "orbit_sizes": [
+     2,
+     3,
+     4,
+     4,
+     6,
+     8
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  2,  1,  2",
+     "4,  1,  1,  1,  1",
+     "1,  1,  2,  1,  1",
+     "4,  1,  1,  1,  2",
+     "1, -3,  1,  1,  2",
+     "1, -3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     3
+    ],
+    "fp": [
+     0,
+     -4,
+     0,
+     4,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "-1/3",
+     "-1/6"
+    ],
+    "lifts": false,
+    "n_candidates": 10,
+    "n_survivors": 3,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     3
+    ],
+    "fp": [
+     0,
+     -1,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "-1/3",
+     "-1/6"
+    ],
+    "lifts": false,
+    "n_candidates": 10,
+    "n_survivors": 10,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     3,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "1, -3,  2,  1,  1",
+     "1,  3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     3
+    ],
+    "fp": [
+     1,
+     -2,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "-1/3",
+     "-1/6"
+    ],
+    "lifts": false,
+    "n_candidates": 10,
+    "n_survivors": 10,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     3,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1, -3,  1,  1,  1",
+     "1,  3,  2,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 27,
+    "n_survivors": 2,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  2,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 27,
+    "n_survivors": 6,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     2,
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  2,  1,  1",
+     "4,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 3,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 9,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     3,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  3,  1,  1,  2",
+     "1,  3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 27,
+    "n_survivors": 6,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     2,
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  2,  1,  1",
+     "4,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 27,
+    "n_survivors": 6,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     2,
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  2,  1,  1",
+     "4,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 9,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     3,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  3,  1,  1,  2",
+     "1,  3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     1,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 9,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     3,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  3,  1,  1,  2",
+     "1,  3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     2,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 27,
+    "n_survivors": 6,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     2,
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  2,  1,  1",
+     "4,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     2,
+     0,
+     1,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 9,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     3,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  3,  1,  1,  2",
+     "1,  3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-1/3",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 8,
+    "n_survivors": 8,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     8
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "4,  1,  1,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     -1,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-1/3",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 12,
+    "n_survivors": 12,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     3,
+     3,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  3,  1,  1,  1",
+     "6,  1,  1,  1,  1",
+     "1, -3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     -2,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-1/3",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 10,
+    "n_survivors": 10,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     3,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "1, -3,  2,  1,  1",
+     "1,  3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     -2,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-1/3",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 10,
+    "n_survivors": 10,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     3,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "1, -3,  2,  1,  1",
+     "1,  3,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     4,
+     -4,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-1/3",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 12,
+    "n_survivors": 3,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  3,  1,  1,  1"
+    ],
+    "match": true
+   }
+  ],
+  "all_match": true
+ },
+ "CB1041": {
+  "geom": "Z3xZ6_1_1",
+  "n_cells": 70,
+  "n_fields": 214,
+  "P1_violations": 0,
+  "gauge4d": "SO(8) x SU(2) x SU(2) x SU(2) x SU(3) x U(1)^7",
+  "n_roots_4d": 36,
+  "loophole_cells": [
+   {
+    "kl": [
+     0,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "0",
+     "-1",
+     "0"
+    ],
+    "lifts": true,
+    "n_candidates": 480,
+    "n_survivors": 25,
+    "n_printed_records": 5,
+    "n_weyl_orbits": 5,
+    "orbit_sizes": [
+     1,
+     1,
+     1,
+     6,
+     16
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  8_v,  1,  2",
+     "1,  1,  1,  1,  1",
+     "-3,  2,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     1
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-5/6",
+     "0",
+     "-1/6"
+    ],
+    "lifts": true,
+    "n_candidates": 20,
+    "n_survivors": 6,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "3,  1,  1,  2,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     2
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "0",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 3,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     1
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     2
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "0",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 3,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     1
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     2
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "0",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 3,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     1
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     2
+    ],
+    "fp": [
+     0,
+     2,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "0",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 3,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     1
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     3
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "0",
+     "-1/2"
+    ],
+    "lifts": true,
+    "n_candidates": 32,
+    "n_survivors": 2,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  2,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     3
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "0",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 32,
+    "n_survivors": 6,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     2,
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  2,  1",
+     "1,  1,  1,  2,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     3
+    ],
+    "fp": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "0",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 32,
+    "n_survivors": 12,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     2,
+     4,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "3,  1,  1,  2,  1",
+     "1,  1,  1,  2,  1",
+     "1,  2,  1,  2,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     3
+    ],
+    "fp": [
+     1,
+     0,
+     0,
+     0,
+     1,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "0",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 32,
+    "n_survivors": 28,
+    "n_printed_records": 8,
+    "n_weyl_orbits": 8,
+    "orbit_sizes": [
+     2,
+     2,
+     2,
+     2,
+     4,
+     4,
+     6,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "3,  1,  1,  2,  1",
+     "1,  2,  1,  2,  1",
+     "1,  1,  1,  2,  1",
+     "1,  1,  1,  2,  1",
+     "1,  1,  1,  2,  1",
+     "1,  1,  1,  2,  1",
+     "1,  2,  1,  2,  1",
+     "-3,  1,  1,  2,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "0",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 7,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     1,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "3,  2,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "0",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 7,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     1,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "3,  2,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "0",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 7,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     1,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "3,  2,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     4
+    ],
+    "fp": [
+     0,
+     2,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "0",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 36,
+    "n_survivors": 7,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     1,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "3,  2,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     0,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "0",
+     "-5/6"
+    ],
+    "lifts": true,
+    "n_candidates": 20,
+    "n_survivors": 2,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  2,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "0",
+     "-2/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 2,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "0",
+     "-2/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 4,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "0",
+     "-2/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 30,
+    "n_survivors": 4,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     2,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  2,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "0",
+     "-2/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 30,
+    "n_survivors": 11,
+    "n_printed_records": 4,
+    "n_weyl_orbits": 4,
+    "orbit_sizes": [
+     1,
+     2,
+     2,
+     6
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "3,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  2,  1,  1,  1",
+     "1,  2,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "0",
+     "-2/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 2,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "0",
+     "-2/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 4,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-2/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 7,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     3,
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-3,  1,  1,  1,  1",
+     "1,  1,  1,  2,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-2/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 30,
+    "n_survivors": 6,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     3,
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-3,  1,  1,  1,  1",
+     "-3,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-2/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 7,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     3,
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-3,  1,  1,  1,  1",
+     "1,  1,  1,  2,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-2/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 18,
+    "n_printed_records": 6,
+    "n_weyl_orbits": 6,
+    "orbit_sizes": [
+     1,
+     1,
+     1,
+     3,
+     4,
+     8
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-3,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  8_c,  1,  1",
+     "1,  1,  1,  2,  2",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-2/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 30,
+    "n_survivors": 11,
+    "n_printed_records": 7,
+    "n_weyl_orbits": 7,
+    "orbit_sizes": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     3,
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-3,  1,  1,  1,  1",
+     "-3,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-2/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 18,
+    "n_printed_records": 6,
+    "n_weyl_orbits": 6,
+    "orbit_sizes": [
+     1,
+     1,
+     1,
+     3,
+     4,
+     8
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-3,  1,  1,  1,  1",
+     "1,  1,  1,  2,  2",
+     "1,  1,  8_c,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-2/3",
+     "-1/6"
+    ],
+    "lifts": false,
+    "n_candidates": 10,
+    "n_survivors": 6,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     2,
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  2,  1",
+     "1,  2,  1,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-2/3",
+     "-1/6"
+    ],
+    "lifts": false,
+    "n_candidates": 8,
+    "n_survivors": 2,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  2,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     1,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-2/3",
+     "-1/6"
+    ],
+    "lifts": false,
+    "n_candidates": 10,
+    "n_survivors": 6,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     2,
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  2,  1",
+     "1,  2,  1,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "0",
+     "-1/3",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 3,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-3,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "0",
+     "-1/3",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 6,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     3,
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "3,  1,  1,  1,  1",
+     "-3,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "0",
+     "-1/3",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 3,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-3,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "0",
+     "-1/3",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 6,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     3,
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "3,  1,  1,  1,  1",
+     "-3,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "0",
+     "-1/3",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 30,
+    "n_survivors": 4,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     1,
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "-3,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     0
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "0",
+     "-1/3",
+     "-2/3"
+    ],
+    "lifts": false,
+    "n_candidates": 30,
+    "n_survivors": 10,
+    "n_printed_records": 4,
+    "n_weyl_orbits": 4,
+    "orbit_sizes": [
+     1,
+     3,
+     3,
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "3,  1,  1,  1,  1",
+     "3,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "-3,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     2
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "-1/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 1,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     1
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     2
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "-1/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 1,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     1
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     2
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "-1/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 30,
+    "n_survivors": 4,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     1,
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "3,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     2
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "-1/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 4,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     1,
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-3,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     2
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "-1/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 28,
+    "n_survivors": 4,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     1,
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "-3,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     2
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-2/3",
+     "-1/3",
+     "0"
+    ],
+    "lifts": false,
+    "n_candidates": 30,
+    "n_survivors": 10,
+    "n_printed_records": 4,
+    "n_weyl_orbits": 4,
+    "orbit_sizes": [
+     1,
+     3,
+     3,
+     3
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "3,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "-3,  1,  1,  1,  1",
+     "-3,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     3
+    ],
+    "fp": [
+     0,
+     -4,
+     0,
+     4,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "-1/3",
+     "-1/6"
+    ],
+    "lifts": false,
+    "n_candidates": 4,
+    "n_survivors": 2,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     3
+    ],
+    "fp": [
+     0,
+     -1,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "-1/3",
+     "-1/6"
+    ],
+    "lifts": false,
+    "n_candidates": 4,
+    "n_survivors": 4,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     2,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  2",
+     "1,  1,  1,  2,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     3
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "-1/3",
+     "-1/6"
+    ],
+    "lifts": false,
+    "n_candidates": 4,
+    "n_survivors": 2,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     3
+    ],
+    "fp": [
+     1,
+     -2,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "-1/3",
+     "-1/6"
+    ],
+    "lifts": false,
+    "n_candidates": 4,
+    "n_survivors": 4,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     2,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  2,  1",
+     "1,  1,  1,  2,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     3
+    ],
+    "fp": [
+     1,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/2",
+     "-1/3",
+     "-1/6"
+    ],
+    "lifts": false,
+    "n_candidates": 4,
+    "n_survivors": 4,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     2,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  2",
+     "1,  1,  1,  2,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 2,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     1,
+     1
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 4,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 2,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     1,
+     1
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 4,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 15,
+    "n_survivors": 1,
+    "n_printed_records": 1,
+    "n_weyl_orbits": 1,
+    "orbit_sizes": [
+     1
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 15,
+    "n_survivors": 5,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     2,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 4,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 4,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     1,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 4,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     1,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 4,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     2,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 15,
+    "n_survivors": 5,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     2,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     1,
+     0,
+     2,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 15,
+    "n_survivors": 5,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     2,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     2,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 4,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     2,
+     0,
+     1,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 9,
+    "n_survivors": 4,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     1,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     4
+    ],
+    "fp": [
+     0,
+     2,
+     0,
+     2,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/3",
+     "-1/3",
+     "-1/3"
+    ],
+    "lifts": false,
+    "n_candidates": 15,
+    "n_survivors": 5,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     1,
+     2,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  2,  1,  1,  1",
+     "1,  2,  1,  1,  1",
+     "1,  1,  1,  1,  1"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-1/3",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 8,
+    "n_survivors": 4,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     2,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  2",
+     "1,  1,  1,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-1/3",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 8,
+    "n_survivors": 8,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     2,
+     2,
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  2",
+     "1,  1,  1,  1,  2",
+     "1,  2,  1,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     1,
+     -1,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-1/3",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 8,
+    "n_survivors": 8,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     2,
+     2,
+     4
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  2",
+     "1,  1,  1,  1,  2",
+     "1,  2,  1,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     -2,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-1/3",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 12,
+    "n_survivors": 12,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     2,
+     2,
+     8
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  8_s,  1,  1",
+     "1,  1,  1,  1,  2",
+     "1,  1,  1,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     2,
+     -2,
+     1
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-1/3",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 12,
+    "n_survivors": 12,
+    "n_printed_records": 3,
+    "n_weyl_orbits": 3,
+    "orbit_sizes": [
+     2,
+     2,
+     8
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  8_s,  1,  1",
+     "1,  1,  1,  1,  2",
+     "1,  1,  1,  1,  2"
+    ],
+    "match": true
+   },
+   {
+    "kl": [
+     2,
+     5
+    ],
+    "fp": [
+     0,
+     0,
+     0,
+     4,
+     -4,
+     0
+    ],
+    "q": [
+     "0",
+     "-1/6",
+     "-1/3",
+     "-1/2"
+    ],
+    "lifts": false,
+    "n_candidates": 8,
+    "n_survivors": 4,
+    "n_printed_records": 2,
+    "n_weyl_orbits": 2,
+    "orbit_sizes": [
+     2,
+     2
+    ],
+    "printed_missing": [],
+    "printed_reps": [
+     "1,  1,  1,  1,  2",
+     "1,  1,  1,  1,  2"
+    ],
+    "match": true
+   }
+  ],
+  "all_match": true
+ }
+}

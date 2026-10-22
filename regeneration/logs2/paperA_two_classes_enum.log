@@ -1,0 +1,65 @@
+admissible Bv (8):
+   Bv=-4     m=-4/15    5m^2=16/45      rem=1/6
+   Bv=-7/2   m=-11/60   5m^2=121/720    rem=17/48
+   Bv=-3     m=-1/10    5m^2=1/20       rem=17/36
+   Bv=-5/2   m=-1/60    5m^2=1/720      rem=25/48
+   Bv=-2     m=1/15     5m^2=1/45       rem=1/2
+   Bv=-3/2   m=3/20     5m^2=9/80       rem=59/144
+   Bv=-1     m=7/30     5m^2=49/180     rem=1/4
+   Bv=-1/2   m=19/60    5m^2=361/720    rem=1/48
+
+BRANCH 2 (Delta in the second E8):  |6 p_B|^2 = 18 forced, 6 p_B = +-3 delta
+   Bv=-4     rem=1/6      < 1/2  -> no solution
+   Bv=-7/2   rem=17/48    < 1/2  -> no solution
+   Bv=-3     rem=17/36    < 1/2  -> no solution
+   Bv=-5/2   rem=25/48    target c^2-sum=3/4     8 triples ->  9600 solutions
+   Bv=-2     rem=1/2      target c^2-sum=0       1 triples ->  2400 solutions
+   Bv=-3/2   rem=59/144   < 1/2  -> no solution
+   Bv=-1     rem=1/4      < 1/2  -> no solution
+   Bv=-1/2   rem=1/48     < 1/2  -> no solution
+
+BRANCH 1 (Delta in the first E8):  p_B = 0 forced
+   Bv=-4     rem=1/6      target c^2-sum=6         24 triples ->  240 (p,Delta)
+   Bv=-7/2   rem=17/48    target c^2-sum=51/4      48 triples ->    0 (p,Delta)
+   Bv=-3     rem=17/36    target c^2-sum=17        48 triples ->    0 (p,Delta)
+   Bv=-5/2   rem=25/48    target c^2-sum=75/4      56 triples ->  480 (p,Delta)
+   Bv=-2     rem=1/2      target c^2-sum=18        36 triples ->  240 (p,Delta)
+   Bv=-3/2   rem=59/144   target c^2-sum=59/4      72 triples ->    0 (p,Delta)
+   Bv=-1     rem=1/4      target c^2-sum=9         30 triples ->  240 (p,Delta)
+   Bv=-1/2   rem=1/48     target c^2-sum=3/4        8 triples ->    0 (p,Delta)
+conjugate (10bar) branch added: 13200 -> 26400
+
+solutions: branch 2 = 12000, branch 1 = 1200, total = 26400
+all solutions pass: |p|^2 = 31/18, |P_W p|^2 = 6/5, 6p in Lambda, order 6,
+Delta a root of Lambda perpendicular to W_SM, partner p -+ Delta on the shell
+
+distinct Lambda-classes (exact key): 1260   (gate's coarser key: 974)
+solution set closed under all 332640 generator applications
+inequivalent classes under G1 x W(E8)_2 x <-1> : 2
+inequivalent classes under G1 x W(E8)_2        : 4
+
+--- inequivalent classes ---
+  branch 2 | 1200 classes in orbit | order 6 | MI2 10 | Delta in SM factor: 0, in other factor: 2 | min|p_B|^2 = 1/2
+     V2    = (-2/3, -2/3, 1/3, 1/3, 1/3, 0, 0, 0 | -1/2, -1/2, 0, 0, 0, 0, 0, 0)
+     Delta = (0, 0, 0, 0, 0, 0, 0, 0 | -1, -1, 0, 0, 0, 0, 0, 0)
+  branch 1 | 60 classes in orbit | order 6 | MI2 10 | Delta in SM factor: 2, in other factor: 0 | min|p_B|^2 = 0
+     V2    = (-2/3, -2/3, 1/3, 1/3, 1/3, 0, 1/2, -1/2 | 0, 0, 0, 0, 0, 0, 0, 0)
+     Delta = (0, 0, 0, 0, 0, 0, -1, 1 | 0, 0, 0, 0, 0, 0, 0, 0)
+orbit certificate: 1260 of 1260 classes reached from the 2 representatives
+
+phase target (branch 2)  |p|^2=31/18  |P_W p|^2=6/5  order=6  role=uc  present=True  orbit=0
+
+gate case B              |p|^2=31/18  |P_W p|^2=6/5  order=6  role=uc  present=True  orbit=1
+
+paper rep A              |p|^2=31/18  |P_W p|^2=6/5  order=6  role=uc  present=True  orbit=0
+
+paper rep B              |p|^2=31/18  |P_W p|^2=6/5  order=6  role=uc  present=True  orbit=1
+
+reconciliation with the gate:
+   gate-style solution count on the gate's own subset : 6000  (gate: 3000)
+   coarse-key classes on that subset                  : 238  (gate: 119)
+   exact-key classes on that same subset              : 300
+
+in ONE convention: distinct p = 25200 ; (p, Delta) incidences = 50400
+
+wrote paperA_two_classes_enum.json

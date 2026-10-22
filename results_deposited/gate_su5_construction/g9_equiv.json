@@ -1,0 +1,456 @@
+{
+ "results": [
+  {
+   "a": "EQA00",
+   "b": "EQB00",
+   "src": "CB0974",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    171,
+    171
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) and SU(5) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6",
+    "SU(3) x SU(2) x SU(2) and SU(5) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6"
+   ]
+  },
+  {
+   "a": "EQA01",
+   "b": "EQB01",
+   "src": "CB2427",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    117,
+    117
+   ],
+   "gauge": [
+    "SU(3) x SU(3) x SU(2) and SU(6) x SU(3) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+    "SU(3) x SU(3) x SU(2) and SU(6) x SU(3) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3"
+   ]
+  },
+  {
+   "a": "EQA02",
+   "b": "EQB02",
+   "src": "CB2229",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    196,
+    196
+   ],
+   "gauge": [
+    "SU(3) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4",
+    "SU(3) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4"
+   ]
+  },
+  {
+   "a": "EQA03",
+   "b": "EQB03",
+   "src": "CB0534",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    213,
+    213
+   ],
+   "gauge": [
+    "SU(3) x SU(2) and SU(5) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7 x U(1)_8",
+    "SU(3) x SU(2) and SU(5) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7 x U(1)_8"
+   ]
+  },
+  {
+   "a": "EQA04",
+   "b": "EQB04",
+   "src": "CB1515",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    157,
+    157
+   ],
+   "gauge": [
+    "SU(3) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4",
+    "SU(3) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4"
+   ]
+  },
+  {
+   "a": "EQA05",
+   "b": "EQB05",
+   "src": "CB2473",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    171,
+    171
+   ],
+   "gauge": [
+    "SU(3) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4",
+    "SU(3) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4"
+   ]
+  },
+  {
+   "a": "EQA06",
+   "b": "EQB06",
+   "src": "CB1941",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    174,
+    174
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) and SU(4) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6",
+    "SU(3) x SU(2) x SU(2) and SU(4) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6"
+   ]
+  },
+  {
+   "a": "EQA07",
+   "b": "EQB07",
+   "src": "CB2562",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    174,
+    174
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) and SU(4) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6",
+    "SU(3) x SU(2) x SU(2) and SU(4) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6"
+   ]
+  },
+  {
+   "a": "EQA08",
+   "b": "EQB08",
+   "src": "CB2379",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    178,
+    178
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7",
+    "SU(3) x SU(2) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7"
+   ]
+  },
+  {
+   "a": "EQA09",
+   "b": "EQB09",
+   "src": "CB0268",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    159,
+    159
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6",
+    "SU(3) x SU(2) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6"
+   ]
+  },
+  {
+   "a": "EQA10",
+   "b": "EQB10",
+   "src": "CB2480",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    196,
+    196
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) and SO(10) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6",
+    "SU(3) x SU(2) x SU(2) and SO(10) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6"
+   ]
+  },
+  {
+   "a": "EQA11",
+   "b": "EQB11",
+   "src": "CB0053",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    160,
+    160
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) x SU(2) and SU(6) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5",
+    "SU(3) x SU(2) x SU(2) x SU(2) and SU(6) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5"
+   ]
+  },
+  {
+   "a": "EQA12",
+   "b": "EQB12",
+   "src": "CB1921",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    175,
+    175
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7",
+    "SU(3) x SU(2) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7"
+   ]
+  },
+  {
+   "a": "EQA13",
+   "b": "EQB13",
+   "src": "CB1062",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    217,
+    217
+   ],
+   "gauge": [
+    "SU(3) x SU(2) and SU(4) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7 x U(1)_8",
+    "SU(3) x SU(2) and SU(4) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7 x U(1)_8"
+   ]
+  },
+  {
+   "a": "EQA14",
+   "b": "EQB14",
+   "src": "CB2256",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    184,
+    184
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) and SO(10) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6",
+    "SU(3) x SU(2) x SU(2) and SO(10) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6"
+   ]
+  },
+  {
+   "a": "EQA15",
+   "b": "EQB15",
+   "src": "CB0959",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    158,
+    158
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) and SU(5) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6",
+    "SU(3) x SU(2) x SU(2) and SU(5) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6"
+   ]
+  },
+  {
+   "a": "EQA16",
+   "b": "EQB16",
+   "src": "CB0785",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    252,
+    252
+   ],
+   "gauge": [
+    "SU(3) x SU(2) and SU(5) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7 x U(1)_8",
+    "SU(3) x SU(2) and SU(5) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7 x U(1)_8"
+   ]
+  },
+  {
+   "a": "EQA17",
+   "b": "EQB17",
+   "src": "CB1926",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    152,
+    152
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) and SU(4) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6",
+    "SU(3) x SU(2) x SU(2) and SU(4) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6"
+   ]
+  },
+  {
+   "a": "EQA18",
+   "b": "EQB18",
+   "src": "CB2215",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    75,
+    75
+   ],
+   "gauge": [
+    "SU(3) x SU(3) x SU(2) and SU(6) x SU(3) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+    "SU(3) x SU(3) x SU(2) and SU(6) x SU(3) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3"
+   ]
+  },
+  {
+   "a": "EQA19",
+   "b": "EQB19",
+   "src": "CB2251",
+   "kind": "merge",
+   "identical": true,
+   "n_records": [
+    202,
+    202
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) and SO(10) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6",
+    "SU(3) x SU(2) x SU(2) and SO(10) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6"
+   ]
+  },
+  {
+   "a": "SPA00",
+   "b": "SPB00",
+   "src": "CB1497/CB0399",
+   "kind": "separate",
+   "identical": false,
+   "n_records": [
+    158,
+    134
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) x SU(2) and SU(6) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5",
+    "SU(3) x SU(2) x SU(2) and SU(5) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6"
+   ]
+  },
+  {
+   "a": "SPA01",
+   "b": "SPB01",
+   "src": "CB0146/CB0556",
+   "kind": "separate",
+   "identical": false,
+   "n_records": [
+    142,
+    157
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) x SU(2) and SU(4) x SU(3) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5",
+    "SU(3) x SU(2) x SU(2) x SU(2) and SU(6) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5"
+   ]
+  },
+  {
+   "a": "SPA02",
+   "b": "SPB02",
+   "src": "CB2027/CB0888",
+   "kind": "separate",
+   "identical": false,
+   "n_records": [
+    206,
+    230
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) and SO(10) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6",
+    "SU(3) x SU(2) and SU(5) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7 x U(1)_8"
+   ]
+  },
+  {
+   "a": "SPA03",
+   "b": "SPB03",
+   "src": "CB1056/CB2752",
+   "kind": "separate",
+   "identical": false,
+   "n_records": [
+    189,
+    158
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) and SU(4) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7 x U(1)_8",
+    "SU(3) x SU(2) x SU(2) and SU(5) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6"
+   ]
+  },
+  {
+   "a": "SPA04",
+   "b": "SPB04",
+   "src": "CB1786/CB2566",
+   "kind": "separate",
+   "identical": false,
+   "n_records": [
+    112,
+    110
+   ],
+   "gauge": [
+    "SU(3) x SU(3) x SU(2) and SU(6) x SU(3) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+    "SU(3) x SU(3) x SU(2) and SU(6) x SU(3) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3"
+   ]
+  },
+  {
+   "a": "SPA05",
+   "b": "SPB05",
+   "src": "CB1233/CB1725",
+   "kind": "separate",
+   "identical": false,
+   "n_records": [
+    245,
+    65
+   ],
+   "gauge": [
+    "SU(3) x SU(2) and SO(8) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7 x U(1)_8",
+    "SU(3) x SU(3) x SU(2) and SU(6) x SU(3) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3"
+   ]
+  },
+  {
+   "a": "SPA06",
+   "b": "SPB06",
+   "src": "CB2077/CB1580",
+   "kind": "separate",
+   "identical": false,
+   "n_records": [
+    153,
+    190
+   ],
+   "gauge": [
+    "SU(3) x SU(3) x SU(2) and SU(6) x SU(3) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+    "SU(3) x SU(2) x SU(2) and SU(4) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7 x U(1)_8"
+   ]
+  },
+  {
+   "a": "SPA07",
+   "b": "SPB07",
+   "src": "CB2351/CB1437",
+   "kind": "separate",
+   "identical": false,
+   "n_records": [
+    80,
+    164
+   ],
+   "gauge": [
+    "SU(3) x SU(3) x SU(2) and SU(3) x SU(3) x SU(3) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4",
+    "SU(3) x SU(2) x SU(2) x SU(2) and SU(3) x SU(3) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6"
+   ]
+  },
+  {
+   "a": "SPA08",
+   "b": "SPB08",
+   "src": "CB2187/CB2396",
+   "kind": "separate",
+   "identical": false,
+   "n_records": [
+    104,
+    187
+   ],
+   "gauge": [
+    "SU(3) x SU(3) x SU(2) and SU(6) x SU(3) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3",
+    "SU(3) x SU(2) x SU(2) and SU(5) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6"
+   ]
+  },
+  {
+   "a": "SPA09",
+   "b": "SPB09",
+   "src": "CB1669/CB2393",
+   "kind": "separate",
+   "identical": false,
+   "n_records": [
+    136,
+    163
+   ],
+   "gauge": [
+    "SU(3) x SU(2) x SU(2) x SU(2) and SU(6) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5",
+    "SU(3) x SU(2) and SU(3) x SU(2) x SU(2) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7"
+   ]
+  }
+ ],
+ "merge_identical": 20,
+ "separate_distinct": 10
+}

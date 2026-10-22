@@ -1,0 +1,258 @@
+{
+ "produced_by": "code/gate_su5_bound/d6_pattern_recount.py",
+ "scope": "INDEPENDENT gate recount of results/su5_ten_bound_findings.md 6.3",
+ "cell_key_primary": "(sector (k,l), FULL printed fixed point n_a 6-tuple) -- per model",
+ "cell_key_alt_orbit": "(sector, per-plane space-group ORBIT-CLASS index) -- the physical fixed point",
+ "cell_key_alt_sectoronly": "(sector) -- deliberately INCOMPLETE, hazard sizing only",
+ "geometries": {
+  "Z2xZ4_1_1": {
+   "n_census_segments": 58,
+   "models_parsed": 10925,
+   "models_skipped": 615,
+   "recount_primary": {
+    "111": 17555,
+    "110": 0,
+    "101": 0,
+    "011": 4820,
+    "100": 4421,
+    "010": 0,
+    "001": 0,
+    "total": 26796
+   },
+   "phase_table": {
+    "111": 17555,
+    "100": 4421,
+    "011": 4820,
+    "110": 0,
+    "101": 0,
+    "010": 0,
+    "001": 0,
+    "total": 26796
+   },
+   "agreement_primary": true,
+   "recount_conjugate": {
+    "111": 87,
+    "110": 0,
+    "101": 0,
+    "011": 160,
+    "100": 248,
+    "010": 0,
+    "001": 0
+   },
+   "phase_table_conjugate": {
+    "111": 87,
+    "100": 248,
+    "011": 160,
+    "110": 0,
+    "101": 0,
+    "010": 0,
+    "001": 0
+   },
+   "agreement_conjugate": true,
+   "recount_orbitkey": {
+    "111": 17543,
+    "110": 0,
+    "101": 0,
+    "011": 4798,
+    "100": 4389,
+    "010": 0,
+    "001": 0
+   },
+   "cells_orbitkey": 26730,
+   "recount_sectoronlykey": {
+    "111": 8571,
+    "110": 0,
+    "101": 0,
+    "011": 782,
+    "100": 673,
+    "010": 0,
+    "001": 0
+   },
+   "cells_sectoronlykey": 10026,
+   "distinct_cells_primary": 26796,
+   "role_bucket_total_incl_conj": 67555,
+   "qsh_homogeneous_cells": 22375,
+   "qsh_inhomogeneous_cells": 0,
+   "osc_homogeneous_cells": 22375,
+   "osc_inhomogeneous_cells": 0,
+   "n_hits_010_001_110_101": 0
+  },
+  "Z3xZ6_1_1": {
+   "n_census_segments": 48,
+   "models_parsed": 4620,
+   "models_skipped": 2,
+   "recount_primary": {
+    "111": 8579,
+    "110": 0,
+    "101": 0,
+    "011": 3706,
+    "100": 3761,
+    "010": 40,
+    "001": 50,
+    "total": 16136
+   },
+   "phase_table": {
+    "111": 8579,
+    "100": 3761,
+    "011": 3706,
+    "110": 0,
+    "101": 0,
+    "010": 40,
+    "001": 50,
+    "total": 16136
+   },
+   "agreement_primary": true,
+   "recount_conjugate": {
+    "111": 70,
+    "110": 0,
+    "101": 0,
+    "011": 30,
+    "100": 42,
+    "010": 14,
+    "001": 8
+   },
+   "phase_table_conjugate": {
+    "111": 70,
+    "100": 42,
+    "011": 30,
+    "110": 0,
+    "101": 0,
+    "010": 14,
+    "001": 8
+   },
+   "agreement_conjugate": true,
+   "recount_orbitkey": {
+    "111": 8485,
+    "110": 0,
+    "101": 0,
+    "011": 3706,
+    "100": 3761,
+    "010": 40,
+    "001": 50
+   },
+   "cells_orbitkey": 16042,
+   "recount_sectoronlykey": {
+    "111": 7708,
+    "110": 0,
+    "101": 0,
+    "011": 0,
+    "100": 22,
+    "010": 30,
+    "001": 39
+   },
+   "cells_sectoronlykey": 7799,
+   "distinct_cells_primary": 16136,
+   "role_bucket_total_incl_conj": 37334,
+   "qsh_homogeneous_cells": 12285,
+   "qsh_inhomogeneous_cells": 0,
+   "osc_homogeneous_cells": 12285,
+   "osc_inhomogeneous_cells": 0,
+   "n_hits_010_001_110_101": 90
+  }
+ },
+ "aux_weight_relation_test": {
+  "Z2xZ4_1_1": {
+   "cells_all_three": 17555,
+   "norm2_pQ_minus_pe": {
+    "2": 17555
+   },
+   "norm2_pu_minus_pe": {
+    "4": 22375
+   },
+   "norm2_pQ_minus_pu": {
+    "2": 17555
+   },
+   "mu_norm2": {
+    "4": 17555
+   },
+   "mu_dot_tY_nonzero": 0,
+   "mu_not_in_lattice": 0,
+   "T3_PWperp_mu_zero_checked": 2840,
+   "T3_pass": 2840,
+   "T3_fail": 0
+  },
+  "Z3xZ6_1_1": {
+   "cells_all_three": 8579,
+   "norm2_pQ_minus_pe": {
+    "2": 8579
+   },
+   "norm2_pu_minus_pe": {
+    "4": 12285
+   },
+   "norm2_pQ_minus_pu": {
+    "2": 8579
+   },
+   "mu_norm2": {
+    "4": 8579
+   },
+   "mu_dot_tY_nonzero": 0,
+   "mu_not_in_lattice": 0,
+   "T3_PWperp_mu_zero_checked": 1839,
+   "T3_pass": 1839,
+   "T3_fail": 0
+  }
+ },
+ "aux_weight_relation_meaning": "mu = p(u^c)+p(e^c)-2p(Q) must lie in the SU(3)_c x SU(2)_L ROOT LATTICE for the Section 5 relation phi(u,e)=2phi(Q,e) to hold.  Predicted signatures of a single local SU(5) 10: |p(Q)-p(e)|^2 = 2, |p(u)-p(e)|^2 = 4, mu.t_Y = 0, mu in Lambda, P_Wperp mu = 0.",
+ "aux_gamma_homogeneity": {
+  "Z2xZ4_1_1": {
+   "geometry": "Z2xZ4_1_1",
+   "nseg": 5,
+   "models": 958,
+   "cells_multi10": 1564,
+   "gamma_same": 346,
+   "gamma_diff": 1218,
+   "qsh_same": 1564,
+   "qsh_diff": 0
+  },
+  "Z3xZ6_1_1": {
+   "geometry": "Z3xZ6_1_1",
+   "nseg": 5,
+   "models": 500,
+   "cells_multi10": 1290,
+   "gamma_same": 375,
+   "gamma_diff": 915,
+   "qsh_same": 1290,
+   "qsh_diff": 0
+  }
+ },
+ "aux_gamma_meaning": "orbifolder cstate.cpp:100-110 defines the printed per-state gamma as gamma = q_sh.v - p_sh.V for each Gamma_Centralizer element -- the projection phase ABSORBED into the gamma-twisted linear combination over the fixed-point orbit, NOT a projection that removes the state. Measured: the 10-roles at one cell carry DIFFERENT gamma at 1218/1564 (Z2xZ4) and 915/1290 (Z3xZ6) multi-10-role cells, so Section 5's unqualified \"the projection phase\" cannot mean the phase under those elements.  The right-mover q_sh, by contrast, is identical at 22375/22375 and 12285/12285 cells.",
+ "aux_phi_measurement": {
+  "Z2xZ4_1_1": {
+   "cells_with_all_three": 17555,
+   "identity_phi_ue_eq_2phi_Qe_checked": 17555,
+   "identity_pass": 17555,
+   "identity_fail": 0,
+   "qsh_mismatch_cells_excluded": 0,
+   "phi_Qe_component_denominators": {
+    "1": 109616,
+    "2": 30824
+   },
+   "phi_ue_component_denominators": {
+    "1": 179000
+   },
+   "cells_with_phi_ue_identically_zero": 22375,
+   "cells_Qe": 17555,
+   "cells_ue": 22375
+  },
+  "Z3xZ6_1_1": {
+   "cells_with_all_three": 8579,
+   "identity_phi_ue_eq_2phi_Qe_checked": 8579,
+   "identity_pass": 8579,
+   "identity_fail": 0,
+   "qsh_mismatch_cells_excluded": 0,
+   "phi_Qe_component_denominators": {
+    "1": 58794,
+    "2": 7718,
+    "3": 2120
+   },
+   "phi_ue_component_denominators": {
+    "1": 96069,
+    "3": 2211
+   },
+   "cells_with_phi_ue_identically_zero": 11307,
+   "cells_Qe": 8579,
+   "cells_ue": 12285
+  }
+ },
+ "aux_phi_meaning": "phi_h(x,y) = (p_x-p_y).V_h = gamma_h(y)-gamma_h(x) for the eight printed Gamma_Centralizer generators (theta, omega, e_1..e_6), valid because q_sh is identical at every multi-10-role cell.  Every group element has V_h a Z-combination of those eight, so the eight measured values determine phi for the WHOLE group.  Section 5 identity phi(u,e)=2phi(Q,e) is confirmed 17555/17555 and 8579/8579, zero failures.  phi(Q,e^c) never has denominator 4 on Z2xZ4_1_1 (so phi in {0,1/2} and phi(u,e)=0 identically, 22375/22375); on Z3xZ6_1_1 denominator 3 occurs and phi(u,e)!=0 at 978 of 12285 cells -- the 010/001 channel."
+}

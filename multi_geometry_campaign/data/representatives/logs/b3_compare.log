@@ -1,0 +1,19 @@
+BR0   base lamV2=     other=     n_left=147 same=True  only_here=  0 net={'Q': 2, 'uc': -4, 'ec': 1, 'dc': 9, 'L': 5} doubled=[('F_1', 'Q')] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR1   V1   lamV2=0    other=0    n_left=147 same=True  only_here=  0 net={'Q': 2, 'uc': -4, 'ec': 1, 'dc': 9, 'L': 5} doubled=[('F_1', 'Q')] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR2   V1   lamV2=0    other=1/3  n_left=147 same=True  only_here=  0 net={'Q': 2, 'uc': -4, 'ec': 1, 'dc': 9, 'L': 5} doubled=[('F_1', 'Q')] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR3   V1   lamV2=0    other=2/3  n_left=147 same=True  only_here=  0 net={'Q': 2, 'uc': -4, 'ec': 1, 'dc': 9, 'L': 5} doubled=[('F_1', 'Q')] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR4   V1   lamV2=1/3  other=0    n_left=136 same=False only_here=105 net={'Q': -5, 'uc': 6, 'ec': -1, 'dc': 17, 'L': 13} doubled=[('F_15', 'Qbar')] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR5   V1   lamV2=1/3  other=1/3  n_left=136 same=False only_here=105 net={'Q': -5, 'uc': 6, 'ec': -1, 'dc': 17, 'L': 13} doubled=[('F_15', 'Qbar')] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR6   V1   lamV2=1/3  other=2/3  n_left=136 same=False only_here=105 net={'Q': -5, 'uc': 6, 'ec': -1, 'dc': 17, 'L': 13} doubled=[('F_15', 'Qbar')] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR7   V1   lamV2=2/3  other=0    n_left=132 same=False only_here=101 net={'Q': 0, 'uc': 1, 'ec': 0, 'dc': 12, 'L': 5} doubled=[] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR8   V1   lamV2=2/3  other=1/3  n_left=132 same=False only_here=101 net={'Q': 0, 'uc': 1, 'ec': 0, 'dc': 12, 'L': 5} doubled=[] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR9   V1   lamV2=2/3  other=2/3  n_left=132 same=False only_here=101 net={'Q': 0, 'uc': 1, 'ec': 0, 'dc': 12, 'L': 5} doubled=[] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR10  W    lamV2=0    other=0    n_left=147 same=True  only_here=  0 net={'Q': 2, 'uc': -4, 'ec': 1, 'dc': 9, 'L': 5} doubled=[('F_1', 'Q')] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR11  W    lamV2=0    other=1/3  n_left=147 same=True  only_here=  0 net={'Q': 2, 'uc': -4, 'ec': 1, 'dc': 9, 'L': 5} doubled=[('F_1', 'Q')] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR12  W    lamV2=0    other=2/3  n_left=147 same=True  only_here=  0 net={'Q': 2, 'uc': -4, 'ec': 1, 'dc': 9, 'L': 5} doubled=[('F_1', 'Q')] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR13  W    lamV2=1/3  other=0    n_left=153 same=False only_here= 79 net={'Q': -3, 'uc': -2, 'ec': 1, 'dc': 16, 'L': 13} doubled=[('F_30', 'ecbar')] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR14  W    lamV2=1/3  other=1/3  n_left=153 same=False only_here= 79 net={'Q': -3, 'uc': -2, 'ec': 1, 'dc': 16, 'L': 13} doubled=[('F_30', 'ecbar')] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR15  W    lamV2=1/3  other=2/3  n_left=153 same=False only_here= 79 net={'Q': -3, 'uc': -2, 'ec': 1, 'dc': 16, 'L': 13} doubled=[('F_30', 'ecbar')] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR16  W    lamV2=2/3  other=0    n_left=119 same=False only_here= 45 net={'Q': -1, 'uc': 0, 'ec': 0, 'dc': 4, 'L': 5} doubled=[] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR17  W    lamV2=2/3  other=1/3  n_left=119 same=False only_here= 45 net={'Q': -1, 'uc': 0, 'ec': 0, 'dc': 4, 'L': 5} doubled=[] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3
+BR18  W    lamV2=2/3  other=2/3  n_left=119 same=False only_here= 45 net={'Q': -1, 'uc': 0, 'ec': 0, 'dc': 4, 'L': 5} doubled=[] | SU(4) x SU(3) x SU(2) and E_6 x SU(2) and U(1)_1 x U(1)_2 x U(1)_3

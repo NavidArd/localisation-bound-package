@@ -1,0 +1,5 @@
+BR0 {'bins': 140, 'populated_bins_tested': 44, 'empty_bins': 52, 'left_mismatch': 0, 'right_mismatch': 0, 'unexplained': 0, 'survivors_total': 786, 'printed_states_oscfree': 393, 'printed_records_oscfree_twisted': 88, 'agree': True}
+BR4 {'bins': 140, 'populated_bins_tested': 40, 'empty_bins': 60, 'left_mismatch': 0, 'right_mismatch': 0, 'unexplained': 0, 'survivors_total': 838, 'printed_states_oscfree': 419, 'printed_records_oscfree_twisted': 81, 'agree': True}
+BR7 {'bins': 140, 'populated_bins_tested': 34, 'empty_bins': 72, 'left_mismatch': 0, 'right_mismatch': 0, 'unexplained': 0, 'survivors_total': 892, 'printed_states_oscfree': 446, 'printed_records_oscfree_twisted': 61, 'agree': True}
+CB1534 {'bins': 140, 'populated_bins_tested': 44, 'empty_bins': 52, 'left_mismatch': 0, 'right_mismatch': 0, 'unexplained': 0, 'survivors_total': 786, 'printed_states_oscfree': 393, 'printed_records_oscfree_twisted': 88, 'agree': True}
+CB1041 {'bins': 140, 'populated_bins_tested': 67, 'empty_bins': 6, 'left_mismatch': 0, 'right_mismatch': 0, 'unexplained': 0, 'survivors_total': 762, 'printed_states_oscfree': 406, 'printed_records_oscfree_twisted': 169, 'agree': True}

@@ -1,0 +1,38 @@
+{
+ "BR0": {
+  "bins": 140,
+  "populated_bins_tested": 44,
+  "empty_bins": 52,
+  "left_mismatch": [],
+  "right_mismatch": [],
+  "unexplained": [],
+  "survivors_total": 786,
+  "printed_states_oscfree": 393,
+  "printed_records_oscfree_twisted": 88,
+  "agree": true
+ },
+ "BR4": {
+  "bins": 140,
+  "populated_bins_tested": 40,
+  "empty_bins": 60,
+  "left_mismatch": [],
+  "right_mismatch": [],
+  "unexplained": [],
+  "survivors_total": 838,
+  "printed_states_oscfree": 419,
+  "printed_records_oscfree_twisted": 81,
+  "agree": true
+ },
+ "BR7": {
+  "bins": 140,
+  "populated_bins_tested": 34,
+  "empty_bins": 72,
+  "left_mismatch": [],
+  "right_mismatch": [],
+  "unexplained": [],
+  "survivors_total": 892,
+  "printed_states_oscfree": 446,
+  "printed_records_oscfree_twisted": 61,
+  "agree": true
+ }
+}

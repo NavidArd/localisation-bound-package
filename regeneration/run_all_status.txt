@@ -1,0 +1,34 @@
+su5_ten_bound/verify.py Z2xZ4_1_1          exit=0  613s
+su5_ten_bound/verify.py Z3xZ6_1_1          exit=0  357s
+su5_ten_bound/pattern_census.py Z2xZ4_1_1  exit=0  434s
+su5_ten_bound/pattern_census.py Z3xZ6_1_1  exit=0  519s
+gate_su5_bound/d1_mechanism.py Z2xZ4_1_1   exit=0  1687s
+gate_su5_bound/d1_mechanism.py Z3xZ6_1_1   exit=0  609s
+gate_su5_bound/d2_pshdup.py Z2xZ4_1_1      exit=0  571s
+gate_su5_bound/d2_pshdup.py Z3xZ6_1_1      exit=0  478s
+gate_su5_bound/d2_osc10.py                 exit=0  280s
+gate_su5_bound/d5_excluded.py              exit=0  498s
+gate_su5_bound/d5_keycount.py              exit=0  45s
+gate_su5_bound/d6_pattern_recount.py Z2xZ4_1_1 exit=0  387s
+gate_su5_bound/d6_pattern_recount.py Z3xZ6_1_1 exit=0  216s
+gate_su5_bound/d8_alltwists.py             exit=0  1s
+gate_su5_bound/d8_classwide.py             exit=0  4s
+gate_su5_bound/d9_comarks.py               exit=0  20s
+gate_su5_construction/g2_classes.py        exit=0  8s
+gate_su5_construction/g4_lift.py           exit=0  22s
+su5_construction/s0_invariants.py          exit=0  26s
+su5_construction/s2_sizing.py              exit=0  2s
+--- two-class re-enumeration (referee standard) ---
+two_classes/paperA_two_classes_enum.py     exit=0  760s
+--- root_lift (signature, scoped) ---
+root_lift/rl_a_centralizer.py              exit=0  46s
+root_lift/rl_b_data.py                     exit=0  1084s
+root_lift/rl_c_samefp.py                   exit=0  745s
+root_lift/rl_d_projection.py               exit=0  1044s
+--- comparison against results_deposited/ ---
+regeneration/compare_to_deposited.py       exit=1
+--- claim map ---
+regeneration/claims_check.py               exit=0
+DONE
+gate_su5_construction/g8c_doubled_smvalid.py exit=0  1s
+root_lift/rl_e_summary.py                  exit=0  1s

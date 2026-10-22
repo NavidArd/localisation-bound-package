@@ -1,0 +1,4118 @@
+
+  ###########################################################################
+  #  The C++ Orbifolder                                                     #
+  #  Version: 1.2.1                                                         #
+  #  by H.P. Nilles, S. Ramos-Sanchez, P.K.S. Vaudrevange and A. Wingerter  #
+  ###########################################################################
+
+
+  
+/> /CB1041> /CB1041/spectrum> 
+    F_1
+  sector (k,l)        : (0, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (0, 0, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,   -2,   -2,    0,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 0, 0, 0, -1, -1),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (0, 0, 2)
+  field no.           : 15
+
+
+    F_2
+  sector (k,l)        : (0, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (0, 0, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,   -2,    2,    0,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 0, 0, 0, -1, 1),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (0, 0, 2)
+  field no.           : 16
+
+
+    F_3
+  sector (k,l)        : (0, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (0, 0, 0)
+
+  representation      : (  1,  1,  8_v,  1,  2)_l  U(1): (    2,    0,    0,    0,    0,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 0, 0, 0, 0, 0),  (-1/2, 1/2, -1/2, 1/2, -1/2, -1/2, -1/2, -1/2)
+  right-moving q_sh   : (0, 0, -1, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (0, 0, 2)
+  field no.           : 17
+
+
+    F_4
+  sector (k,l)        : (0, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (0, 0, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (   -4,    0,    0,    0,    0,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 0, 0, 0, 0, 0),  (0, 0, 0, -1, 1, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (0, 0, 2)
+  field no.           : 18
+
+
+    F_5
+  sector (k,l)        : (0, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (0, 0, 0)
+
+  representation      : ( -3,  2,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,   -1,    0,    2)
+
+  left-moving p_sh    : (0, 0, 1, -1, 0, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (0, 0, 2)
+  field no.           : 19
+
+
+    F_6
+  sector (k,l)        : (0, 1)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (0, 1, 0)
+
+  representation      : (  3,  1,  1,  2,  1)_l  U(1): (    0,    0,    0,    0, -2/3,    0,    2)
+
+  left-moving p_sh    : (-1/3, 2/3, 2/3, -1/3, -1/3, 0, 0, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -5/6, 0, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (1, 0, 1)
+  field no.           : 27
+
+
+    F_7
+  sector (k,l)        : (0, 1)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (0, 1, 0)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (    0,    0,    0,    0, -2/3,    0,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, -1/3, -1/3, 0, 0, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -5/6, 0, -1/6)
+  oscillators         : -a_( -1/6)^(-3) -a_( -1/6)^(-3) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (1, 0, 3)
+  field no.           : 29
+
+
+    F_8
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (0, 2, 0)
+
+  representation      : (  3,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  2/3,    0,    0)
+
+  left-moving p_sh    : (-2/3, 1/3, 1/3, 1/3, 1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : -a_( -1/3)^(-3) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 0, 1)
+  field no.           : 31
+
+
+    F_9
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (0, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  2/3,    0,   -4)
+
+  left-moving p_sh    : (-2/3, -2/3, -2/3, 1/3, 1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 1, 0)
+  field no.           : 33
+
+
+    F_10
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (0, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,   -2,  2/3,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 1/3, 1/3, 0, 0, -1),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 1, 0)
+  field no.           : 34
+
+
+    F_11
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (0, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    2,  2/3,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 1/3, 1/3, 0, 0, 1),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 1, 0)
+  field no.           : 35
+
+
+    F_12
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (0, 2, 0)
+
+  representation      : (  3,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  2/3,    0,    0)
+
+  left-moving p_sh    : (-2/3, 1/3, 1/3, 1/3, 1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : -a_( -1/3)^(-3) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 1, 3)
+  field no.           : 39
+
+
+    F_13
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (0, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  2/3,    0,   -4)
+
+  left-moving p_sh    : (-2/3, -2/3, -2/3, 1/3, 1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 2, 0)
+  field no.           : 41
+
+
+    F_14
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (0, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,   -2,  2/3,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 1/3, 1/3, 0, 0, -1),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 2, 0)
+  field no.           : 42
+
+
+    F_15
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (0, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    2,  2/3,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 1/3, 1/3, 0, 0, 1),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 2, 0)
+  field no.           : 43
+
+
+    F_16
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (0, 2, 0)
+
+  representation      : (  3,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  2/3,    0,    0)
+
+  left-moving p_sh    : (-2/3, 1/3, 1/3, 1/3, 1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : -a_( -1/3)^(-3) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 2, 3)
+  field no.           : 47
+
+
+    F_17
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 1, 0, 0, 0, 1)
+  space group charges : (0, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  2/3,    0,   -4)
+
+  left-moving p_sh    : (-2/3, -2/3, -2/3, 1/3, 1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 3, 0)
+  field no.           : 49
+
+
+    F_18
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 1, 0, 0, 0, 1)
+  space group charges : (0, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,   -2,  2/3,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 1/3, 1/3, 0, 0, -1),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 3, 0)
+  field no.           : 50
+
+
+    F_19
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 1, 0, 0, 0, 1)
+  space group charges : (0, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    2,  2/3,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 1/3, 1/3, 0, 0, 1),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 3, 0)
+  field no.           : 51
+
+
+    F_20
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 1, 0, 0, 0, 1)
+  space group charges : (0, 2, 0)
+
+  representation      : (  3,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  2/3,    0,    0)
+
+  left-moving p_sh    : (-2/3, 1/3, 1/3, 1/3, 1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : -a_( -1/3)^(-3) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 3, 3)
+  field no.           : 55
+
+
+    F_21
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 2, 0, 0, 0, 1)
+  space group charges : (0, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  2/3,    0,   -4)
+
+  left-moving p_sh    : (-2/3, -2/3, -2/3, 1/3, 1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 4, 0)
+  field no.           : 57
+
+
+    F_22
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 2, 0, 0, 0, 1)
+  space group charges : (0, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,   -2,  2/3,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 1/3, 1/3, 0, 0, -1),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 4, 0)
+  field no.           : 58
+
+
+    F_23
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 2, 0, 0, 0, 1)
+  space group charges : (0, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    2,  2/3,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 1/3, 1/3, 0, 0, 1),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 4, 0)
+  field no.           : 59
+
+
+    F_24
+  sector (k,l)        : (0, 2)
+  fixed point n_a     : (0, 2, 0, 0, 0, 1)
+  space group charges : (0, 2, 0)
+
+  representation      : (  3,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  2/3,    0,    0)
+
+  left-moving p_sh    : (-2/3, 1/3, 1/3, 1/3, 1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, 0, -1/3)
+  oscillators         : -a_( -1/3)^(-3) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (2, 4, 3)
+  field no.           : 63
+
+
+    F_25
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (    0,    0,   -2,    0,    0,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 0, 0, 0, -1, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 0, 0)
+  field no.           : 65
+
+
+    F_26
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (1, 0, 0, 0, 0, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : (  3,  1,  1,  2,  1)_l  U(1): (    0,    0,    0,    0,    0,    0,   -2)
+
+  left-moving p_sh    : (-1, 0, 0, 0, 0, 0, 0, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 2/3, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 1, 0)
+  field no.           : 67
+
+
+    F_27
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (1, 0, 0, 0, 0, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (    0,    0,   -2,    0,    0,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 0, 0, 0, -1, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 1, 2)
+  field no.           : 69
+
+
+    F_28
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (1, 0, 0, 0, 0, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : (  1,  2,  1,  2,  1)_l  U(1): (    0,    0,    0,    0,    1,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 0, 1, 0, 0, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/3, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 1, 4)
+  field no.           : 71
+
+
+    F_29
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (0, 0, 0, 0, 1, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : (  1,  2,  1,  2,  1)_l  U(1): (    0,    0,    0,    0,   -1,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1, 0, 0, 0, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 2/3, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 2, 0)
+  field no.           : 73
+
+
+    F_30
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (0, 0, 0, 0, 1, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (    0,    0,   -2,    0,    0,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 0, 0, 0, -1, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 2, 1)
+  field no.           : 74
+
+
+    F_31
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (1, 0, 0, 0, 1, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : (  3,  1,  1,  2,  1)_l  U(1): (    0,    0,    0,    0,    0,    0,   -2)
+
+  left-moving p_sh    : (-1, 0, 0, 0, 0, 0, 0, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 2/3, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 3, 0)
+  field no.           : 77
+
+
+    F_32
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (1, 0, 0, 0, 1, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : (  1,  2,  1,  2,  1)_l  U(1): (    0,    0,    0,    0,   -1,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1, 0, 0, 0, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 2/3, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 3, 2)
+  field no.           : 79
+
+
+    F_33
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (1, 0, 0, 0, 1, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (    0,    0,   -2,    0,    0,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 0, 0, 0, -1, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 3, 4)
+  field no.           : 81
+
+
+    F_34
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (1, 0, 0, 0, 1, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (    0,    0,    0,   -2,    0,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 0, 0, 0, 0, -1),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 3, 6)
+  field no.           : 83
+
+
+    F_35
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (1, 0, 0, 0, 1, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (    0,    0,    0,    2,    0,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 0, 0, 0, 0, 1),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 3, 6)
+  field no.           : 84
+
+
+    F_36
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (1, 0, 0, 0, 1, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (    0,    0,    2,    0,    0,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 0, 0, 0, 1, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 3, 8)
+  field no.           : 87
+
+
+    F_37
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (1, 0, 0, 0, 1, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : (  1,  2,  1,  2,  1)_l  U(1): (    0,    0,    0,    0,    1,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 0, 1, 0, 0, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/3, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 3, 10)
+  field no.           : 89
+
+
+    F_38
+  sector (k,l)        : (0, 3)
+  fixed point n_a     : (1, 0, 0, 0, 1, 0)
+  space group charges : (0, 3, 0)
+
+  representation      : ( -3,  1,  1,  2,  1)_l  U(1): (    0,    0,    0,    0,    0,    0,    2)
+
+  left-moving p_sh    : (0, 0, 1, 0, 0, 0, 0, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, 0, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/3, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (3, 3, 12)
+  field no.           : 91
+
+
+    F_39
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (0, 4, 0)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0, -2/3,    0,    0)
+
+  left-moving p_sh    : (-1/3, -1/3, 2/3, -1/3, -1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : -a_( -1/3)^(-1) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 0, 0)
+  field no.           : 93
+
+
+    F_40
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (0, 4, 0)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  1/3,    0,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, -1/3, 2/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : -a_( -1/3)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 0, 1)
+  field no.           : 94
+
+
+    F_41
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (0, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    2,    0, -2/3,    0,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, -1/3, -1/3, 0, 1, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 1, 1)
+  field no.           : 99
+
+
+    F_42
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (0, 4, 0)
+
+  representation      : (  3,  2,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  1/3,    0,    2)
+
+  left-moving p_sh    : (-1/3, 2/3, 2/3, -1/3, 2/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 1, 1)
+  field no.           : 100
+
+
+    F_43
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (0, 4, 0)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0, -2/3,    0,    0)
+
+  left-moving p_sh    : (-1/3, -1/3, 2/3, -1/3, -1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : -a_( -1/3)^(-1) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 1, 2)
+  field no.           : 101
+
+
+    F_44
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (0, 4, 0)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  1/3,    0,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, -1/3, 2/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : -a_( -1/3)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 1, 3)
+  field no.           : 102
+
+
+    F_45
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (0, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    2,    0, -2/3,    0,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, -1/3, -1/3, 0, 1, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 2, 1)
+  field no.           : 107
+
+
+    F_46
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (0, 4, 0)
+
+  representation      : (  3,  2,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  1/3,    0,    2)
+
+  left-moving p_sh    : (-1/3, 2/3, 2/3, -1/3, 2/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 2, 1)
+  field no.           : 108
+
+
+    F_47
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (0, 4, 0)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0, -2/3,    0,    0)
+
+  left-moving p_sh    : (-1/3, -1/3, 2/3, -1/3, -1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : -a_( -1/3)^(-1) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 2, 2)
+  field no.           : 109
+
+
+    F_48
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (0, 4, 0)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  1/3,    0,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, -1/3, 2/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : -a_( -1/3)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 2, 3)
+  field no.           : 110
+
+
+    F_49
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 1)
+  space group charges : (0, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    2,    0, -2/3,    0,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, -1/3, -1/3, 0, 1, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 3, 1)
+  field no.           : 115
+
+
+    F_50
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 1)
+  space group charges : (0, 4, 0)
+
+  representation      : (  3,  2,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  1/3,    0,    2)
+
+  left-moving p_sh    : (-1/3, 2/3, 2/3, -1/3, 2/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 3, 1)
+  field no.           : 116
+
+
+    F_51
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 1)
+  space group charges : (0, 4, 0)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0, -2/3,    0,    0)
+
+  left-moving p_sh    : (-1/3, -1/3, 2/3, -1/3, -1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : -a_( -1/3)^(-1) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 3, 2)
+  field no.           : 117
+
+
+    F_52
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 1)
+  space group charges : (0, 4, 0)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  1/3,    0,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, -1/3, 2/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : -a_( -1/3)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 3, 3)
+  field no.           : 118
+
+
+    F_53
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 2, 0, 0, 0, 1)
+  space group charges : (0, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (    0,    0,    2,    0, -2/3,    0,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, -1/3, -1/3, 0, 1, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 4, 1)
+  field no.           : 123
+
+
+    F_54
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 2, 0, 0, 0, 1)
+  space group charges : (0, 4, 0)
+
+  representation      : (  3,  2,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  1/3,    0,    2)
+
+  left-moving p_sh    : (-1/3, 2/3, 2/3, -1/3, 2/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 4, 1)
+  field no.           : 124
+
+
+    F_55
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 2, 0, 0, 0, 1)
+  space group charges : (0, 4, 0)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (    0,    0,    0,    0, -2/3,    0,    0)
+
+  left-moving p_sh    : (-1/3, -1/3, 2/3, -1/3, -1/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : -a_( -1/3)^(-1) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 4, 2)
+  field no.           : 125
+
+
+    F_56
+  sector (k,l)        : (0, 4)
+  fixed point n_a     : (0, 2, 0, 0, 0, 1)
+  space group charges : (0, 4, 0)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (    0,    0,    0,    0,  1/3,    0,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, -1/3, 2/3, 0, 0, 0),  (0, 0, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, 0, -2/3)
+  oscillators         : -a_( -1/3)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (4, 4, 3)
+  field no.           : 126
+
+
+    F_57
+  sector (k,l)        : (0, 5)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (0, 5, 0)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (    0,    0,    0,    0, -4/3,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, -2/3, -2/3, 0, 0, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/6, 0, -5/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (5, 0, 1)
+  field no.           : 129
+
+
+    F_58
+  sector (k,l)        : (0, 5)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (0, 5, 0)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (    0,    0,    0,    0,  2/3,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 1/3, 1/3, 0, 0, 0),  (-1/2, -1/2, 0, 0, 0, 0, 0, 0)
+  right-moving q_sh   : (0, -1/6, 0, -5/6)
+  oscillators         : -a_( -1/6)^(-1) -a_( -1/6)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (5, 0, 2)
+  field no.           : 130
+
+
+    F_59
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (1, 0, 0)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): ( -4/3, -1/3, -1/3,   -1, -2/3,  2/3,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -5/6, 1/6, -1/6, -1/6, -1/2),  (0, 0, 0, -1/3, 1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (6, 0, 1)
+  field no.           : 133
+
+
+    F_60
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 1, 0, 0)
+  space group charges : (1, 0, 1)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): ( -4/3,   -1, -1/3,    1, -2/3,    0,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -5/6, 1/6, -1/2, -1/6, 1/2),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (6, 1, 1)
+  field no.           : 137
+
+
+    F_61
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 1, 0, 0)
+  space group charges : (1, 0, 1)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): ( -4/3,    1, -1/3,   -1, -2/3,    0,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -5/6, 1/6, 1/2, -1/6, -1/2),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (6, 1, 2)
+  field no.           : 138
+
+
+    F_62
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 0)
+  space group charges : (1, 0, 2)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): ( -4/3,  1/3, -1/3,    1, -2/3, -2/3,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -5/6, 1/6, 1/6, -1/6, 1/2),  (0, 0, 0, -1/3, 1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (6, 2, 1)
+  field no.           : 142
+
+
+    F_63
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (1, 0, 0)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): ( -4/3, -1/3, -1/3,   -1, -2/3,  2/3,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -5/6, 1/6, -1/6, -1/6, -1/2),  (0, 0, 0, -1/3, 1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (6, 3, 1)
+  field no.           : 145
+
+
+    F_64
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (1, 0, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3, -4/3,  2/3,    0, -2/3,  2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, -1/3, -1/3, -2/3, 1/3, 0),  (0, 0, 0, -1/3, 1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (6, 3, 3)
+  field no.           : 147
+
+
+    F_65
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (1, 0, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3,  2/3, -4/3,    0, -2/3,  2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, -1/3, -1/3, 1/3, -2/3, 0),  (0, 0, 0, -1/3, 1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (6, 3, 4)
+  field no.           : 148
+
+
+    F_66
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 1, 0, 1)
+  space group charges : (1, 0, 1)
+
+  representation      : (  3,  2,  1,  1,  1)_l  U(1): ( -4/3,    0,  2/3,    0,  1/3,    0,    0)
+
+  left-moving p_sh    : (-2/3, 1/3, 1/3, -1/3, 2/3, 0, 1/3, 0),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (6, 4, 1)
+  field no.           : 152
+
+
+    F_67
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 1, 0, 1)
+  space group charges : (1, 0, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  8/3,    0,  2/3,    0, -2/3,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, -1/3, -1/3, 0, 1/3, 0),  (0, 0, 0, 2/3, -2/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (6, 4, 1)
+  field no.           : 153
+
+
+    F_68
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 1, 0, 1)
+  space group charges : (1, 0, 1)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): ( -4/3,   -1, -1/3,    1, -2/3,    0,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -5/6, 1/6, -1/2, -1/6, 1/2),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (6, 4, 2)
+  field no.           : 154
+
+
+    F_69
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 1, 0, 1)
+  space group charges : (1, 0, 1)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): ( -4/3,    1, -1/3,   -1, -2/3,    0,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -5/6, 1/6, 1/2, -1/6, -1/2),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (6, 4, 3)
+  field no.           : 155
+
+
+    F_70
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 1, 0, 1)
+  space group charges : (1, 0, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3,    0,  2/3,    0, -2/3,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, -1/3, -1/3, 0, 1/3, 0),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : -a_( -1/3)^2 
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (6, 4, 6)
+  field no.           : 158
+
+
+    F_71
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 1)
+  space group charges : (1, 0, 2)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): ( -4/3,  1/3, -1/3,    1, -2/3, -2/3,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -5/6, 1/6, 1/6, -1/6, 1/2),  (0, 0, 0, -1/3, 1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (6, 5, 1)
+  field no.           : 162
+
+
+    F_72
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 1)
+  space group charges : (1, 0, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3, -2/3, -4/3,    0, -2/3, -2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, -1/3, -1/3, -1/3, -2/3, 0),  (0, 0, 0, -1/3, 1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (6, 5, 3)
+  field no.           : 164
+
+
+    F_73
+  sector (k,l)        : (1, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 1)
+  space group charges : (1, 0, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3,  4/3,  2/3,    0, -2/3, -2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, -1/3, -1/3, 2/3, 1/3, 0),  (0, 0, 0, -1/3, 1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, 0, -2/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (6, 5, 4)
+  field no.           : 165
+
+
+    F_74
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (1, 4, 0)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): ( -4/3, -1/3, -1/3,    1, -1/3,  2/3,   -1)
+
+  left-moving p_sh    : (-1/2, -1/2, 1/2, -1/6, -1/6, -1/6, -1/6, 1/2),  (0, 0, 0, -1/3, 1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (10, 0, 0)
+  field no.           : 242
+
+
+    F_75
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (1, 4, 0)
+
+  representation      : (  1,  1,  1,  2,  2)_l  U(1): (  2/3,  2/3,  2/3,    0,  2/3, -1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, 1/3, 1/3, 0),  (-1/2, -1/2, -1/2, 1/6, -1/6, 1/6, -1/6, -1/2)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (10, 0, 2)
+  field no.           : 244
+
+
+    F_76
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (1, 4, 0)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): ( -4/3, -1/3, -1/3,    1, -1/3,  2/3,   -1)
+
+  left-moving p_sh    : (-1/2, -1/2, 1/2, -1/6, -1/6, -1/6, -1/6, 1/2),  (0, 0, 0, -1/3, 1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (10, 1, 0)
+  field no.           : 245
+
+
+    F_77
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (1, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3, -4/3, -4/3,    0,  2/3,  2/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, -2/3, -2/3, 0),  (0, 0, 0, -1/3, 1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (10, 1, 3)
+  field no.           : 248
+
+
+    F_78
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (1, 4, 0)
+
+  representation      : (  1,  1,  8_c,  1,  1)_l  U(1): (  2/3,  2/3,  2/3,    0,  2/3, -1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, 1/3, 1/3, 0),  (-1/2, 1/2, -1/2, 1/6, -1/6, 1/6, -1/6, 1/2)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (10, 1, 3)
+  field no.           : 249
+
+
+    F_79
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (1, 4, 0)
+
+  representation      : (  1,  1,  1,  2,  2)_l  U(1): (  2/3,  2/3,  2/3,    0,  2/3, -1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, 1/3, 1/3, 0),  (-1/2, -1/2, -1/2, 1/6, -1/6, 1/6, -1/6, -1/2)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (10, 1, 4)
+  field no.           : 250
+
+
+    F_80
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (1, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3,  2/3,  2/3,    0,  2/3, -4/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, 1/3, 1/3, 0),  (0, 0, 0, -1/3, 1/3, 2/3, -2/3, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (10, 1, 5)
+  field no.           : 251
+
+
+    F_81
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (1, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  8/3,  2/3,  2/3,    0,  2/3,  2/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, 1/3, 1/3, 0),  (0, 0, 0, 2/3, -2/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (10, 1, 6)
+  field no.           : 252
+
+
+    F_82
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (1, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3,  2/3,  2/3,    0,  2/3,  2/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, 1/3, 1/3, 0),  (0, 0, 0, -1/3, 1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : -a_( -1/3)^2 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (10, 1, 7)
+  field no.           : 253
+
+
+    F_83
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 0, 0, 1, 0, 0)
+  space group charges : (1, 4, 1)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): ( -4/3,   -1, -1/3,   -1, -1/3,    0,   -1)
+
+  left-moving p_sh    : (-1/2, -1/2, 1/2, -1/6, -1/6, -1/2, -1/6, -1/2),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (10, 2, 0)
+  field no.           : 254
+
+
+    F_84
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 0, 0, 1, 0, 0)
+  space group charges : (1, 4, 1)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): ( -4/3,    1, -1/3,    1, -1/3,    0,   -1)
+
+  left-moving p_sh    : (-1/2, -1/2, 1/2, -1/6, -1/6, 1/2, -1/6, 1/2),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (10, 2, 1)
+  field no.           : 255
+
+
+    F_85
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 0)
+  space group charges : (1, 4, 1)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): ( -4/3,   -1, -1/3,   -1, -1/3,    0,   -1)
+
+  left-moving p_sh    : (-1/2, -1/2, 1/2, -1/6, -1/6, -1/2, -1/6, -1/2),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (10, 3, 0)
+  field no.           : 258
+
+
+    F_86
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 0)
+  space group charges : (1, 4, 1)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): ( -4/3,    1, -1/3,    1, -1/3,    0,   -1)
+
+  left-moving p_sh    : (-1/2, -1/2, 1/2, -1/6, -1/6, 1/2, -1/6, 1/2),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (10, 3, 1)
+  field no.           : 259
+
+
+    F_87
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 0)
+  space group charges : (1, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3,   -2,  2/3,    0,  2/3,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, -1, 1/3, 0),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (10, 3, 5)
+  field no.           : 264
+
+
+    F_88
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 0)
+  space group charges : (1, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  8/3,    0, -4/3,    0,  2/3,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, 0, -2/3, 0),  (0, 0, 0, 2/3, -2/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (10, 3, 6)
+  field no.           : 265
+
+
+    F_89
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 0)
+  space group charges : (1, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3,    0,  2/3,   -2,  2/3,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, 0, 1/3, -1),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (10, 3, 6)
+  field no.           : 266
+
+
+    F_90
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 0)
+  space group charges : (1, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3,    0,  2/3,    2,  2/3,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, 0, 1/3, 1),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (10, 3, 6)
+  field no.           : 267
+
+
+    F_91
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 0)
+  space group charges : (1, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3,    2,  2/3,    0,  2/3,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, 1, 1/3, 0),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (10, 3, 7)
+  field no.           : 268
+
+
+    F_92
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 0)
+  space group charges : (1, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3,    0, -4/3,    0,  2/3,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, 0, -2/3, 0),  (0, 0, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : -a_( -1/3)^2 
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (10, 3, 9)
+  field no.           : 270
+
+
+    F_93
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 0, 0, 2, 0, 0)
+  space group charges : (1, 4, 2)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): ( -4/3,  1/3, -1/3,   -1, -1/3, -2/3,   -1)
+
+  left-moving p_sh    : (-1/2, -1/2, 1/2, -1/6, -1/6, 1/6, -1/6, -1/2),  (0, 0, 0, -1/3, 1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (10, 4, 0)
+  field no.           : 271
+
+
+    F_94
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 0, 0, 2, 0, 0)
+  space group charges : (1, 4, 2)
+
+  representation      : (  1,  1,  1,  2,  2)_l  U(1): (  2/3, -2/3,  2/3,    0,  2/3,  1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, -1/3, 1/3, 0),  (-1/2, -1/2, -1/2, 1/6, -1/6, -1/6, 1/6, -1/2)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (10, 4, 2)
+  field no.           : 273
+
+
+    F_95
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (1, 4, 2)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): ( -4/3,  1/3, -1/3,   -1, -1/3, -2/3,   -1)
+
+  left-moving p_sh    : (-1/2, -1/2, 1/2, -1/6, -1/6, 1/6, -1/6, -1/2),  (0, 0, 0, -1/3, 1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (10, 5, 0)
+  field no.           : 274
+
+
+    F_96
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (1, 4, 2)
+
+  representation      : (  1,  1,  1,  2,  2)_l  U(1): (  2/3, -2/3,  2/3,    0,  2/3,  1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, -1/3, 1/3, 0),  (-1/2, -1/2, -1/2, 1/6, -1/6, -1/6, 1/6, -1/2)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (10, 5, 3)
+  field no.           : 277
+
+
+    F_97
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (1, 4, 2)
+
+  representation      : (  1,  1,  8_c,  1,  1)_l  U(1): (  2/3, -2/3,  2/3,    0,  2/3,  1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, -1/3, 1/3, 0),  (-1/2, 1/2, -1/2, 1/6, -1/6, -1/6, 1/6, 1/2)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (10, 5, 4)
+  field no.           : 278
+
+
+    F_98
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (1, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3,  4/3, -4/3,    0,  2/3, -2/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, 2/3, -2/3, 0),  (0, 0, 0, -1/3, 1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (10, 5, 4)
+  field no.           : 279
+
+
+    F_99
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (1, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3, -2/3,  2/3,    0,  2/3,  4/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, -1/3, 1/3, 0),  (0, 0, 0, -1/3, 1/3, -2/3, 2/3, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (10, 5, 5)
+  field no.           : 280
+
+
+    F_100
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (1, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  8/3, -2/3,  2/3,    0,  2/3, -2/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, -1/3, 1/3, 0),  (0, 0, 0, 2/3, -2/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (10, 5, 6)
+  field no.           : 281
+
+
+    F_101
+  sector (k,l)        : (1, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (1, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -4/3, -2/3,  2/3,    0,  2/3, -2/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 1/3, 1/3, -1/3, 1/3, 0),  (0, 0, 0, -1/3, 1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -2/3, 0)
+  oscillators         : -a_( -1/3)^2 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (10, 5, 7)
+  field no.           : 282
+
+
+    F_102
+  sector (k,l)        : (1, 5)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (1, 5, 0)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): ( -4/3,  2/3,  2/3,    0,    0,  2/3,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, 0, 0, 1/3, 1/3, 0),  (-1/2, -1/2, 0, -1/3, 1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/6, -2/3, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (11, 0, 0)
+  field no.           : 283
+
+
+    F_103
+  sector (k,l)        : (1, 5)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (1, 5, 0)
+
+  representation      : (  1,  2,  1,  1,  2)_l  U(1): (  2/3, -1/3, -1/3,   -1,    0, -1/3,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/2, 1/2, -1/6, -1/6, -1/2),  (0, 0, -1/2, 1/6, -1/6, 1/6, -1/6, -1/2)
+  right-moving q_sh   : (0, -1/6, -2/3, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (11, 0, 0)
+  field no.           : 284
+
+
+    F_104
+  sector (k,l)        : (1, 5)
+  fixed point n_a     : (0, 0, 0, 1, 0, 0)
+  space group charges : (1, 5, 1)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): ( -4/3,    0, -4/3,    0,    0,    0,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, 0, 0, 0, -2/3, 0),  (-1/2, -1/2, 0, -1/3, 1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/6, -2/3, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (11, 1, 0)
+  field no.           : 285
+
+
+    F_105
+  sector (k,l)        : (1, 5)
+  fixed point n_a     : (0, 0, 0, 2, 0, 0)
+  space group charges : (1, 5, 2)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): ( -4/3, -2/3,  2/3,    0,    0, -2/3,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, 0, 0, -1/3, 1/3, 0),  (-1/2, -1/2, 0, -1/3, 1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/6, -2/3, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (11, 2, 0)
+  field no.           : 286
+
+
+    F_106
+  sector (k,l)        : (1, 5)
+  fixed point n_a     : (0, 0, 0, 2, 0, 0)
+  space group charges : (1, 5, 2)
+
+  representation      : (  1,  2,  1,  1,  2)_l  U(1): (  2/3,  1/3, -1/3,    1,    0,  1/3,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/2, 1/2, 1/6, -1/6, 1/2),  (0, 0, -1/2, 1/6, -1/6, -1/6, 1/6, -1/2)
+  right-moving q_sh   : (0, -1/6, -2/3, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (11, 2, 0)
+  field no.           : 287
+
+
+    F_107
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (2, 0, 0)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (  4/3, -2/3, -2/3,    0,  2/3, -2/3,    0)
+
+  left-moving p_sh    : (-1/3, -1/3, 2/3, 1/3, 1/3, -1/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (12, 0, 0)
+  field no.           : 288
+
+
+    F_108
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (2, 0, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  1/3,  1/3,   -1, -1/3, -2/3,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, 1/6, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : -a_( -1/3)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (12, 0, 2)
+  field no.           : 290
+
+
+    F_109
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 1, 0, 0)
+  space group charges : (2, 0, 1)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (  4/3,  2/3, -2/3,    0,  2/3,  2/3,    0)
+
+  left-moving p_sh    : (-1/3, -1/3, 2/3, 1/3, 1/3, 1/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (12, 1, 0)
+  field no.           : 291
+
+
+    F_110
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 1, 0, 0)
+  space group charges : (2, 0, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -1/3,  1/3,    1, -1/3,  2/3,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, -1/6, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : -a_( -1/3)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (12, 1, 2)
+  field no.           : 293
+
+
+    F_111
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 0)
+  space group charges : (2, 0, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,    0, -2/3,    0, -4/3,    0,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, -2/3, -2/3, 0, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (12, 2, 0)
+  field no.           : 294
+
+
+    F_112
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 0)
+  space group charges : (2, 0, 2)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (  4/3,    0,  4/3,    0,  2/3,    0,    0)
+
+  left-moving p_sh    : (-1/3, -1/3, 2/3, 1/3, 1/3, 0, 2/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (12, 2, 0)
+  field no.           : 295
+
+
+    F_113
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 0)
+  space group charges : (2, 0, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,   -1,  1/3,   -1, -1/3,    0,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, -1/2, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : -a_( -1/3)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (12, 2, 3)
+  field no.           : 298
+
+
+    F_114
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 0)
+  space group charges : (2, 0, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,    1,  1/3,    1, -1/3,    0,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, 1/2, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : -a_( -1/3)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (12, 2, 4)
+  field no.           : 299
+
+
+    F_115
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (2, 0, 0)
+
+  representation      : (  3,  1,  1,  1,  1)_l  U(1): (  4/3,  1/3,  1/3,    1, -1/3, -2/3,   -1)
+
+  left-moving p_sh    : (-5/6, 1/6, 1/6, -1/6, -1/6, 1/6, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (12, 3, 0)
+  field no.           : 300
+
+
+    F_116
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (2, 0, 0)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (  4/3, -2/3, -2/3,    0,  2/3, -2/3,    0)
+
+  left-moving p_sh    : (-1/3, -1/3, 2/3, 1/3, 1/3, -1/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (12, 3, 3)
+  field no.           : 303
+
+
+    F_117
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (2, 0, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  1/3,  1/3,   -1, -1/3, -2/3,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, 1/6, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : -a_( -1/3)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (12, 3, 5)
+  field no.           : 305
+
+
+    F_118
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 1, 0, 1)
+  space group charges : (2, 0, 1)
+
+  representation      : (  3,  1,  1,  1,  1)_l  U(1): (  4/3, -1/3,  1/3,   -1, -1/3,  2/3,   -1)
+
+  left-moving p_sh    : (-5/6, 1/6, 1/6, -1/6, -1/6, -1/6, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (12, 4, 0)
+  field no.           : 306
+
+
+    F_119
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 1, 0, 1)
+  space group charges : (2, 0, 1)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (  4/3,  2/3, -2/3,    0,  2/3,  2/3,    0)
+
+  left-moving p_sh    : (-1/3, -1/3, 2/3, 1/3, 1/3, 1/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (12, 4, 3)
+  field no.           : 309
+
+
+    F_120
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 1, 0, 1)
+  space group charges : (2, 0, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -1/3,  1/3,    1, -1/3,  2/3,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, -1/6, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : -a_( -1/3)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (12, 4, 5)
+  field no.           : 311
+
+
+    F_121
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 1)
+  space group charges : (2, 0, 2)
+
+  representation      : (  3,  1,  1,  1,  1)_l  U(1): (  4/3,   -1,  1/3,    1, -1/3,    0,   -1)
+
+  left-moving p_sh    : (-5/6, 1/6, 1/6, -1/6, -1/6, -1/2, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (12, 5, 0)
+  field no.           : 312
+
+
+    F_122
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 1)
+  space group charges : (2, 0, 2)
+
+  representation      : (  3,  1,  1,  1,  1)_l  U(1): (  4/3,    1,  1/3,   -1, -1/3,    0,   -1)
+
+  left-moving p_sh    : (-5/6, 1/6, 1/6, -1/6, -1/6, 1/2, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (12, 5, 1)
+  field no.           : 313
+
+
+    F_123
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 1)
+  space group charges : (2, 0, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,    0, -2/3,    0, -4/3,    0,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, -2/3, -2/3, 0, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (12, 5, 2)
+  field no.           : 314
+
+
+    F_124
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 1)
+  space group charges : (2, 0, 2)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (  4/3,    0,  4/3,    0,  2/3,    0,    0)
+
+  left-moving p_sh    : (-1/3, -1/3, 2/3, 1/3, 1/3, 0, 2/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (12, 5, 2)
+  field no.           : 315
+
+
+    F_125
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 1)
+  space group charges : (2, 0, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,   -1,  1/3,   -1, -1/3,    0,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, -1/2, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : -a_( -1/3)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (12, 5, 7)
+  field no.           : 321
+
+
+    F_126
+  sector (k,l)        : (2, 0)
+  fixed point n_a     : (0, 0, 0, 2, 0, 1)
+  space group charges : (2, 0, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,    1,  1/3,    1, -1/3,    0,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, 1/2, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, 0, -1/3, -2/3)
+  oscillators         : -a_( -1/3)^3 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (12, 5, 8)
+  field no.           : 322
+
+
+    F_127
+  sector (k,l)        : (2, 2)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (2, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -2/3, -2/3,    0,  4/3, -2/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 2/3, 2/3, -1/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -2/3, -1/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (14, 0, 2)
+  field no.           : 330
+
+
+    F_128
+  sector (k,l)        : (2, 2)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (2, 2, 0)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (  4/3,  1/3,  1/3,    1,  1/3, -2/3,   -1)
+
+  left-moving p_sh    : (-1/2, -1/2, 1/2, 1/6, 1/6, 1/6, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -2/3, -1/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (14, 1, 0)
+  field no.           : 331
+
+
+    F_129
+  sector (k,l)        : (2, 2)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (2, 2, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -2/3, -2/3,    0,  4/3, -2/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 2/3, 2/3, -1/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -2/3, -1/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (14, 1, 6)
+  field no.           : 338
+
+
+    F_130
+  sector (k,l)        : (2, 2)
+  fixed point n_a     : (0, 0, 0, 1, 0, 0)
+  space group charges : (2, 2, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  2/3, -2/3,    0,  4/3,  2/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 2/3, 2/3, 1/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -2/3, -1/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (14, 2, 2)
+  field no.           : 342
+
+
+    F_131
+  sector (k,l)        : (2, 2)
+  fixed point n_a     : (0, 1, 0, 1, 0, 0)
+  space group charges : (2, 2, 1)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (  4/3, -1/3,  1/3,   -1,  1/3,  2/3,   -1)
+
+  left-moving p_sh    : (-1/2, -1/2, 1/2, 1/6, 1/6, -1/6, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -2/3, -1/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (14, 3, 0)
+  field no.           : 343
+
+
+    F_132
+  sector (k,l)        : (2, 2)
+  fixed point n_a     : (0, 1, 0, 1, 0, 0)
+  space group charges : (2, 2, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  2/3, -2/3,    0,  4/3,  2/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, 2/3, 2/3, 1/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -2/3, -1/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (14, 3, 6)
+  field no.           : 350
+
+
+    F_133
+  sector (k,l)        : (2, 2)
+  fixed point n_a     : (0, 0, 0, 2, 0, 0)
+  space group charges : (2, 2, 2)
+
+  representation      : (  3,  1,  1,  1,  1)_l  U(1): (  4/3,    0, -2/3,    0, -2/3,    0,   -2)
+
+  left-moving p_sh    : (-1, 0, 0, -1/3, -1/3, 0, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, -1/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (14, 4, 0)
+  field no.           : 352
+
+
+    F_134
+  sector (k,l)        : (2, 2)
+  fixed point n_a     : (0, 0, 0, 2, 0, 0)
+  space group charges : (2, 2, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,    0,  4/3,    0,  4/3,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 2/3, 2/3, 0, 2/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, -1/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (14, 4, 0)
+  field no.           : 353
+
+
+    F_135
+  sector (k,l)        : (2, 2)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (2, 2, 2)
+
+  representation      : (  3,  1,  1,  1,  1)_l  U(1): (  4/3,    0, -2/3,    0, -2/3,    0,   -2)
+
+  left-moving p_sh    : (-1, 0, 0, -1/3, -1/3, 0, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, -1/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (14, 5, 0)
+  field no.           : 356
+
+
+    F_136
+  sector (k,l)        : (2, 2)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (2, 2, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,    0,  4/3,    0,  4/3,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, 2/3, 2/3, 0, 2/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, -1/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (14, 5, 0)
+  field no.           : 357
+
+
+    F_137
+  sector (k,l)        : (2, 2)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (2, 2, 2)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (  4/3,   -1,  1/3,    1,  1/3,    0,   -1)
+
+  left-moving p_sh    : (-1/2, -1/2, 1/2, 1/6, 1/6, -1/2, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, -1/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (14, 5, 1)
+  field no.           : 358
+
+
+    F_138
+  sector (k,l)        : (2, 2)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (2, 2, 2)
+
+  representation      : ( -3,  1,  1,  1,  1)_l  U(1): (  4/3,    1,  1/3,   -1,  1/3,    0,   -1)
+
+  left-moving p_sh    : (-1/2, -1/2, 1/2, 1/6, 1/6, 1/2, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, -1/3, 0)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (14, 5, 2)
+  field no.           : 359
+
+
+    F_139
+  sector (k,l)        : (2, 2)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (2, 2, 2)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3,    0, -2/3,    0,  1/3,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, 2/3, 0, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -2/3, -1/3, 0)
+  oscillators         : -a_( -1/3)^1 
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (14, 5, 8)
+  field no.           : 367
+
+
+    F_140
+  sector (k,l)        : (2, 3)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (2, 3, 0)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3, -2/3, -2/3,    0,  2/3,  1/3,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, 1/3, 1/3, -1/3, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, -1/6, 1/6, -1/2)
+  right-moving q_sh   : (0, -1/2, -1/3, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (15, 0, 0)
+  field no.           : 369
+
+
+    F_141
+  sector (k,l)        : (2, 3)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (2, 3, 0)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3,  1/3,  1/3,    1, -1/3,  1/3,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, 1/6, 1/6, 1/2),  (0, 0, -1/2, -1/6, 1/6, -1/6, 1/6, -1/2)
+  right-moving q_sh   : (0, -1/2, -1/3, -1/6)
+  oscillators         : -a_( -1/6)^(-3) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (15, 0, 1)
+  field no.           : 370
+
+
+    F_142
+  sector (k,l)        : (2, 3)
+  fixed point n_a     : (1, 0, 0, 0, 0, 0)
+  space group charges : (2, 3, 0)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3, -2/3, -2/3,    0,  2/3,  1/3,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, 1/3, 1/3, -1/3, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, -1/6, 1/6, -1/2)
+  right-moving q_sh   : (0, -1/2, -1/3, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (15, 1, 0)
+  field no.           : 371
+
+
+    F_143
+  sector (k,l)        : (2, 3)
+  fixed point n_a     : (1, 0, 0, 0, 0, 0)
+  space group charges : (2, 3, 0)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (  4/3,  1/3,  1/3,    1, -1/3, -2/3,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, 1/6, 1/6, 1/2),  (-1/2, -1/2, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/2, -1/3, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 2/3, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (15, 1, 1)
+  field no.           : 372
+
+
+    F_144
+  sector (k,l)        : (2, 3)
+  fixed point n_a     : (1, 0, 0, 0, 0, 0)
+  space group charges : (2, 3, 0)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3,  1/3,  1/3,    1, -1/3,  1/3,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, 1/6, 1/6, 1/2),  (0, 0, -1/2, -1/6, 1/6, -1/6, 1/6, -1/2)
+  right-moving q_sh   : (0, -1/2, -1/3, -1/6)
+  oscillators         : -a_( -1/6)^(-3) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (15, 1, 2)
+  field no.           : 373
+
+
+    F_145
+  sector (k,l)        : (2, 3)
+  fixed point n_a     : (0, -1, 0, 1, 0, 0)
+  space group charges : (2, 3, 1)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3,  2/3, -2/3,    0,  2/3, -1/3,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, 1/3, 1/3, 1/3, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, 1/6, -1/6, -1/2)
+  right-moving q_sh   : (0, -1/2, -1/3, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (15, 2, 0)
+  field no.           : 374
+
+
+    F_146
+  sector (k,l)        : (2, 3)
+  fixed point n_a     : (0, -1, 0, 1, 0, 0)
+  space group charges : (2, 3, 1)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (  4/3, -1/3,  1/3,   -1, -1/3,  2/3,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, -1/6, 1/6, -1/2),  (-1/2, -1/2, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/2, -1/3, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 2/3, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (15, 2, 1)
+  field no.           : 375
+
+
+    F_147
+  sector (k,l)        : (2, 3)
+  fixed point n_a     : (0, -1, 0, 1, 0, 0)
+  space group charges : (2, 3, 1)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3, -1/3,  1/3,   -1, -1/3, -1/3,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, -1/6, 1/6, -1/2),  (0, 0, -1/2, -1/6, 1/6, 1/6, -1/6, -1/2)
+  right-moving q_sh   : (0, -1/2, -1/3, -1/6)
+  oscillators         : -a_( -1/6)^(-3) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (15, 2, 2)
+  field no.           : 376
+
+
+    F_148
+  sector (k,l)        : (2, 3)
+  fixed point n_a     : (1, -2, 0, 2, 0, 0)
+  space group charges : (2, 3, 2)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (  4/3,   -1,  1/3,    1, -1/3,    0,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, -1/2, 1/6, 1/2),  (-1/2, -1/2, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, -1/3, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 2/3, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (15, 4, 0)
+  field no.           : 377
+
+
+    F_149
+  sector (k,l)        : (2, 3)
+  fixed point n_a     : (1, -2, 0, 2, 0, 0)
+  space group charges : (2, 3, 2)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (  4/3,    1,  1/3,   -1, -1/3,    0,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, 1/2, 1/6, -1/2),  (-1/2, -1/2, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/2, -1/3, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 2/3, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (15, 4, 1)
+  field no.           : 378
+
+
+    F_150
+  sector (k,l)        : (2, 3)
+  fixed point n_a     : (0, -4, 0, 4, 0, 0)
+  space group charges : (2, 3, 4)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3,  2/3, -2/3,    0,  2/3, -1/3,   -2)
+
+  left-moving p_sh    : (-1/3, -1/3, -1/3, 1/3, 1/3, 1/3, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, 1/6, -1/6, -1/2)
+  right-moving q_sh   : (0, -1/2, -1/3, -1/6)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (15, 5, 0)
+  field no.           : 379
+
+
+    F_151
+  sector (k,l)        : (2, 3)
+  fixed point n_a     : (0, -4, 0, 4, 0, 0)
+  space group charges : (2, 3, 4)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3, -1/3,  1/3,   -1, -1/3, -1/3,    1)
+
+  left-moving p_sh    : (1/6, 1/6, 1/6, -1/6, -1/6, -1/6, 1/6, -1/2),  (0, 0, -1/2, -1/6, 1/6, 1/6, -1/6, -1/2)
+  right-moving q_sh   : (0, -1/2, -1/3, -1/6)
+  oscillators         : -a_( -1/6)^(-3) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (15, 5, 1)
+  field no.           : 380
+
+
+    F_152
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -2/3,  4/3,    0,    0, -2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, -1/3, 2/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 0, 0)
+  field no.           : 381
+
+
+    F_153
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  4/3, -2/3,    0,    0, -2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 2/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 0, 1)
+  field no.           : 382
+
+
+    F_154
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 1, 0, 0)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -4/3, -2/3,    0,    0,  2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, -2/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 1, 0)
+  field no.           : 383
+
+
+    F_155
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 1, 0, 0)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  2/3,  4/3,    0,    0,  2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 1/3, 2/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 1, 1)
+  field no.           : 384
+
+
+    F_156
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 2, 0, 0)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -8/3,    0, -2/3,    0,    0,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 0, -1/3, 0),  (0, 0, 0, -2/3, 2/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 2, 0)
+  field no.           : 385
+
+
+    F_157
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 2, 0, 0)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,    0, -2/3,    0,    0,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 0, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : -a_( -1/3)^(-2) 
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 2, 1)
+  field no.           : 386
+
+
+    F_158
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3,  1/3,  1/3,   -1,    0, -2/3,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, 1/6, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 3, 0)
+  field no.           : 387
+
+
+    F_159
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -2/3,  4/3,    0,    0, -2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, -1/3, 2/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 3, 1)
+  field no.           : 388
+
+
+    F_160
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 0)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  4/3, -2/3,    0,    0, -2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 2/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 3, 2)
+  field no.           : 389
+
+
+    F_161
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 0)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3, -1/3,  1/3,    1,    0,  2/3,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, -1/6, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 4, 0)
+  field no.           : 390
+
+
+    F_162
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 0)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -4/3, -2/3,    0,    0,  2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, -2/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 4, 1)
+  field no.           : 391
+
+
+    F_163
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 0)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  2/3,  4/3,    0,    0,  2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 1/3, 2/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 4, 2)
+  field no.           : 392
+
+
+    F_164
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3,   -1,  1/3,   -1,    0,    0,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, -1/2, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 5, 0)
+  field no.           : 393
+
+
+    F_165
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3,    1,  1/3,    1,    0,    0,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, 1/2, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 5, 1)
+  field no.           : 394
+
+
+    F_166
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -8/3,    0, -2/3,    0,    0,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 0, -1/3, 0),  (0, 0, 0, -2/3, 2/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 5, 2)
+  field no.           : 395
+
+
+    F_167
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 0)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,    0, -2/3,    0,    0,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 0, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : -a_( -1/3)^(-2) 
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 5, 3)
+  field no.           : 396
+
+
+    F_168
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3,  1/3,  1/3,   -1,    0, -2/3,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, 1/6, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 6, 0)
+  field no.           : 397
+
+
+    F_169
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -2/3,  4/3,    0,    0, -2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, -1/3, 2/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 6, 1)
+  field no.           : 398
+
+
+    F_170
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  4/3, -2/3,    0,    0, -2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 2/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 6, 2)
+  field no.           : 399
+
+
+    F_171
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 1, 0, 1)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3, -1/3,  1/3,    1,    0,  2/3,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, -1/6, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 7, 0)
+  field no.           : 400
+
+
+    F_172
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 1, 0, 1)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -4/3, -2/3,    0,    0,  2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, -2/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 7, 1)
+  field no.           : 401
+
+
+    F_173
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 1, 0, 1)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  2/3,  4/3,    0,    0,  2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 1/3, 2/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 7, 2)
+  field no.           : 402
+
+
+    F_174
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 2, 0, 1)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3,   -1,  1/3,   -1,    0,    0,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, -1/2, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 8, 0)
+  field no.           : 403
+
+
+    F_175
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 2, 0, 1)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3,    1,  1/3,    1,    0,    0,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, 1/2, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 8, 1)
+  field no.           : 404
+
+
+    F_176
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 2, 0, 1)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -8/3,    0, -2/3,    0,    0,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 0, -1/3, 0),  (0, 0, 0, -2/3, 2/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 8, 2)
+  field no.           : 405
+
+
+    F_177
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 0, 0, 2, 0, 1)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,    0, -2/3,    0,    0,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 0, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : -a_( -1/3)^(-2) 
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 8, 3)
+  field no.           : 406
+
+
+    F_178
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 1)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3,  1/3,  1/3,   -1,    0, -2/3,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, 1/6, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 9, 0)
+  field no.           : 407
+
+
+    F_179
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 1)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -2/3,  4/3,    0,    0, -2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, -1/3, 2/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 9, 1)
+  field no.           : 408
+
+
+    F_180
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 0, 0, 1)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  4/3, -2/3,    0,    0, -2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 2/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 9, 2)
+  field no.           : 409
+
+
+    F_181
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 1)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3, -1/3,  1/3,    1,    0,  2/3,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, -1/6, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 10, 0)
+  field no.           : 410
+
+
+    F_182
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 1)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -4/3, -2/3,    0,    0,  2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, -2/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 10, 1)
+  field no.           : 411
+
+
+    F_183
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 1, 0, 1)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  2/3,  4/3,    0,    0,  2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 1/3, 2/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 10, 2)
+  field no.           : 412
+
+
+    F_184
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 1)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3,   -1,  1/3,   -1,    0,    0,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, -1/2, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 11, 0)
+  field no.           : 413
+
+
+    F_185
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 1)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3,    1,  1/3,    1,    0,    0,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, 1/2, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 11, 1)
+  field no.           : 414
+
+
+    F_186
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 1)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -8/3,    0, -2/3,    0,    0,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 0, -1/3, 0),  (0, 0, 0, -2/3, 2/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 11, 2)
+  field no.           : 415
+
+
+    F_187
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 1, 0, 2, 0, 1)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,    0, -2/3,    0,    0,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 0, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : -a_( -1/3)^(-2) 
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 11, 3)
+  field no.           : 416
+
+
+    F_188
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 2, 0, 0, 0, 1)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3,  1/3,  1/3,   -1,    0, -2/3,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, 1/6, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 12, 0)
+  field no.           : 417
+
+
+    F_189
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 2, 0, 0, 0, 1)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -2/3,  4/3,    0,    0, -2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, -1/3, 2/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 12, 1)
+  field no.           : 418
+
+
+    F_190
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 2, 0, 0, 0, 1)
+  space group charges : (2, 4, 0)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  4/3, -2/3,    0,    0, -2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 2/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 1/3, -1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 12, 2)
+  field no.           : 419
+
+
+    F_191
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 2, 0, 1, 0, 1)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3, -1/3,  1/3,    1,    0,  2/3,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, -1/6, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 13, 0)
+  field no.           : 420
+
+
+    F_192
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 2, 0, 1, 0, 1)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3, -4/3, -2/3,    0,    0,  2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, -2/3, -1/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 13, 1)
+  field no.           : 421
+
+
+    F_193
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 2, 0, 1, 0, 1)
+  space group charges : (2, 4, 1)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,  2/3,  4/3,    0,    0,  2/3,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 1/3, 2/3, 0),  (0, 0, 0, 1/3, -1/3, -1/3, 1/3, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 13, 2)
+  field no.           : 422
+
+
+    F_194
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 2, 0, 2, 0, 1)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3,   -1,  1/3,   -1,    0,    0,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, -1/2, 1/6, -1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/2, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (16, 14, 0)
+  field no.           : 423
+
+
+    F_195
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 2, 0, 2, 0, 1)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  2,  1,  1,  1)_l  U(1): (  4/3,    1,  1/3,    1,    0,    0,   -1)
+
+  left-moving p_sh    : (-1/6, -1/6, -1/6, -1/2, 1/2, 1/2, 1/6, 1/2),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 1/2, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (16, 14, 1)
+  field no.           : 424
+
+
+    F_196
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 2, 0, 2, 0, 1)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): ( -8/3,    0, -2/3,    0,    0,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 0, -1/3, 0),  (0, 0, 0, -2/3, 2/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 14, 2)
+  field no.           : 425
+
+
+    F_197
+  sector (k,l)        : (2, 4)
+  fixed point n_a     : (0, 2, 0, 2, 0, 1)
+  space group charges : (2, 4, 2)
+
+  representation      : (  1,  1,  1,  1,  1)_l  U(1): (  4/3,    0, -2/3,    0,    0,    0,    2)
+
+  left-moving p_sh    : (1/3, 1/3, 1/3, 0, 0, 0, -1/3, 0),  (0, 0, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/3, -1/3, -1/3)
+  oscillators         : -a_( -1/3)^(-2) 
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (16, 14, 3)
+  field no.           : 426
+
+
+    F_198
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (2, 5, 0)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3, -2/3,  4/3,    0, -2/3,  1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, -1/3, 2/3, 0),  (0, 0, -1/2, -1/6, 1/6, -1/6, 1/6, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (17, 0, 0)
+  field no.           : 427
+
+
+    F_199
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 0, 0, 0)
+  space group charges : (2, 5, 0)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3,  4/3, -2/3,    0, -2/3,  1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, 2/3, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, -1/6, 1/6, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (17, 0, 1)
+  field no.           : 428
+
+
+    F_200
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (2, 5, 0)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3, -2/3,  4/3,    0, -2/3,  1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, -1/3, 2/3, 0),  (0, 0, -1/2, -1/6, 1/6, -1/6, 1/6, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (17, 1, 0)
+  field no.           : 429
+
+
+    F_201
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (2, 5, 0)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3,  4/3, -2/3,    0, -2/3,  1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, 2/3, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, -1/6, 1/6, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (17, 1, 1)
+  field no.           : 430
+
+
+    F_202
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 0, 0, 1)
+  space group charges : (2, 5, 0)
+
+  representation      : (  1,  2,  1,  1,  2)_l  U(1): ( -2/3, -2/3, -2/3,    0,  1/3,  1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, 2/3, -1/3, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, -1/6, 1/6, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 1/3, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (17, 1, 2)
+  field no.           : 431
+
+
+    F_203
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 1, -1, 0)
+  space group charges : (2, 5, 1)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3, -4/3, -2/3,    0, -2/3, -1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, -2/3, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, 1/6, -1/6, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (17, 2, 0)
+  field no.           : 432
+
+
+    F_204
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 1, -1, 0)
+  space group charges : (2, 5, 1)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3,  2/3,  4/3,    0, -2/3, -1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, 1/3, 2/3, 0),  (0, 0, -1/2, -1/6, 1/6, 1/6, -1/6, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (17, 2, 1)
+  field no.           : 433
+
+
+    F_205
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 1, -1, 0)
+  space group charges : (2, 5, 1)
+
+  representation      : (  1,  2,  1,  1,  2)_l  U(1): ( -2/3,  2/3, -2/3,    0,  1/3, -1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, 2/3, 1/3, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, 1/6, -1/6, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 1/3, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (17, 2, 2)
+  field no.           : 434
+
+
+    F_206
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 2, -2, 0)
+  space group charges : (2, 5, 2)
+
+  representation      : (  1,  1,  8_s,  1,  1)_l  U(1): ( -2/3,    0, -2/3,    0, -2/3,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, 0, -1/3, 0),  (-1/2, 1/2, 0, -2/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (17, 3, 0)
+  field no.           : 435
+
+
+    F_207
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 2, -2, 0)
+  space group charges : (2, 5, 2)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3,    0, -2/3,    0, -2/3,    1,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, 0, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, -1/2, 1/2, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (17, 3, 1)
+  field no.           : 436
+
+
+    F_208
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 2, -2, 0)
+  space group charges : (2, 5, 2)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3,    0, -2/3,    0, -2/3,   -1,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, 0, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, 1/2, -1/2, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (17, 3, 2)
+  field no.           : 437
+
+
+    F_209
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 2, -2, 1)
+  space group charges : (2, 5, 2)
+
+  representation      : (  1,  1,  8_s,  1,  1)_l  U(1): ( -2/3,    0, -2/3,    0, -2/3,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, 0, -1/3, 0),  (-1/2, 1/2, 0, -2/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (17, 4, 0)
+  field no.           : 438
+
+
+    F_210
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 2, -2, 1)
+  space group charges : (2, 5, 2)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3,    0, -2/3,    0, -2/3,    1,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, 0, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, -1/2, 1/2, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (17, 4, 1)
+  field no.           : 439
+
+
+    F_211
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 2, -2, 1)
+  space group charges : (2, 5, 2)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3,    0, -2/3,    0, -2/3,   -1,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, 0, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, 1/2, -1/2, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 0, 0, 0, 0, 0, 0, 0)
+  internalIndex       : (17, 4, 2)
+  field no.           : 440
+
+
+    F_212
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 2, -2, 1)
+  space group charges : (2, 5, 2)
+
+  representation      : (  1,  1,  1,  2,  1)_l  U(1): (  4/3,    0, -2/3,    0, -2/3,    0,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, 0, -1/3, 0),  (-1/2, -1/2, 0, 1/3, -1/3, 0, 0, 0)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : -a_( -1/6)^(-1) 
+
+  vev                 : 0.00
+
+  gamma phases        : (0, 2/3, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (17, 4, 3)
+  field no.           : 441
+
+
+    F_213
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 4, -4, 0)
+  space group charges : (2, 5, 4)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3, -4/3, -2/3,    0, -2/3, -1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, -2/3, -1/3, 0),  (0, 0, -1/2, -1/6, 1/6, 1/6, -1/6, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (1/3, 0, 0, 0, 1/3, 1/3, 0, 0)
+  internalIndex       : (17, 5, 0)
+  field no.           : 442
+
+
+    F_214
+  sector (k,l)        : (2, 5)
+  fixed point n_a     : (0, 0, 0, 4, -4, 0)
+  space group charges : (2, 5, 4)
+
+  representation      : (  1,  1,  1,  1,  2)_l  U(1): ( -2/3,  2/3,  4/3,    0, -2/3, -1/3,    0)
+
+  left-moving p_sh    : (0, 0, 0, -1/3, -1/3, 1/3, 2/3, 0),  (0, 0, -1/2, -1/6, 1/6, 1/6, -1/6, -1/2)
+  right-moving q_sh   : (0, -1/6, -1/3, -1/2)
+  oscillators         : no
+
+  vev                 : 0.00
+
+  gamma phases        : (2/3, 0, 0, 0, 2/3, 2/3, 0, 0)
+  internalIndex       : (17, 5, 1)
+  field no.           : 443
+
+/CB1041/spectrum> /CB1041> /CB1041/gauge group> 
+  Gauge group in vev-configuration "TestConfig1": SU(3) x SU(2) and SO(8) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7
+
+/CB1041/gauge group> 
+  U(1) generators:
+    (    0,     0,     0,     0,     0,     0,     0,     0),  (    0,     0,     0,     2,    -2,     0,     0,     0)  
+    (    0,     0,     0,     0,     0,     2,     0,     0),  (    0,     0,     0,     0,     0,     0,     0,     0)  
+    (    0,     0,     0,     0,     0,     0,     2,     0),  (    0,     0,     0,     0,     0,     0,     0,     0)  
+    (    0,     0,     0,     0,     0,     0,     0,     2),  (    0,     0,     0,     0,     0,     0,     0,     0)  
+    (    0,     0,     0,     1,     1,     0,     0,     0),  (    0,     0,     0,     0,     0,     0,     0,     0)  
+    (    0,     0,     0,     0,     0,     0,     0,     0),  (    0,     0,     0,     0,     0,    -1,     1,     0)  
+    (    2,     2,     2,     0,     0,     0,     0,     0),  (    0,     0,     0,     0,     0,     0,     0,     0)  
+
+/CB1041/gauge group> 
+  Simple roots:
+    (    0,     1,    -1,     0,     0,     0,     0,     0),  (    0,     0,     0,     0,     0,     0,     0,     0)
+    (    1,    -1,     0,     0,     0,     0,     0,     0),  (    0,     0,     0,     0,     0,     0,     0,     0)
+    (    0,     0,     0,     1,    -1,     0,     0,     0),  (    0,     0,     0,     0,     0,     0,     0,     0)
+    (    0,     0,     0,     0,     0,     0,     0,     0),  (    0,     0,     0,     0,     0,     1,     1,     0)
+    (    0,     0,     0,     0,     0,     0,     0,     0),  (  1/2,  -1/2,  -1/2,  -1/2,  -1/2,  -1/2,  -1/2,   1/2)
+    (    0,     0,     0,     0,     0,     0,     0,     0),  (    0,     0,     1,     0,     0,     0,     0,    -1)
+    (    0,     0,     0,     0,     0,     0,     0,     0),  (    0,     0,     0,     1,     1,     0,     0,     0)
+    (    0,     0,     0,     0,     0,     0,     0,     0),  (    1,     1,     0,     0,     0,     0,     0,     0)
+    (    0,     0,     0,     0,     0,     0,     0,     0),  (    0,     0,     1,     0,     0,     0,     0,     1)
+
+/CB1041/gauge group> 
+  SU(N)^3 anomaly:
+    1-th gauge group factor A2: tr cubic    = 0/1
+    2-th gauge group factor A1: #(doublets) = 64
+    4-th gauge group factor A1: #(doublets) = 46
+    5-th gauge group factor A1: #(doublets) = 44
+
+  U(1)_i - U(1)_i - U(1)_i, U(1)_i - U(1)_j - U(1)_j and U(1)_i - grav. - grav. anomalies:
+    tr Q_1       = 96/1
+    tr Q_1^3     = 192/1
+    tr Q_1 Q_2^2 = 32/1
+    tr Q_1 Q_3^2 = 32/1
+    tr Q_1 Q_4^2 = 32/1
+    tr Q_1 Q_5^2 = 16/1
+    tr Q_1 Q_6^2 = 16/1
+    tr Q_1 Q_7^2 = 96/1
+    tr Q_2       = 0/1
+    tr Q_2^3     = 0/1
+    tr Q_2 Q_1^2 = 0/1
+    tr Q_2 Q_3^2 = 0/1
+    tr Q_2 Q_4^2 = 0/1
+    tr Q_2 Q_5^2 = 0/1
+    tr Q_2 Q_6^2 = 0/1
+    tr Q_2 Q_7^2 = 0/1
+    tr Q_3       = 0/1
+    tr Q_3^3     = 0/1
+    tr Q_3 Q_1^2 = 0/1
+    tr Q_3 Q_2^2 = 0/1
+    tr Q_3 Q_4^2 = 0/1
+    tr Q_3 Q_5^2 = 0/1
+    tr Q_3 Q_6^2 = 0/1
+    tr Q_3 Q_7^2 = 0/1
+    tr Q_4       = 0/1
+    tr Q_4^3     = 0/1
+    tr Q_4 Q_1^2 = 0/1
+    tr Q_4 Q_2^2 = 0/1
+    tr Q_4 Q_3^2 = 0/1
+    tr Q_4 Q_5^2 = 0/1
+    tr Q_4 Q_6^2 = 0/1
+    tr Q_4 Q_7^2 = 0/1
+    tr Q_5       = 0/1
+    tr Q_5^3     = 0/1
+    tr Q_5 Q_1^2 = 0/1
+    tr Q_5 Q_2^2 = 0/1
+    tr Q_5 Q_3^2 = 0/1
+    tr Q_5 Q_4^2 = 0/1
+    tr Q_5 Q_6^2 = 0/1
+    tr Q_5 Q_7^2 = 0/1
+    tr Q_6       = 0/1
+    tr Q_6^3     = 0/1
+    tr Q_6 Q_1^2 = 0/1
+    tr Q_6 Q_2^2 = 0/1
+    tr Q_6 Q_3^2 = 0/1
+    tr Q_6 Q_4^2 = 0/1
+    tr Q_6 Q_5^2 = 0/1
+    tr Q_6 Q_7^2 = 0/1
+    tr Q_7       = 0/1
+    tr Q_7^3     = 0/1
+    tr Q_7 Q_1^2 = 0/1
+    tr Q_7 Q_2^2 = 0/1
+    tr Q_7 Q_3^2 = 0/1
+    tr Q_7 Q_4^2 = 0/1
+    tr Q_7 Q_5^2 = 0/1
+    tr Q_7 Q_6^2 = 0/1
+
+  G - G - U(1)_j anomalies for G = SU(N), SO(N) or E_N:
+    tr l(rep. of A2) Q_1 = 8/1
+    tr l(rep. of A2) Q_2 = 0/1
+    tr l(rep. of A2) Q_3 = 0/1
+    tr l(rep. of A2) Q_4 = 0/1
+    tr l(rep. of A2) Q_5 = 0/1
+    tr l(rep. of A2) Q_6 = 0/1
+    tr l(rep. of A2) Q_7 = 0/1
+    tr l(rep. of A1) Q_1 = 8/1
+    tr l(rep. of A1) Q_2 = 0/1
+    tr l(rep. of A1) Q_3 = 0/1
+    tr l(rep. of A1) Q_4 = 0/1
+    tr l(rep. of A1) Q_5 = 0/1
+    tr l(rep. of A1) Q_6 = 0/1
+    tr l(rep. of A1) Q_7 = 0/1
+    tr l(rep. of D4) Q_1 = 8/1
+    tr l(rep. of D4) Q_2 = 0/1
+    tr l(rep. of D4) Q_3 = 0/1
+    tr l(rep. of D4) Q_4 = 0/1
+    tr l(rep. of D4) Q_5 = 0/1
+    tr l(rep. of D4) Q_6 = 0/1
+    tr l(rep. of D4) Q_7 = 0/1
+    tr l(rep. of A1) Q_1 = 8/1
+    tr l(rep. of A1) Q_2 = 0/1
+    tr l(rep. of A1) Q_3 = 0/1
+    tr l(rep. of A1) Q_4 = 0/1
+    tr l(rep. of A1) Q_5 = 0/1
+    tr l(rep. of A1) Q_6 = 0/1
+    tr l(rep. of A1) Q_7 = 0/1
+    tr l(rep. of A1) Q_1 = 8/1
+    tr l(rep. of A1) Q_2 = 0/1
+    tr l(rep. of A1) Q_3 = 0/1
+    tr l(rep. of A1) Q_4 = 0/1
+    tr l(rep. of A1) Q_5 = 0/1
+    tr l(rep. of A1) Q_6 = 0/1
+    tr l(rep. of A1) Q_7 = 0/1
+
+  All anomalies are universal, i.e. their ratios are OK.
+
+/CB1041/gauge group> /CB1041> /CB1041/vev-config> 
+  Analyzing vev-configuration "TestConfig1" ...
+  No vev-configuration identified.
+
+/CB1041/vev-config> 
+  Vev-configuration "SMConfig1" not known.
+
+/CB1041/vev-config> 
+  Gauge group in vev-configuration "TestConfig1": SU(3) x SU(2) and SO(8) x SU(2) x SU(2) and U(1)_1 x U(1)_2 x U(1)_3 x U(1)_4 x U(1)_5 x U(1)_6 x U(1)_7
+
+/CB1041/vev-config> /CB1041> /CB1041/spectrum> 
+  Gauge group in vev-configuration "TestConfig1": SU(3) x SU(2) and SO(8) x SU(2) x SU(2) and U(1)^7
+  First U(1) is anomalous with tr Q_anom = 96.00.
+
+    1 (  1,  1,  1,  1,  1)_l  U(1) : (    0,    0,   -2,   -2,    0,    0,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : (    0,    0,   -2,    2,    0,    0,    0) 
+    1 (  1,  1,  8_v,  1,  2)_l  U(1) : (    2,    0,    0,    0,    0,    0,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : (   -4,    0,    0,    0,    0,    0,    0) 
+    1 ( -3,  2,  1,  1,  1)_l  U(1) : (    0,    0,    0,    0,   -1,    0,    2) 
+    1 (  3,  1,  1,  2,  1)_l  U(1) : (    0,    0,    0,    0, -2/3,    0,    2) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : (    0,    0,    0,    0, -2/3,    0,   -2) 
+    5 (  3,  1,  1,  1,  1)_l  U(1) : (    0,    0,    0,    0,  2/3,    0,    0) 
+    4 (  1,  1,  1,  1,  1)_l  U(1) : (    0,    0,    0,    0,  2/3,    0,   -4) 
+    4 (  1,  1,  1,  1,  1)_l  U(1) : (    0,    0,    0,   -2,  2/3,    0,    2) 
+    4 (  1,  1,  1,  1,  1)_l  U(1) : (    0,    0,    0,    2,  2/3,    0,    2) 
+    4 (  1,  1,  1,  2,  1)_l  U(1) : (    0,    0,   -2,    0,    0,    0,    0) 
+    2 (  3,  1,  1,  2,  1)_l  U(1) : (    0,    0,    0,    0,    0,    0,   -2) 
+    2 (  1,  2,  1,  2,  1)_l  U(1) : (    0,    0,    0,    0,    1,    0,    0) 
+    2 (  1,  2,  1,  2,  1)_l  U(1) : (    0,    0,    0,    0,   -1,    0,    0) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : (    0,    0,    0,   -2,    0,    0,    0) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : (    0,    0,    0,    2,    0,    0,    0) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : (    0,    0,    2,    0,    0,    0,    0) 
+    1 ( -3,  1,  1,  2,  1)_l  U(1) : (    0,    0,    0,    0,    0,    0,    2) 
+    5 ( -3,  1,  1,  1,  1)_l  U(1) : (    0,    0,    0,    0, -2/3,    0,    0) 
+    5 (  1,  2,  1,  1,  1)_l  U(1) : (    0,    0,    0,    0,  1/3,    0,   -2) 
+    4 (  1,  1,  1,  1,  1)_l  U(1) : (    0,    0,    2,    0, -2/3,    0,   -2) 
+    4 (  3,  2,  1,  1,  1)_l  U(1) : (    0,    0,    0,    0,  1/3,    0,    2) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : (    0,    0,    0,    0, -4/3,    0,    2) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : (    0,    0,    0,    0,  2/3,    0,    2) 
+    2 (  1,  2,  1,  1,  1)_l  U(1) : ( -4/3, -1/3, -1/3,   -1, -2/3,  2/3,   -1) 
+    2 (  1,  2,  1,  1,  1)_l  U(1) : ( -4/3,   -1, -1/3,    1, -2/3,    0,   -1) 
+    2 (  1,  2,  1,  1,  1)_l  U(1) : ( -4/3,    1, -1/3,   -1, -2/3,    0,   -1) 
+    2 (  1,  2,  1,  1,  1)_l  U(1) : ( -4/3,  1/3, -1/3,    1, -2/3, -2/3,   -1) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3, -4/3,  2/3,    0, -2/3,  2/3,    2) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3,  2/3, -4/3,    0, -2/3,  2/3,    2) 
+    1 (  3,  2,  1,  1,  1)_l  U(1) : ( -4/3,    0,  2/3,    0,  1/3,    0,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : (  8/3,    0,  2/3,    0, -2/3,    0,    2) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3,    0,  2/3,    0, -2/3,    0,    2) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3, -2/3, -4/3,    0, -2/3, -2/3,    2) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3,  4/3,  2/3,    0, -2/3, -2/3,    2) 
+    2 ( -3,  1,  1,  1,  1)_l  U(1) : ( -4/3, -1/3, -1/3,    1, -1/3,  2/3,   -1) 
+    2 (  1,  1,  1,  2,  2)_l  U(1) : (  2/3,  2/3,  2/3,    0,  2/3, -1/3,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3, -4/3, -4/3,    0,  2/3,  2/3,    0) 
+    1 (  1,  1,  8_c,  1,  1)_l  U(1) : (  2/3,  2/3,  2/3,    0,  2/3, -1/3,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3,  2/3,  2/3,    0,  2/3, -4/3,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : (  8/3,  2/3,  2/3,    0,  2/3,  2/3,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3,  2/3,  2/3,    0,  2/3,  2/3,    0) 
+    2 ( -3,  1,  1,  1,  1)_l  U(1) : ( -4/3,   -1, -1/3,   -1, -1/3,    0,   -1) 
+    2 ( -3,  1,  1,  1,  1)_l  U(1) : ( -4/3,    1, -1/3,    1, -1/3,    0,   -1) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3,   -2,  2/3,    0,  2/3,    0,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : (  8/3,    0, -4/3,    0,  2/3,    0,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3,    0,  2/3,   -2,  2/3,    0,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3,    0,  2/3,    2,  2/3,    0,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3,    2,  2/3,    0,  2/3,    0,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3,    0, -4/3,    0,  2/3,    0,    0) 
+    2 ( -3,  1,  1,  1,  1)_l  U(1) : ( -4/3,  1/3, -1/3,   -1, -1/3, -2/3,   -1) 
+    2 (  1,  1,  1,  2,  2)_l  U(1) : (  2/3, -2/3,  2/3,    0,  2/3,  1/3,    0) 
+    1 (  1,  1,  8_c,  1,  1)_l  U(1) : (  2/3, -2/3,  2/3,    0,  2/3,  1/3,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3,  4/3, -4/3,    0,  2/3, -2/3,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3, -2/3,  2/3,    0,  2/3,  4/3,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : (  8/3, -2/3,  2/3,    0,  2/3, -2/3,    0) 
+    1 (  1,  1,  1,  1,  1)_l  U(1) : ( -4/3, -2/3,  2/3,    0,  2/3, -2/3,    0) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : ( -4/3,  2/3,  2/3,    0,    0,  2/3,   -2) 
+    1 (  1,  2,  1,  1,  2)_l  U(1) : (  2/3, -1/3, -1/3,   -1,    0, -1/3,    1) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : ( -4/3,    0, -4/3,    0,    0,    0,   -2) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : ( -4/3, -2/3,  2/3,    0,    0, -2/3,   -2) 
+    1 (  1,  2,  1,  1,  2)_l  U(1) : (  2/3,  1/3, -1/3,    1,    0,  1/3,    1) 
+    2 ( -3,  1,  1,  1,  1)_l  U(1) : (  4/3, -2/3, -2/3,    0,  2/3, -2/3,    0) 
+    2 (  1,  1,  1,  1,  1)_l  U(1) : (  4/3,  1/3,  1/3,   -1, -1/3, -2/3,    1) 
+    2 ( -3,  1,  1,  1,  1)_l  U(1) : (  4/3,  2/3, -2/3,    0,  2/3,  2/3,    0) 
+    2 (  1,  1,  1,  1,  1)_l  U(1) : (  4/3, -1/3,  1/3,    1, -1/3,  2/3,    1) 
+    2 (  1,  1,  1,  1,  1)_l  U(1) : (  4/3,    0, -2/3,    0, -4/3,    0,   -2) 
+    2 ( -3,  1,  1,  1,  1)_l  U(1) : (  4/3,    0,  4/3,    0,  2/3,    0,    0) 
+    2 (  1,  1,  1,  1,  1)_l  U(1) : (  4/3,   -1,  1/3,   -1, -1/3,    0,    1) 
+    2 (  1,  1,  1,  1,  1)_l  U(1) : (  4/3,    1,  1/3,    1, -1/3,    0,    1) 
+    1 (  3,  1,  1,  1,  1)_l  U(1) : (  4/3,  1/3,  1/3,    1, -1/3, -2/3,   -1) 
+    1 (  3,  1,  1,  1,  1)_l  U(1) : (  4/3, -1/3,  1/3,   -1, -1/3,  2/3,   -1) 
+    1 (  3,  1,  1,  1,  1)_l  U(1) : (  4/3,   -1,  1/3,    1, -1/3,    0,   -1) 
+    1 (  3,  1,  1,  1,  1)_l  U(1) : (  4/3,    1,  1/3,   -1, -1/3,    0,   -1) 
+    2 (  1,  1,  1,  1,  1)_l  U(1) : (  4/3, -2/3, -2/3,    0,  4/3, -2/3,    0) 
+    1 ( -3,  1,  1,  1,  1)_l  U(1) : (  4/3,  1/3,  1/3,    1,  1/3, -2/3,   -1) 
+    2 (  1,  1,  1,  1,  1)_l  U(1) : (  4/3,  2/3, -2/3,    0,  4/3,  2/3,    0) 
+    1 ( -3,  1,  1,  1,  1)_l  U(1) : (  4/3, -1/3,  1/3,   -1,  1/3,  2/3,   -1) 
+    2 (  3,  1,  1,  1,  1)_l  U(1) : (  4/3,    0, -2/3,    0, -2/3,    0,   -2) 
+    2 (  1,  1,  1,  1,  1)_l  U(1) : (  4/3,    0,  4/3,    0,  4/3,    0,    0) 
+    1 ( -3,  1,  1,  1,  1)_l  U(1) : (  4/3,   -1,  1/3,    1,  1/3,    0,   -1) 
+    1 ( -3,  1,  1,  1,  1)_l  U(1) : (  4/3,    1,  1/3,   -1,  1/3,    0,   -1) 
+    1 (  1,  2,  1,  1,  1)_l  U(1) : (  4/3,    0, -2/3,    0,  1/3,    0,    0) 
+    2 (  1,  1,  1,  1,  2)_l  U(1) : ( -2/3, -2/3, -2/3,    0,  2/3,  1/3,   -2) 
+    2 (  1,  1,  1,  1,  2)_l  U(1) : ( -2/3,  1/3,  1/3,    1, -1/3,  1/3,    1) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : (  4/3,  1/3,  1/3,    1, -1/3, -2/3,    1) 
+    2 (  1,  1,  1,  1,  2)_l  U(1) : ( -2/3,  2/3, -2/3,    0,  2/3, -1/3,   -2) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : (  4/3, -1/3,  1/3,   -1, -1/3,  2/3,    1) 
+    2 (  1,  1,  1,  1,  2)_l  U(1) : ( -2/3, -1/3,  1/3,   -1, -1/3, -1/3,    1) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : (  4/3,   -1,  1/3,    1, -1/3,    0,    1) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : (  4/3,    1,  1/3,   -1, -1/3,    0,    1) 
+    5 (  1,  1,  1,  1,  1)_l  U(1) : (  4/3, -2/3,  4/3,    0,    0, -2/3,    2) 
+    5 (  1,  1,  1,  1,  1)_l  U(1) : (  4/3,  4/3, -2/3,    0,    0, -2/3,    2) 
+    5 (  1,  1,  1,  1,  1)_l  U(1) : (  4/3, -4/3, -2/3,    0,    0,  2/3,    2) 
+    5 (  1,  1,  1,  1,  1)_l  U(1) : (  4/3,  2/3,  4/3,    0,    0,  2/3,    2) 
+    5 (  1,  1,  1,  1,  1)_l  U(1) : ( -8/3,    0, -2/3,    0,    0,    0,    2) 
+    5 (  1,  1,  1,  1,  1)_l  U(1) : (  4/3,    0, -2/3,    0,    0,    0,    2) 
+    4 (  1,  2,  1,  1,  1)_l  U(1) : (  4/3,  1/3,  1/3,   -1,    0, -2/3,   -1) 
+    4 (  1,  2,  1,  1,  1)_l  U(1) : (  4/3, -1/3,  1/3,    1,    0,  2/3,   -1) 
+    4 (  1,  2,  1,  1,  1)_l  U(1) : (  4/3,   -1,  1/3,   -1,    0,    0,   -1) 
+    4 (  1,  2,  1,  1,  1)_l  U(1) : (  4/3,    1,  1/3,    1,    0,    0,   -1) 
+    2 (  1,  1,  1,  1,  2)_l  U(1) : ( -2/3, -2/3,  4/3,    0, -2/3,  1/3,    0) 
+    2 (  1,  1,  1,  1,  2)_l  U(1) : ( -2/3,  4/3, -2/3,    0, -2/3,  1/3,    0) 
+    1 (  1,  2,  1,  1,  2)_l  U(1) : ( -2/3, -2/3, -2/3,    0,  1/3,  1/3,    0) 
+    2 (  1,  1,  1,  1,  2)_l  U(1) : ( -2/3, -4/3, -2/3,    0, -2/3, -1/3,    0) 
+    2 (  1,  1,  1,  1,  2)_l  U(1) : ( -2/3,  2/3,  4/3,    0, -2/3, -1/3,    0) 
+    1 (  1,  2,  1,  1,  2)_l  U(1) : ( -2/3,  2/3, -2/3,    0,  1/3, -1/3,    0) 
+    2 (  1,  1,  8_s,  1,  1)_l  U(1) : ( -2/3,    0, -2/3,    0, -2/3,    0,    0) 
+    2 (  1,  1,  1,  1,  2)_l  U(1) : ( -2/3,    0, -2/3,    0, -2/3,    1,    0) 
+    2 (  1,  1,  1,  1,  2)_l  U(1) : ( -2/3,    0, -2/3,    0, -2/3,   -1,    0) 
+    1 (  1,  1,  1,  2,  1)_l  U(1) : (  4/3,    0, -2/3,    0, -2/3,    0,    0) 
+
+/CB1041/spectrum> /CB1041> 

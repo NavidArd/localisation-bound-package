@@ -1,0 +1,1946 @@
+{
+ "geometry": "Z3xZ6_1_1",
+ "models": 4620,
+ "cells10": 16136,
+ "pat": {
+  "011": 3706,
+  "111": 8579,
+  "100": 3761,
+  "001": 50,
+  "010": 40
+ },
+ "patbar": {
+  "011": 30,
+  "111": 70,
+  "100": 42,
+  "001": 8,
+  "010": 14
+ },
+ "pat_by_sector": {
+  "(2, 2)|011": 796,
+  "(2, 2)|111": 1866,
+  "(0, 4)|100": 18,
+  "(0, 4)|111": 188,
+  "(0, 2)|011": 26,
+  "(0, 2)|111": 188,
+  "(0, 4)|011": 29,
+  "(0, 2)|100": 21,
+  "(2, 2)|100": 878,
+  "(1, 0)|011": 954,
+  "(1, 0)|111": 1927,
+  "(2, 0)|011": 1069,
+  "(2, 0)|111": 2627,
+  "(2, 0)|100": 1162,
+  "(1, 4)|011": 832,
+  "(1, 4)|111": 1687,
+  "(1, 0)|100": 877,
+  "(1, 4)|100": 777,
+  "(2, 3)|100": 1,
+  "(2, 3)|111": 50,
+  "(1, 5)|001": 10,
+  "(0, 5)|010": 14,
+  "(2, 5)|111": 35,
+  "(0, 3)|100": 11,
+  "(1, 5)|111": 11,
+  "(0, 3)|001": 6,
+  "(0, 1)|001": 20,
+  "(0, 1)|010": 10,
+  "(0, 1)|100": 8,
+  "(0, 5)|001": 11,
+  "(0, 5)|100": 8,
+  "(0, 3)|010": 12,
+  "(2, 3)|010": 1,
+  "(1, 4)|001": 2,
+  "(1, 4)|010": 2,
+  "(2, 0)|001": 1,
+  "(2, 0)|010": 1
+ },
+ "examples": [
+  {
+   "model": "MSSM90",
+   "kl": [
+    1,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg0.txt.gz"
+  },
+  {
+   "model": "MSSM90",
+   "kl": [
+    1,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg0.txt.gz"
+  },
+  {
+   "model": "MSSM103",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "Hu",
+    "L",
+    "uc"
+   ],
+   "file": "census_seg1.txt.gz"
+  },
+  {
+   "model": "MSSM149",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg1.txt.gz"
+  },
+  {
+   "model": "MSSM1049",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "L",
+    "dcbar",
+    "ec"
+   ],
+   "file": "census_seg10.txt.gz"
+  },
+  {
+   "model": "MSSM1049",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "Hu",
+    "L",
+    "dc",
+    "dcbar",
+    "ec",
+    "ecbar"
+   ],
+   "file": "census_seg10.txt.gz"
+  },
+  {
+   "model": "MSSM1132",
+   "kl": [
+    1,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg11.txt.gz"
+  },
+  {
+   "model": "MSSM1132",
+   "kl": [
+    1,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg11.txt.gz"
+  },
+  {
+   "model": "MSSM1152",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg11.txt.gz"
+  },
+  {
+   "model": "MSSM1203",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "L",
+    "dc",
+    "uc"
+   ],
+   "file": "census_seg12.txt.gz"
+  },
+  {
+   "model": "MSSM1283",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "dc",
+    "ec"
+   ],
+   "file": "census_seg12.txt.gz"
+  },
+  {
+   "model": "MSSM1314",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg13.txt.gz"
+  },
+  {
+   "model": "MSSM1468",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "dc",
+    "uc"
+   ],
+   "file": "census_seg14.txt.gz"
+  },
+  {
+   "model": "MSSM1553",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "L",
+    "dc",
+    "ec"
+   ],
+   "file": "census_seg15.txt.gz"
+  },
+  {
+   "model": "MSSM1601",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "L",
+    "dc",
+    "uc"
+   ],
+   "file": "census_seg16.txt.gz"
+  },
+  {
+   "model": "MSSM1761",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg17.txt.gz"
+  },
+  {
+   "model": "MSSM1771",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg17.txt.gz"
+  },
+  {
+   "model": "MSSM1772",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg17.txt.gz"
+  },
+  {
+   "model": "MSSM1844",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg18.txt.gz"
+  },
+  {
+   "model": "MSSM1915",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg19.txt.gz"
+  },
+  {
+   "model": "MSSM1926",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "Hu",
+    "L",
+    "dc",
+    "uc"
+   ],
+   "file": "census_seg19.txt.gz"
+  },
+  {
+   "model": "MSSM1926",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "Hu",
+    "L",
+    "dc",
+    "dcbar",
+    "uc",
+    "ucbar"
+   ],
+   "file": "census_seg19.txt.gz"
+  },
+  {
+   "model": "MSSM1962",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg19.txt.gz"
+  },
+  {
+   "model": "MSSM1990",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg19.txt.gz"
+  },
+  {
+   "model": "MSSM230",
+   "kl": [
+    1,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg2.txt.gz"
+  },
+  {
+   "model": "MSSM230",
+   "kl": [
+    1,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg2.txt.gz"
+  },
+  {
+   "model": "MSSM2031",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg20.txt.gz"
+  },
+  {
+   "model": "MSSM2069",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg20.txt.gz"
+  },
+  {
+   "model": "MSSM2155",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg21.txt.gz"
+  },
+  {
+   "model": "MSSM2184",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg21.txt.gz"
+  },
+  {
+   "model": "MSSM2413",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "dc",
+    "ec"
+   ],
+   "file": "census_seg24.txt.gz"
+  },
+  {
+   "model": "MSSM2449",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg24.txt.gz"
+  },
+  {
+   "model": "MSSM2473",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg24.txt.gz"
+  },
+  {
+   "model": "MSSM2548",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "L",
+    "uc"
+   ],
+   "file": "census_seg25.txt.gz"
+  },
+  {
+   "model": "MSSM2548",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "Hu",
+    "L",
+    "dc",
+    "dcbar",
+    "uc",
+    "ucbar"
+   ],
+   "file": "census_seg25.txt.gz"
+  },
+  {
+   "model": "MSSM2553",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "Hu",
+    "L",
+    "dc",
+    "uc"
+   ],
+   "file": "census_seg25.txt.gz"
+  },
+  {
+   "model": "MSSM2553",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "Hu",
+    "L",
+    "dc",
+    "dcbar",
+    "uc",
+    "ucbar"
+   ],
+   "file": "census_seg25.txt.gz"
+  },
+  {
+   "model": "MSSM2655",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg26.txt.gz"
+  },
+  {
+   "model": "MSSM2675",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg26.txt.gz"
+  },
+  {
+   "model": "MSSM2900",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg29.txt.gz"
+  },
+  {
+   "model": "MSSM2911",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg29.txt.gz"
+  },
+  {
+   "model": "MSSM2983",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg29.txt.gz"
+  },
+  {
+   "model": "MSSM307",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg3.txt.gz"
+  },
+  {
+   "model": "MSSM310",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "Hu",
+    "dc",
+    "uc"
+   ],
+   "file": "census_seg3.txt.gz"
+  },
+  {
+   "model": "MSSM328",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg3.txt.gz"
+  },
+  {
+   "model": "MSSM348",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg3.txt.gz"
+  },
+  {
+   "model": "MSSM363",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "Hu",
+    "L",
+    "dc",
+    "uc"
+   ],
+   "file": "census_seg3.txt.gz"
+  },
+  {
+   "model": "MSSM363",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "Hu",
+    "L",
+    "dc",
+    "dcbar",
+    "uc",
+    "ucbar"
+   ],
+   "file": "census_seg3.txt.gz"
+  },
+  {
+   "model": "MSSM3115",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg31.txt.gz"
+  },
+  {
+   "model": "MSSM3152",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg31.txt.gz"
+  },
+  {
+   "model": "MSSM3165",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg31.txt.gz"
+  },
+  {
+   "model": "MSSM3167",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg31.txt.gz"
+  },
+  {
+   "model": "MSSM3411",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg34.txt.gz"
+  },
+  {
+   "model": "MSSM3437",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg34.txt.gz"
+  },
+  {
+   "model": "MSSM3449",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "L",
+    "uc"
+   ],
+   "file": "census_seg34.txt.gz"
+  },
+  {
+   "model": "MSSM3449",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "Hu",
+    "L",
+    "dc",
+    "dcbar",
+    "uc",
+    "ucbar"
+   ],
+   "file": "census_seg34.txt.gz"
+  },
+  {
+   "model": "MSSM3737",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "L",
+    "ec"
+   ],
+   "file": "census_seg37.txt.gz"
+  },
+  {
+   "model": "MSSM3981",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg39.txt.gz"
+  },
+  {
+   "model": "MSSM3985",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg39.txt.gz"
+  },
+  {
+   "model": "MSSM3987",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg39.txt.gz"
+  },
+  {
+   "model": "MSSM441",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "L",
+    "dc",
+    "ec"
+   ],
+   "file": "census_seg4.txt.gz"
+  },
+  {
+   "model": "MSSM456",
+   "kl": [
+    2,
+    3
+   ],
+   "fp": [
+    0,
+    -2,
+    0,
+    2,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg4.txt.gz"
+  },
+  {
+   "model": "MSSM459",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg4.txt.gz"
+  },
+  {
+   "model": "MSSM461",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "L",
+    "dcbar",
+    "ec"
+   ],
+   "file": "census_seg4.txt.gz"
+  },
+  {
+   "model": "MSSM461",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "Hu",
+    "L",
+    "dc",
+    "dcbar",
+    "ec",
+    "ecbar"
+   ],
+   "file": "census_seg4.txt.gz"
+  },
+  {
+   "model": "MSSM4048",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "L",
+    "ec"
+   ],
+   "file": "census_seg40.txt.gz"
+  },
+  {
+   "model": "MSSM4048",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "Hu",
+    "L",
+    "ec",
+    "ecbar"
+   ],
+   "file": "census_seg40.txt.gz"
+  },
+  {
+   "model": "MSSM4048",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg40.txt.gz"
+  },
+  {
+   "model": "MSSM4048",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg40.txt.gz"
+  },
+  {
+   "model": "MSSM4048",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg40.txt.gz"
+  },
+  {
+   "model": "MSSM4048",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg40.txt.gz"
+  },
+  {
+   "model": "MSSM4048",
+   "kl": [
+    2,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg40.txt.gz"
+  },
+  {
+   "model": "MSSM4048",
+   "kl": [
+    2,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    1
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg40.txt.gz"
+  },
+  {
+   "model": "MSSM4116",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg41.txt.gz"
+  },
+  {
+   "model": "MSSM4154",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg41.txt.gz"
+  },
+  {
+   "model": "MSSM4252",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg42.txt.gz"
+  },
+  {
+   "model": "MSSM4272",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg42.txt.gz"
+  },
+  {
+   "model": "MSSM4306",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg43.txt.gz"
+  },
+  {
+   "model": "MSSM4345",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg43.txt.gz"
+  },
+  {
+   "model": "MSSM4399",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "Hu",
+    "L",
+    "dc",
+    "uc"
+   ],
+   "file": "census_seg43.txt.gz"
+  },
+  {
+   "model": "MSSM4399",
+   "kl": [
+    0,
+    3
+   ],
+   "fp": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "Hu",
+    "L",
+    "dc",
+    "dcbar",
+    "uc",
+    "ucbar"
+   ],
+   "file": "census_seg43.txt.gz"
+  },
+  {
+   "model": "MSSM4484",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg44.txt.gz"
+  },
+  {
+   "model": "MSSM4526",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg45.txt.gz"
+  },
+  {
+   "model": "MSSM4548",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg45.txt.gz"
+  },
+  {
+   "model": "MSSM4569",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg45.txt.gz"
+  },
+  {
+   "model": "MSSM681",
+   "kl": [
+    1,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg6.txt.gz"
+  },
+  {
+   "model": "MSSM681",
+   "kl": [
+    1,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg6.txt.gz"
+  },
+  {
+   "model": "MSSM878",
+   "kl": [
+    1,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg8.txt.gz"
+  },
+  {
+   "model": "MSSM878",
+   "kl": [
+    1,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "pat": "001",
+   "roles": [
+    "ec"
+   ],
+   "file": "census_seg8.txt.gz"
+  },
+  {
+   "model": "MSSM979",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pat": "010",
+   "roles": [
+    "uc"
+   ],
+   "file": "census_seg9.txt.gz"
+  }
+ ],
+ "DERIVED_IMPOSSIBLE": {
+  "110": 0,
+  "101": 0
+ },
+ "NOT_DERIVED_measured_zero": {
+  "010": 40,
+  "001": 50
+ }
+}

@@ -1,0 +1,5 @@
+class A  : 2912 models, all SM-valid, 1812 doubled
+class B  : 1432 built, 1120 SM-valid; doubled 400 over all built, 362 over SM-valid
+TOTAL    : 4032 SM-valid models, 2174 carry a doubled norm-6/5 role
+(over all 4344 BUILT models, unrestricted, the figure is 2212)
+wrote F:\physics\paperA_repro_package\multi_geometry_campaign\data\gate_su5_construction\g8c_doubled_smvalid.json

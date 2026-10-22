@@ -1,0 +1,1985 @@
+{
+ "models": 4620,
+ "skipped": {
+  "closure_failed": 2
+ },
+ "pairs": 7888,
+ "by": {
+  "hidmult_all": {
+   "5bar|lift=True|hid=2": 57,
+   "5bar|lift=False|hid=2": 4139,
+   "5bar|lift=True|hid=1": 1984,
+   "5bar|lift=False|hid=1": 130360,
+   "10|lift=False|hid=1": 37109,
+   "10|lift=True|hid=1": 225,
+   "5bar|lift=True|hid=3": 4,
+   "5bar|lift=False|hid=3": 106,
+   "5bar|lift=True|hid=4": 2,
+   "5bar|lift=True|hid=5": 1
+  },
+  "pairs": {
+   "5bar|lift=False|sameq=True|sameosc=True|4droot=False": 6832,
+   "5bar|lift=True|sameq=True|sameosc=False|4droot=False": 9,
+   "5bar|lift=False|sameq=True|sameosc=True|4droot=I:False": 1047
+  },
+  "sector": {
+   "5bar|(2, 0)|lift=False": 1283,
+   "5bar|(2, 2)|lift=False": 1412,
+   "5bar|(0, 2)|lift=False": 208,
+   "5bar|(1, 4)|lift=False": 1893,
+   "5bar|(0, 4)|lift=False": 216,
+   "5bar|(1, 0)|lift=False": 2605,
+   "5bar|(0, 5)|lift=True": 4,
+   "5bar|(2, 3)|lift=False": 150,
+   "5bar|(0, 3)|lift=False": 56,
+   "5bar|(0, 1)|lift=True": 5,
+   "5bar|(2, 5)|lift=False": 56
+  }
+ },
+ "examples": [
+  {
+   "model": "MSSM1",
+   "kl": [
+    2,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "-1",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM1",
+   "kl": [
+    2,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "1",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM1",
+   "kl": [
+    2,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    1
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "-1",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM1",
+   "kl": [
+    2,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    1
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "1",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM1",
+   "kl": [
+    2,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    2,
+    0,
+    1
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "-1",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM1",
+   "kl": [
+    2,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    2,
+    0,
+    1
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "1",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM2",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM2",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM2",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM2",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM2",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    2,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM2",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    2,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM5",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "1",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM5",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "-1",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM5",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "1",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM5",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "-1",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM5",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    2,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "1",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM5",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    2,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "-1",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM6",
+   "kl": [
+    0,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM6",
+   "kl": [
+    0,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM6",
+   "kl": [
+    0,
+    2
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM6",
+   "kl": [
+    0,
+    2
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM6",
+   "kl": [
+    0,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM6",
+   "kl": [
+    0,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM6",
+   "kl": [
+    0,
+    2
+   ],
+   "fp": [
+    0,
+    2,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM6",
+   "kl": [
+    0,
+    2
+   ],
+   "fp": [
+    0,
+    2,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM7",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM7",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM7",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM7",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM7",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    2,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM7",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    2,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM9",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM9",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM9",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM9",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM9",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    2,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM9",
+   "kl": [
+    1,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    2,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM11",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM11",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg0.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM102",
+   "kl": [
+    1,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    1
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "1",
+    "A4": "1",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM102",
+   "kl": [
+    1,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    1
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "-1",
+    "A4": "-1",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM104",
+   "kl": [
+    2,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM104",
+   "kl": [
+    2,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM105",
+   "kl": [
+    1,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM105",
+   "kl": [
+    1,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM105",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM105",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM105",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    2,
+    0,
+    0
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM105",
+   "kl": [
+    2,
+    2
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    2,
+    0,
+    0
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "0",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "0",
+    "A4": "0",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM109",
+   "kl": [
+    1,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "dcbar",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "1",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "-1",
+    "A4": "-1",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM109",
+   "kl": [
+    1,
+    0
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "Hu",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "-1",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "1",
+    "A4": "1",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM111",
+   "kl": [
+    0,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "L",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "-1",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "1",
+    "A4": "1",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM111",
+   "kl": [
+    0,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "role": "dc",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "1",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "-1",
+    "A4": "-1",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM111",
+   "kl": [
+    0,
+    4
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "L",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "-1",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "1",
+    "A4": "1",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM111",
+   "kl": [
+    0,
+    4
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "dc",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "1",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "-1",
+    "A4": "-1",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM111",
+   "kl": [
+    0,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "L",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "-1",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "1",
+    "A4": "1",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM111",
+   "kl": [
+    0,
+    4
+   ],
+   "fp": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "dc",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "1",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "-1",
+    "A4": "-1",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM111",
+   "kl": [
+    0,
+    4
+   ],
+   "fp": [
+    0,
+    2,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "L",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "-1",
+    "V2": "1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "1",
+    "A4": "1",
+    "A5": "0",
+    "A6": "0"
+   }
+  },
+  {
+   "model": "MSSM111",
+   "kl": [
+    0,
+    4
+   ],
+   "fp": [
+    0,
+    2,
+    0,
+    0,
+    0,
+    1
+   ],
+   "role": "dc",
+   "d2": "2",
+   "sameq": true,
+   "oscfree": true,
+   "sameosc": true,
+   "lifts": false,
+   "file": "census_seg1.txt.gz",
+   "dots": {
+    "V1": "1",
+    "V2": "-1/2",
+    "A1": "0",
+    "A2": "0",
+    "A3": "-1",
+    "A4": "-1",
+    "A5": "0",
+    "A6": "0"
+   }
+  }
+ ],
+ "gen_coverage": {
+  "complete": 4029,
+  "partial": 591
+ },
+ "route_disagree": 0,
+ "route_disagree_ex": [],
+ "d2": {
+  "2": 7888
+ },
+ "notlambda": 0,
+ "notperp": 0,
+ "liftsector_distinct_record_sameq": 0,
+ "liftsector_distinct_record_sameq_ex": [],
+ "mult_at_lift_cells": {
+  "5bar:records=1": 2030,
+  "5bar:hidmult=2": 57,
+  "5bar:hidmult=1": 1984,
+  "10:records=1": 225,
+  "10:hidmult=1": 225,
+  "5bar:records=2": 9,
+  "5bar:hidmult=3": 4,
+  "5bar:hidmult=4": 2,
+  "5bar:hidmult=5": 1
+ }
+}

@@ -1,0 +1,10 @@
+b4_triality_nets.py exit=0 1s
+b3_compare.py exit=0 2s
+b11b_compare.py exit=0 1s
+b8_allbins.py exit=0 283s
+b10_brother_analysis.py exit=0 1560s
+b7 Z2xZ4_1_1 exit=0 3424s
+b7 Z3xZ6_1_1 exit=0 1264s
+b7 Z3xZ6_1_1 exit=0 1521s (v2.2 repair: E_6 parse patch, 2026-10-22)
+b10_brother_analysis.py exit=0 2048s (v2.2 repair: 80 genuine (0,b) decks, label check, 2026-10-22)
+b7 Z2xZ4_1_1 exit=0 3825s (v2.2 repair: E_6 parse patch, 2026-10-22)

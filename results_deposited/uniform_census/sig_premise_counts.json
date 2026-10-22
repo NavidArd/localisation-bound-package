@@ -1,0 +1,122 @@
+{
+ "geometry": "Z3xZ6_1_1",
+ "sectors": [
+  [
+   0,
+   1
+  ],
+  [
+   0,
+   5
+  ]
+ ],
+ "seconds": 32.6,
+ "constructed_half": {
+  "models": 2912,
+  "records": 7481,
+  "records_at_31_18_osc_absent": 2239,
+  "distinct_qsh_per_sector": [
+   1,
+   1
+  ]
+ },
+ "catalogue_half": {
+  "as_run": {
+   "records_T01": 11550,
+   "records_T05": 12022,
+   "records_total": 23572,
+   "chirality": {
+    "l": 23572
+   },
+   "distinct_qsh_T01": {
+    "0,-5/6,0,-1/6": 11550
+   },
+   "distinct_qsh_T05": {
+    "0,-1/6,0,-5/6": 12022
+   },
+   "n_distinct_qsh_T01": 1,
+   "n_distinct_qsh_T05": 1,
+   "n_at_31_18": {
+    "(0, 1)": 6053,
+    "(0, 5)": 6353
+   },
+   "n_at_31_18_total": 12406,
+   "osc_flag_at_31_18": {
+    "no": 12406
+   }
+  },
+  "distinct": {
+   "records_T01": 11484,
+   "records_T05": 11957,
+   "records_total": 23441,
+   "chirality": {
+    "l": 23441
+   },
+   "distinct_qsh_T01": {
+    "0,-5/6,0,-1/6": 11484
+   },
+   "distinct_qsh_T05": {
+    "0,-1/6,0,-5/6": 11957
+   },
+   "n_distinct_qsh_T01": 1,
+   "n_distinct_qsh_T05": 1,
+   "n_at_31_18": {
+    "(0, 1)": 6026,
+    "(0, 5)": 6324
+   },
+   "n_at_31_18_total": 12350,
+   "osc_flag_at_31_18": {
+    "no": 12350
+   }
+  },
+  "distinct_minus_e6": {
+   "records_T01": 11484,
+   "records_T05": 11957,
+   "records_total": 23441,
+   "chirality": {
+    "l": 23441
+   },
+   "distinct_qsh_T01": {
+    "0,-5/6,0,-1/6": 11484
+   },
+   "distinct_qsh_T05": {
+    "0,-1/6,0,-5/6": 11957
+   },
+   "n_distinct_qsh_T01": 1,
+   "n_distinct_qsh_T05": 1,
+   "n_at_31_18": {
+    "(0, 1)": 6026,
+    "(0, 5)": 6324
+   },
+   "n_at_31_18_total": 12350,
+   "osc_flag_at_31_18": {
+    "no": 12350
+   }
+  },
+  "duplicate_labels": [
+   "MSSM0",
+   "MSSM1",
+   "MSSM2",
+   "MSSM3",
+   "MSSM4",
+   "MSSM5",
+   "MSSM6",
+   "MSSM7",
+   "MSSM8",
+   "MSSM9"
+  ],
+  "duplicate_occurrences": 10
+ },
+ "printed_by_the_paper": {
+  "right_mover_records": 30922,
+  "osc_absent_constructed": 2239,
+  "osc_absent_catalogue": 12350,
+  "distinct_qsh_per_sector": [
+   1
+  ]
+ },
+ "as_run_for_comparison": {
+  "right_mover_records": 31053,
+  "osc_absent_catalogue": 12406
+ }
+}

@@ -1,0 +1,18 @@
+[guards 1a-1c] PASS
+
+Z3xZ6_1_1     C-i checks  10800 violations 0   |   C-ii conjugate listed pairs 0
+Z2xZ4_1_1     C-i checks   3552 violations 0   |   C-ii conjugate listed pairs 0
+Z4xZ4_1_1     C-i checks  11808 violations 0   |   C-ii conjugate listed pairs 0
+Z3xZ3_1_1     C-i checks   5832 violations 0   |   C-ii conjugate listed pairs 0
+Z6-I_1_1      C-i checks   1512 violations 0   |   C-ii conjugate listed pairs 0
+Z6-II_1_1     C-i checks   1584 violations 0   |   C-ii conjugate listed pairs 0
+Z4_1_1        C-i checks   1008 violations 0   |   C-ii conjugate listed pairs 0
+
+Z2xZ4_1_1    models 11540  populated cells  597189  (sector,model) groups  66614
+             distinct-fixed-point pairs in one sector sharing V_g mod Lambda: 674558
+             by sector: {'(0, 1)': 16904, '(0, 2)': 174173, '(0, 3)': 16360, '(1, 0)': 180471, '(1, 2)': 116695, '(1, 3)': 169955}
+Z3xZ6_1_1    models  4622  populated cells  301040  (sector,model) groups  57779
+             distinct-fixed-point pairs in one sector sharing V_g mod Lambda: 296604
+             by sector: {'(0, 2)': 37368, '(0, 3)': 18839, '(0, 4)': 35390, '(1, 0)': 13905, '(1, 4)': 13816, '(1, 5)': 93, '(2, 0)': 13935, '(2, 2)': 13889, '(2, 3)': 11430, '(2, 4)': 126577, '(2, 5)': 11362}
+
+wrote F:\physics\paperA_repro_package\multi_geometry_campaign\data\root_lift\questionC_samefp.json

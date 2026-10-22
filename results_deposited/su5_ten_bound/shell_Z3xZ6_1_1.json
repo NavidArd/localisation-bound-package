@@ -1,0 +1,1059 @@
+{
+ "geometry": "Z3xZ6_1_1",
+ "sectors": [
+  [
+   0,
+   1
+  ],
+  [
+   0,
+   5
+  ]
+ ],
+ "cells": [
+  {
+   "model": "MSSM103",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(12) x SU(2) x SU(2) x U(1)^2",
+   "p2": "31/18",
+   "n_shell": 36,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": true
+  },
+  {
+   "model": "MSSM149",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "p2": "31/18",
+   "n_shell": 30,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM1152",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "p2": "31/18",
+   "n_shell": 48,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": true
+  },
+  {
+   "model": "MSSM1283",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "SO(12) x SU(7) x U(1)^4",
+   "p2": "31/18",
+   "n_shell": 34,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM1314",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "p2": "31/18",
+   "n_shell": 48,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": true
+  },
+  {
+   "model": "MSSM1441",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "p2": "31/18",
+   "n_shell": 48,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "Q": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "Q": 1
+   },
+   "has_commutant_SU2": true
+  },
+  {
+   "model": "MSSM1468",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "SO(12) x SU(7) x U(1)^4",
+   "p2": "31/18",
+   "n_shell": 34,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM1761",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "p2": "31/18",
+   "n_shell": 48,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": true
+  },
+  {
+   "model": "MSSM1762",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(12) x SU(2) x SU(2) x U(1)^2",
+   "p2": "31/18",
+   "n_shell": 36,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "Q": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "Q": 1
+   },
+   "has_commutant_SU2": true
+  },
+  {
+   "model": "MSSM1771",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "p2": "31/18",
+   "n_shell": 30,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM1772",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM1833",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "p2": "31/18",
+   "n_shell": 48,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "Q": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "Q": 1
+   },
+   "has_commutant_SU2": true
+  },
+  {
+   "model": "MSSM1844",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "p2": "31/18",
+   "n_shell": 48,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": true
+  },
+  {
+   "model": "MSSM1893",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "p2": "31/18",
+   "n_shell": 30,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "Q": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "Q": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM1915",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM1962",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "p2": "31/18",
+   "n_shell": 48,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": true
+  },
+  {
+   "model": "MSSM1990",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "p2": "31/18",
+   "n_shell": 30,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM2031",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM2069",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM2155",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM2184",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM2449",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SU(2) x SU(3) x SU(7) x U(1)^1",
+   "p2": "31/18",
+   "n_shell": 48,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": true
+  },
+  {
+   "model": "MSSM2473",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "SO(12) x SU(7) x U(1)^4",
+   "p2": "31/18",
+   "n_shell": 34,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM2655",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "SO(12) x SU(7) x U(1)^4",
+   "p2": "31/18",
+   "n_shell": 34,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM2675",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM2883",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "Q": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "Q": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM2900",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM2911",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "SO(12) x SU(7) x U(1)^4",
+   "p2": "31/18",
+   "n_shell": 34,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM2939",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "Q": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "Q": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM2945",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "p2": "31/18",
+   "n_shell": 30,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "Q": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "Q": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM2983",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "p2": "31/18",
+   "n_shell": 30,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM307",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM310",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "SO(10) x SU(2) x SU(8) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 26,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": true
+  },
+  {
+   "model": "MSSM328",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "p2": "31/18",
+   "n_shell": 30,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM348",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM3115",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "p2": "31/18",
+   "n_shell": 30,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM3152",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM3165",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x SO(10) x SU(3) x U(1)^3",
+   "p2": "31/18",
+   "n_shell": 46,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "uc": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "uc": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM3167",
+   "kl": [
+    0,
+    5
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "p2": "31/18",
+   "n_shell": 30,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "ec": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "ec": 1
+   },
+   "has_commutant_SU2": false
+  },
+  {
+   "model": "MSSM3310",
+   "kl": [
+    0,
+    1
+   ],
+   "fp": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "group": "E6 x E6 x SU(3) x U(1)^2",
+   "p2": "31/18",
+   "n_shell": 30,
+   "printed_states_found_in_shell": true,
+   "printed_10": {
+    "Q": 1
+   },
+   "shell_multiplicity_of_printed_10": {
+    "Q": 1
+   },
+   "has_commutant_SU2": false
+  }
+ ],
+ "summary": {
+  "invariant_printed_in_shell_True": 40,
+  "shell_mult_1": 40
+ }
+}

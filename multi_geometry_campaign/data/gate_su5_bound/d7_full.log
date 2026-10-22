@@ -1,0 +1,70 @@
+{
+ "models": 4620,
+ "cells": 296309,
+ "ten_fields": 37334,
+ "skipped": {
+  "closure_failed": 2
+ },
+ "R10": {
+  "16/45": 36899,
+  "17/90": 268,
+  "3/10": 102,
+  "47/90": 65
+ },
+ "osc_unprotected": 0,
+ "n_unprotected_fields": 65,
+ "n_unprotected_cells": 65,
+ "summary": {
+  "by_sector": {
+   "(0, 5)": 33,
+   "(0, 1)": 32
+  },
+  "by_role": {
+   "uc": 22,
+   "ec": 28,
+   "Q": 15
+  },
+  "shell_mult": {
+   "1": 65
+  },
+  "shell_max_mult": {
+   "6": 4,
+   "5": 11,
+   "23": 18,
+   "14": 6,
+   "21": 25,
+   "11": 1
+  },
+  "shell_max_mult_10role": {
+   "1": 65
+  },
+  "n_10role_states_in_shell": {
+   "20": 4,
+   "10": 61
+  },
+  "commutant_SU2": {
+   "true": 23,
+   "false": 42
+  },
+  "any_root_perp_W": {
+   "true": 65
+  },
+  "printed_in_own_shell": {
+   "true": 65
+  },
+  "groups": {
+   "E6 x SO(12) x SU(2) x SU(2) x U(1)^2": 4,
+   "E6 x E6 x SU(3) x U(1)^2": 11,
+   "E6 x SU(2) x SU(3) x SU(7) x U(1)^1": 18,
+   "SO(12) x SU(7) x U(1)^4": 6,
+   "E6 x SO(10) x SU(3) x U(1)^3": 25,
+   "SO(10) x SU(2) x SU(8) x U(1)^3": 1
+  },
+  "R": {
+   "47/90": 65
+  },
+  "osc": {
+   "no": 65
+  }
+ }
+}

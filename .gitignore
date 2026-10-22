@@ -1,0 +1,7 @@
+# Byte-compiled Python. Not deposited, not checksummed, not in manifest.json --
+# .pyc content depends on the interpreter build and on absolute paths, so it would
+# make CHECKSUMS.sha256 unverifiable on any other machine.
+__pycache__/
+*.py[cod]
+
+# Nothing else is ignored. Every other file in this deposit is checksummed.

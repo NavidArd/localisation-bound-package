@@ -1,0 +1,48 @@
+{
+ "models": 4620,
+ "n_osc10": 11,
+ "n_osc5": 708,
+ "skipped": {
+  "closure_failed": 2
+ },
+ "n_10role_doubled_cells_found": 0,
+ "osc10_summary": {
+  "by_osc": {
+   "-a_( -1/6)^(-3)": 5,
+   "-a_( -1/6)^(-1)": 5,
+   "-a_( -1/6)^1": 1
+  },
+  "by_sector": {
+   "(0, 1)": 6,
+   "(0, 5)": 5
+  },
+  "by_role": {
+   "uc": 2,
+   "ucbar": 2,
+   "Q": 1,
+   "Qbar": 1,
+   "ec": 3,
+   "ecbar": 2
+  },
+  "by_R": {
+   "17/90": 11
+  },
+  "by_B": {
+   "25/36": 11
+  },
+  "I1_ok": {
+   "true": 11
+  },
+  "distinct_cells": 11
+ }
+}
+
+10-ROLE DOUBLED CELLS: 0
+
+OSC 10-ROLE FIELDS (first 6):
+   {'model': 'MSSM1203', 'kl': [0, 1], 'fp': [0, 0, 0, 0, 0, 0], 'role': 'uc', 'osc': '-a_( -1/6)^(-3)', 'mode_sum': '1/6', 'B': '25/36', 'R': '17/90', 'I1_ok': True}
+   {'model': 'MSSM1203', 'kl': [0, 5], 'fp': [0, 0, 0, 0, 0, 0], 'role': 'ucbar', 'osc': '-a_( -1/6)^(-1)', 'mode_sum': '1/6', 'B': '25/36', 'R': '17/90', 'I1_ok': True}
+   {'model': 'MSSM1265', 'kl': [0, 1], 'fp': [0, 0, 0, 0, 0, 0], 'role': 'Q', 'osc': '-a_( -1/6)^(-3)', 'mode_sum': '1/6', 'B': '25/36', 'R': '17/90', 'I1_ok': True}
+   {'model': 'MSSM1265', 'kl': [0, 5], 'fp': [0, 0, 0, 0, 0, 0], 'role': 'Qbar', 'osc': '-a_( -1/6)^(-1)', 'mode_sum': '1/6', 'B': '25/36', 'R': '17/90', 'I1_ok': True}
+   {'model': 'MSSM1553', 'kl': [0, 1], 'fp': [0, 0, 0, 0, 0, 0], 'role': 'ec', 'osc': '-a_( -1/6)^(-3)', 'mode_sum': '1/6', 'B': '25/36', 'R': '17/90', 'I1_ok': True}
+   {'model': 'MSSM1553', 'kl': [0, 5], 'fp': [0, 0, 0, 0, 0, 0], 'role': 'ecbar', 'osc': '-a_( -1/6)^(-1)', 'mode_sum': '1/6', 'B': '25/36', 'R': '17/90', 'I1_ok': True}

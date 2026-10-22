@@ -1,0 +1,10 @@
+# Every file in this deposit is checksummed in CHECKSUMS.sha256, so no file may have
+# its bytes rewritten on checkout.  `-text` disables end-of-line conversion for all
+# paths, which is what makes `sha256sum -c CHECKSUMS.sha256` verify on Windows clones
+# as well as on Linux and macOS ones.  Without it, a clone with core.autocrlf=true
+# would receive CRLF copies of every text file and every checksum would fail.
+#
+# It also matters beyond the checksums: z24sw_lib.py records the SHA-256 and byte count
+# of the Z2xZ4_1_1 catalogue file, and z2xz4_sweep/selftest.py check S11 verifies them.
+# A CRLF-converted checkout would fail that check.
+* -text

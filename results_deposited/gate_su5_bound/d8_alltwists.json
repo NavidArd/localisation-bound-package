@@ -1,0 +1,503 @@
+{
+ "_meta": {
+  "geometry_dir": "F:\\physics\\orbifolder-1.2.1\\Geometry",
+  "n_files": 138,
+  "n_distinct_point_groups": 17
+ },
+ "point_groups": [
+  {
+   "point_group": [
+    2,
+    2
+   ],
+   "twists": [
+    [
+     "0",
+     "1/2",
+     "-1/2"
+    ],
+    [
+     "1/2",
+     "0",
+     "-1/2"
+    ]
+   ],
+   "example_file": "Geometry_Z2xZ2_10_1.txt",
+   "n_files": 35,
+   "n_twisted": 3,
+   "n_sectors_permitting_10_doubling": 0,
+   "failing_sectors": []
+  },
+  {
+   "point_group": [
+    2,
+    4
+   ],
+   "twists": [
+    [
+     "0",
+     "1/2",
+     "-1/2"
+    ],
+    [
+     "1/4",
+     "0",
+     "-1/4"
+    ]
+   ],
+   "example_file": "Geometry_Z2xZ4_10_1.txt",
+   "n_files": 41,
+   "n_twisted": 7,
+   "n_sectors_permitting_10_doubling": 0,
+   "failing_sectors": []
+  },
+  {
+   "point_group": [
+    2,
+    6
+   ],
+   "twists": [
+    [
+     "0",
+     "1/2",
+     "-1/2"
+    ],
+    [
+     "1/6",
+     "1/6",
+     "-1/3"
+    ]
+   ],
+   "example_file": "Geometry_Z2xZ6-II_1_1.txt",
+   "n_files": 4,
+   "n_twisted": 11,
+   "n_sectors_permitting_10_doubling": 0,
+   "failing_sectors": []
+  },
+  {
+   "point_group": [
+    2,
+    6
+   ],
+   "twists": [
+    [
+     "0",
+     "1/2",
+     "-1/2"
+    ],
+    [
+     "1/6",
+     "0",
+     "-1/6"
+    ]
+   ],
+   "example_file": "Geometry_Z2xZ6-I_1_1.txt",
+   "n_files": 4,
+   "n_twisted": 11,
+   "n_sectors_permitting_10_doubling": 2,
+   "failing_sectors": [
+    {
+     "k": 0,
+     "l": 1,
+     "eta": [
+      "1/6",
+      "0",
+      "5/6"
+     ],
+     "delta_c": "5/36",
+     "B": "31/36",
+     "n_unrotated_planes": 1
+    },
+    {
+     "k": 0,
+     "l": 5,
+     "eta": [
+      "5/6",
+      "0",
+      "1/6"
+     ],
+     "delta_c": "5/36",
+     "B": "31/36",
+     "n_unrotated_planes": 1
+    }
+   ]
+  },
+  {
+   "point_group": [
+    3,
+    1
+   ],
+   "twists": [
+    [
+     "1/3",
+     "1/3",
+     "-2/3"
+    ]
+   ],
+   "example_file": "Geometry_Z3_1_1.txt",
+   "n_files": 1,
+   "n_twisted": 2,
+   "n_sectors_permitting_10_doubling": 0,
+   "failing_sectors": []
+  },
+  {
+   "point_group": [
+    3,
+    3
+   ],
+   "twists": [
+    [
+     "0",
+     "1/3",
+     "-1/3"
+    ],
+    [
+     "1/3",
+     "0",
+     "-1/3"
+    ]
+   ],
+   "example_file": "Geometry_Z3xZ3_1_1.txt",
+   "n_files": 15,
+   "n_twisted": 8,
+   "n_sectors_permitting_10_doubling": 0,
+   "failing_sectors": []
+  },
+  {
+   "point_group": [
+    3,
+    6
+   ],
+   "twists": [
+    [
+     "0",
+     "1/3",
+     "-1/3"
+    ],
+    [
+     "1/6",
+     "0",
+     "-1/6"
+    ]
+   ],
+   "example_file": "Geometry_Z3xZ6_1_1.txt",
+   "n_files": 4,
+   "n_twisted": 17,
+   "n_sectors_permitting_10_doubling": 2,
+   "failing_sectors": [
+    {
+     "k": 0,
+     "l": 1,
+     "eta": [
+      "1/6",
+      "0",
+      "5/6"
+     ],
+     "delta_c": "5/36",
+     "B": "31/36",
+     "n_unrotated_planes": 1
+    },
+    {
+     "k": 0,
+     "l": 5,
+     "eta": [
+      "5/6",
+      "0",
+      "1/6"
+     ],
+     "delta_c": "5/36",
+     "B": "31/36",
+     "n_unrotated_planes": 1
+    }
+   ]
+  },
+  {
+   "point_group": [
+    4,
+    1
+   ],
+   "twists": [
+    [
+     "1/4",
+     "1/4",
+     "-1/2"
+    ]
+   ],
+   "example_file": "Geometry_Z4_1_1.txt",
+   "n_files": 3,
+   "n_twisted": 3,
+   "n_sectors_permitting_10_doubling": 0,
+   "failing_sectors": []
+  },
+  {
+   "point_group": [
+    4,
+    4
+   ],
+   "twists": [
+    [
+     "0",
+     "1/4",
+     "-1/4"
+    ],
+    [
+     "1/4",
+     "0",
+     "-1/4"
+    ]
+   ],
+   "example_file": "Geometry_Z4xZ4_1_1.txt",
+   "n_files": 15,
+   "n_twisted": 15,
+   "n_sectors_permitting_10_doubling": 0,
+   "failing_sectors": []
+  },
+  {
+   "point_group": [
+    6,
+    1
+   ],
+   "twists": [
+    [
+     "1/6",
+     "1/3",
+     "-1/2"
+    ]
+   ],
+   "example_file": "Geometry_Z6-II_1_1.txt",
+   "n_files": 4,
+   "n_twisted": 5,
+   "n_sectors_permitting_10_doubling": 0,
+   "failing_sectors": []
+  },
+  {
+   "point_group": [
+    6,
+    1
+   ],
+   "twists": [
+    [
+     "1/6",
+     "1/6",
+     "-1/3"
+    ]
+   ],
+   "example_file": "Geometry_Z6-I_1_1.txt",
+   "n_files": 2,
+   "n_twisted": 5,
+   "n_sectors_permitting_10_doubling": 0,
+   "failing_sectors": []
+  },
+  {
+   "point_group": [
+    6,
+    6
+   ],
+   "twists": [
+    [
+     "0",
+     "1/6",
+     "-1/6"
+    ],
+    [
+     "1/6",
+     "0",
+     "-1/6"
+    ]
+   ],
+   "example_file": "Geometry_Z6xZ6_1_1.txt",
+   "n_files": 1,
+   "n_twisted": 35,
+   "n_sectors_permitting_10_doubling": 6,
+   "failing_sectors": [
+    {
+     "k": 0,
+     "l": 1,
+     "eta": [
+      "1/6",
+      "0",
+      "5/6"
+     ],
+     "delta_c": "5/36",
+     "B": "31/36",
+     "n_unrotated_planes": 1
+    },
+    {
+     "k": 0,
+     "l": 5,
+     "eta": [
+      "5/6",
+      "0",
+      "1/6"
+     ],
+     "delta_c": "5/36",
+     "B": "31/36",
+     "n_unrotated_planes": 1
+    },
+    {
+     "k": 1,
+     "l": 0,
+     "eta": [
+      "0",
+      "1/6",
+      "5/6"
+     ],
+     "delta_c": "5/36",
+     "B": "31/36",
+     "n_unrotated_planes": 1
+    },
+    {
+     "k": 1,
+     "l": 5,
+     "eta": [
+      "5/6",
+      "1/6",
+      "0"
+     ],
+     "delta_c": "5/36",
+     "B": "31/36",
+     "n_unrotated_planes": 1
+    },
+    {
+     "k": 5,
+     "l": 0,
+     "eta": [
+      "0",
+      "5/6",
+      "1/6"
+     ],
+     "delta_c": "5/36",
+     "B": "31/36",
+     "n_unrotated_planes": 1
+    },
+    {
+     "k": 5,
+     "l": 1,
+     "eta": [
+      "1/6",
+      "5/6",
+      "0"
+     ],
+     "delta_c": "5/36",
+     "B": "31/36",
+     "n_unrotated_planes": 1
+    }
+   ]
+  },
+  {
+   "point_group": [
+    7,
+    1
+   ],
+   "twists": [
+    [
+     "1/7",
+     "2/7",
+     "-3/7"
+    ]
+   ],
+   "example_file": "Geometry_Z7_1_1.txt",
+   "n_files": 1,
+   "n_twisted": 6,
+   "n_sectors_permitting_10_doubling": 0,
+   "failing_sectors": []
+  },
+  {
+   "point_group": [
+    8,
+    1
+   ],
+   "twists": [
+    [
+     "1/8",
+     "3/8",
+     "-1/2"
+    ]
+   ],
+   "example_file": "Geometry_Z8-II_1_1.txt",
+   "n_files": 2,
+   "n_twisted": 7,
+   "n_sectors_permitting_10_doubling": 0,
+   "failing_sectors": []
+  },
+  {
+   "point_group": [
+    8,
+    1
+   ],
+   "twists": [
+    [
+     "1/8",
+     "1/4",
+     "-3/8"
+    ]
+   ],
+   "example_file": "Geometry_Z8-I_1_1.txt",
+   "n_files": 3,
+   "n_twisted": 7,
+   "n_sectors_permitting_10_doubling": 0,
+   "failing_sectors": []
+  },
+  {
+   "point_group": [
+    12,
+    1
+   ],
+   "twists": [
+    [
+     "1/12",
+     "5/12",
+     "-1/2"
+    ]
+   ],
+   "example_file": "Geometry_Z12-II_1_1.txt",
+   "n_files": 1,
+   "n_twisted": 11,
+   "n_sectors_permitting_10_doubling": 2,
+   "failing_sectors": [
+    {
+     "k": 2,
+     "l": 0,
+     "eta": [
+      "1/6",
+      "5/6",
+      "0"
+     ],
+     "delta_c": "5/36",
+     "B": "31/36",
+     "n_unrotated_planes": 1
+    },
+    {
+     "k": 10,
+     "l": 0,
+     "eta": [
+      "5/6",
+      "1/6",
+      "0"
+     ],
+     "delta_c": "5/36",
+     "B": "31/36",
+     "n_unrotated_planes": 1
+    }
+   ]
+  },
+  {
+   "point_group": [
+    12,
+    1
+   ],
+   "twists": [
+    [
+     "1/12",
+     "1/3",
+     "-5/12"
+    ]
+   ],
+   "example_file": "Geometry_Z12-I_1_1.txt",
+   "n_files": 2,
+   "n_twisted": 11,
+   "n_sectors_permitting_10_doubling": 0,
+   "failing_sectors": []
+  }
+ ]
+}

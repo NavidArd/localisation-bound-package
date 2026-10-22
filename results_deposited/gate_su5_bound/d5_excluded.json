@@ -1,0 +1,377 @@
+{
+ "Z2xZ4_1_1": {
+  "loaded": 11540,
+  "own_blocks": 11540,
+  "lib_blocks": 11540,
+  "ok": 10925,
+  "excl_any_cfg_closes": 599,
+  "excl_cfg0_no_generator": 0,
+  "skip": {
+   "closure_failed": 615
+  },
+  "excl_kY": {
+   "5/3": 615
+  },
+  "excl_ncfg": {
+   "2": 584,
+   "1": 16,
+   "4": 15
+  },
+  "excl_kY_by_ncfg": {
+   "ncfg=2|5/3": 584,
+   "ncfg=1|5/3": 16,
+   "ncfg=4|5/3": 15
+  },
+  "ok_kY": {
+   "5/3": 10925
+  },
+  "n_distinct_labels": 11540,
+  "duplicate_labels": 0,
+  "duplicate_label_examples": [],
+  "excl_examples": [
+   {
+    "model": "MSSM1",
+    "file": "census_seg0.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     14
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM54",
+    "file": "census_seg0.txt.gz",
+    "n_cfg": 1,
+    "kY": [
+     "5/3"
+    ],
+    "rows": [
+     0
+    ],
+    "later_cfg_closes": false
+   },
+   {
+    "model": "MSSM202",
+    "file": "census_seg1.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     14
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM244",
+    "file": "census_seg1.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     13
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM2125",
+    "file": "census_seg10.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     13
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM2146",
+    "file": "census_seg10.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     13
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM2204",
+    "file": "census_seg11.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     15
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM2225",
+    "file": "census_seg11.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     13
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM2428",
+    "file": "census_seg12.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     13
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM2439",
+    "file": "census_seg12.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     13
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM2638",
+    "file": "census_seg13.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     15
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM2644",
+    "file": "census_seg13.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     13
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM2808",
+    "file": "census_seg14.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     13
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM2820",
+    "file": "census_seg14.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     13
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM3031",
+    "file": "census_seg15.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     13
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM3049",
+    "file": "census_seg15.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     13
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM3206",
+    "file": "census_seg16.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     14
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM3210",
+    "file": "census_seg16.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     15
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM3424",
+    "file": "census_seg17.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     13
+    ],
+    "later_cfg_closes": true
+   },
+   {
+    "model": "MSSM3453",
+    "file": "census_seg17.txt.gz",
+    "n_cfg": 2,
+    "kY": [
+     "5/3",
+     "5/3"
+    ],
+    "rows": [
+     0,
+     11
+    ],
+    "later_cfg_closes": true
+   }
+  ],
+  "accounting_ok": true
+ },
+ "Z3xZ6_1_1": {
+  "loaded": 4622,
+  "own_blocks": 4622,
+  "lib_blocks": 4622,
+  "ok": 4620,
+  "excl_any_cfg_closes": 0,
+  "excl_cfg0_no_generator": 0,
+  "skip": {
+   "closure_failed": 2
+  },
+  "excl_kY": {
+   "5/3": 2
+  },
+  "excl_ncfg": {
+   "1": 2
+  },
+  "excl_kY_by_ncfg": {
+   "ncfg=1|5/3": 2
+  },
+  "ok_kY": {
+   "5/3": 4620
+  },
+  "n_distinct_labels": 4612,
+  "duplicate_labels": 10,
+  "duplicate_label_examples": [
+   "MSSM0",
+   "MSSM1",
+   "MSSM2",
+   "MSSM3",
+   "MSSM4",
+   "MSSM5",
+   "MSSM6",
+   "MSSM7",
+   "MSSM8",
+   "MSSM9"
+  ],
+  "excl_examples": [
+   {
+    "model": "MSSM2669",
+    "file": "census_seg26.txt.gz",
+    "n_cfg": 1,
+    "kY": [
+     "5/3"
+    ],
+    "rows": [
+     32
+    ],
+    "later_cfg_closes": false
+   },
+   {
+    "model": "MSSM825",
+    "file": "census_seg8.txt.gz",
+    "n_cfg": 1,
+    "kY": [
+     "5/3"
+    ],
+    "rows": [
+     32
+    ],
+    "later_cfg_closes": false
+   }
+  ],
+  "accounting_ok": true
+ }
+}
