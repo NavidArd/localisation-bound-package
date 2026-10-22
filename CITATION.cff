@@ -4,10 +4,10 @@ title: >-
   representations in heterotic orbifolds"
 message: >-
   If you use this package, please cite both the package and the accompanying
-  paper. NOTE: the DOI field below is a PLACEHOLDER and does not yet resolve --
-  see the `doi-status` note under `identifiers`.
+  paper.
 type: dataset
 version: "2.2"
+doi: 10.5281/zenodo.23575403
 date-released: "2026-10-22"
 authors:
   - family-names: Ardakanian
@@ -42,16 +42,9 @@ license: CC-BY-4.0
 license-url: "https://creativecommons.org/licenses/by/4.0/"
 
 identifiers:
-  - type: other
-    value: "DOI NOT YET ASSIGNED"
-    description: >-
-      PLACEHOLDER. No DOI has been minted for version 2.2 of this package. It
-      will be created at the Zenodo release, and this file must be updated with
-      the real value before the package is cited anywhere. Do NOT reuse the DOI
-      of any earlier package: 10.5281/zenodo.21917404 identifies version 1.0 of
-      the reproduction package for a DIFFERENT paper (a selection-rule and
-      decoupling audit of a heterotic Z3 x Z3 vacuum) and is not a valid
-      citation for this work.
+  - type: doi
+    value: "10.5281/zenodo.23575403"
+    description: Version DOI of this package (v2.2), minted at Zenodo.
 
 references:
   - type: article
